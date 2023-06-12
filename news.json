@@ -1,6 +1,36 @@
-[
-    {
-        "name": "Deez",
-        "lastname": "Nuts"
-    },
-]
+{
+    "items": [
+
+        {
+            "image": "https://cdn.discordapp.com/attachments/941314785956462643/1073435859837272094/forupdate2.png",
+            "header": "2.7 Outdoors Update Has Arrived!",
+            "content": "This Update includes New Hunting Script, New Fishing Script, Cooking Update w/new buffs, Newpickable plants [Herbs], Treasure Maps, Reworked Treasure Chests, New Trucking Job, New Boats, New Gang War System"
+        },
+        
+        {
+            "image": "https://cdn.discordapp.com/attachments/941314785956462643/1037013864266612757/unknown_2.png",
+            "header": "Custom DBD script is now live in beta testing!",
+            "content": "Enjoy playing the first DBD script ever in FiveM made by our Development Team! You will be able to play as killer or as survivor, repair the generators, get hooked and escape!"
+        },
+
+        {
+            "image": "https://cdn.discordapp.com/attachments/941314785956462643/1037014388009345125/unknown_5.png",
+            "header": "Viper is In full support of Breast Cancer Awareness ! #BACK THE PINK 💗",
+            "contect": " Show your support by rocking pink on everything, BCA Promo Truck & BCA M4 available on Tebex!"
+        },
+
+        {
+            "image": "",
+            "header": "Vipers Spooky Season Has Launched!!!",
+            "content": "There will be many activity's happening throughout the month of October. We will let you know about  the key parts. There will be 10+ Planned spooky events where you will have the chance to win Spooky Coins. These coins will be usable in the Spooky Store near the end of the month The spooky store will contain Special Edition Guns and other fun prizes. This is just a taste of what we have in store."
+        },
+
+        {
+            "image": "",
+            "header": "test",
+            "content": "Car Dealerships (Player owned) are now live on tebex, This is something we have been HOUNDED about so we finally got around to knocking it out, pretty damn cool setup. Open a ticket before purchasing.\n~Limited Supply~"
+        }
+
+    ]
+
+}
