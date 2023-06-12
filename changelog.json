@@ -9,7 +9,7 @@
   },
 
   {
-    "12/05/2022":,
+    "date": "12/05/2022",
     "changes": [
       "Moved the death message from bottom to the top of the screen"
     ]
