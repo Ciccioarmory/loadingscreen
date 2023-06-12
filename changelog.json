@@ -2,14 +2,16 @@
   "items": [
   
   {
-    "date":,
+    "date": "2/10/2023",
     "changes": [
+     "2.7 Outdoors Update Has Arrived! This Update includes New Hunting Script, New Fishing Script, Cooking Update w/new buffs, New pickable plants [Herbs], Treasure Maps, Reworked Treasure Chests, New Trucking Job, New Boats, New Gang War System"
     ]
   },
 
   {
-    "date":,
+    "12/05/2022":,
     "changes": [
+      "Moved the death message from bottom to the top of the screen"
     ]
   },
   
