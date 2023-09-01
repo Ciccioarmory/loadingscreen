@@ -1,10 +1,12 @@
 {
     "items": [
+
         {
-            "date": "9/1/2023",
-            "changes": [
-                "Viper 3.0 Update Has Arrived! This Update includes numerous new features and content! Please see our Discord server for more information."
-            ]
+            "image": "https://media.discordapp.net/attachments/1118010661922951279/1147300179876253876/ViperFiveMBanner.png",
+            "header": "Viper 3.0 Update Has Arrived!",
+            "content": "This Update includes numerous new features and content! Please see our Discord server for more information."
         }
+
     ]
+
 }
