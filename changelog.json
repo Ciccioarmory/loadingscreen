@@ -1,85 +1,9 @@
 {
     "items": [
         {
-            "date": "2/10/2023",
+            "date": "9/1/2023",
             "changes": [
-                "2.7 Outdoors Update Has Arrived! This Update includes New Hunting Script, New Fishing Script, Cooking Update w/new buffs, New pickable plants [Herbs], Treasure Maps, Reworked Treasure Chests, New Trucking Job, New Boats, New Gang War System"
-            ]
-        },
-        {
-            "date": "12/05/2022",
-            "changes": [
-                "Moved the death message from bottom to the top of the screen"
-            ]
-        },
-        {
-            "date": "11/27/2022",
-            "changes": [
-                "Fixed the scrapyard email"
-            ]
-        },
-        {
-            "date": "11/10/2022",
-            "changes": [
-                "Fixed a bug that regened health after a command",
-                "PD Updated pushed Divisions are live",
-                "Added City Cam Access to Rockford hills pd",
-                "Added improved PD Heli Cam w/Spotlight",
-                "Lowered garage transfer fee by 50%",
-                "Pushed Hotfixes for car boosting",
-                "Crafting benches xp has been completely reworked and buffed after tons of feedback almost 10x more xp gains",
-                "Crafting will be monitored after these changes and may be altered more in the future, your honest feedback will be greatly appreciated"
-            ]
-        },
-        {
-            "date": "10/7/2022",
-            "changes": [
-                "Fixed 10-99 for PD",
-                "Added sounds for 10-99 alerts for PD",
-                "Added the 2 new MLO'S for PD, Rockford Hills PD and the Paleto Bay Sheriff's Office",
-                "Added 2 new cars to PD Garages",
-                "Added boat PD Garages",
-                "Changed loading screen images order",
-                "Replaced sling script with a new one",
-                "Updated the pause menu, new logo, new colors and new tebex button!"
-            ]
-        },
-        {
-            "date": "10/5/2022",
-            "changes": [
-                "Now if you are not on your side or on your back while getting cuffed you will recieve a skillcheck and if you do it right you escape from cuffs!",
-                "Fixed radio exploits"
-            ]
-        },
-        {
-            "date": "10/3/2022",
-            "changes": [
-                "Now while holding a knife you can third eye car tires and slash them!"
-            ]
-        },
-        {
-            "date": "09/22/2022",
-            "changes": [
-                " Reworked and optimize the tackle, now the default button is G and you can change it as you wish in the keybindings!"
-            ]
-        },
-        {
-            "date": "09/15/2022",
-            "changes": [
-                "When you die or get cuffed you now get kicked out of radio",
-                "Fixed the spam of the disable radio when you die"
-            ]
-        },
-        {
-            "date": " 09/03/2022",
-            "changes": [
-                "Fixed Airdrops"
-            ]
-        },
-        {
-            "date": "12/05/2022",
-            "changes": [
-                "Moved the death message from bottom to the top of the screen"
+                "Viper 3.0 Update Has Arrived! This Update includes numerous new features and content! Please see our Discord server for more information."
             ]
         }
     ]
