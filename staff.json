@@ -26,14 +26,19 @@
             "name": "Dwayne"
         },
         {
-            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1118010995143626853/rob.png?width=550&height=550",
+            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1147289734457065613/liz.png",
             "position": "Head Admin",
-            "name": "Rob"
+            "name": "Liz"
         },
         {
-            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1118010988101373952/lo.png?width=550&height=550",
+            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1147289735417577556/rue.png",
+            "position": "Head Admin",
+            "name": "Rue"
+        },
+        {
+            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1118010976176975982/dog.png?width=550&height=550",
             "position": "Senior Admin",
-            "name": "Lo"
+            "name": "Dog"
         },
         {
             "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1118010977473007677/frank.png?width=550&height=550",
@@ -42,7 +47,7 @@
         },
         {
             "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1118010978169262130/heath.png?width=550&height=550",
-            "position": "Lead Graphic Designer",
+            "position": "Lead Graphics",
             "name": "Heath"
         },
         {
@@ -51,24 +56,79 @@
             "name": "Ricky"
         },
         {
-            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1118010961018757120/amy.png?width=550&height=550",
+            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1118010987753242746/Liam.png?width=550&height=550",
+            "position": "Developer",
+            "name": "Liam"
+        },
+        {
+            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1147290402441936977/image.png",
+            "position": "Developer",
+            "name": "Alter"
+        },
+        {
+            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1147289735115571220/placeholder.png",
+            "position": "Videographer",
+            "name": "MRD"
+        },
+        {
+            "imageLink": "https://cdn.discordapp.com/attachments/1118010661922951279/1147289295846113300/amy.png",
             "position": "Admin",
             "name": "Amy"
         },
         {
-            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1118010995567243426/tommy.png?width=550&height=550",
+            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1118010963552116856/deviltyler.png?width=550&height=550",
             "position": "Admin",
+            "name": "Tyler A"
+        },
+        {
+            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1118010976898396301/Ellen.png?width=550&height=550",
+            "position": "Admin",
+            "name": "Ellen"
+        },
+        {
+            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1118010977787588638/FrankJ.png",
+            "position": "Admin",
+            "name": "Frank Jr"
+        },
+        {
+            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1147289735115571220/placeholder.png",
+            "position": "Admin",
+            "name": "Bray"
+        },
+        {
+            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1147289735115571220/placeholder.png",
+            "position": "Admin",
+            "name": "Rod"
+        },
+        {
+            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1147289735115571220/placeholder.png",
+            "position": "Admin",
+            "name": "Miguel"
+        },
+        {
+            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1118010995567243426/tommy.png?width=550&height=550",
+            "position": "Moderator",
             "name": "Tommy"
         },
         {
-            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1118010976176975982/dog.png?width=550&height=550",
-            "position": "Admin",
-            "name": "Dog"
+            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1147289734159274064/jams.png",
+            "position": "Moderator",
+            "name": "Jams"
         },
         {
-            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1118010963552116856/deviltyler.png?width=550&height=550",
-            "position": "Admin",
-            "name": "Tyler"
+            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1147289735115571220/placeholder.png",
+            "position": "Moderator",
+            "name": "Ash"
+        },
+        {
+            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1147289735115571220/placeholder.png",
+            "position": "Moderator",
+            "name": "Rob"
+        },
+        {
+            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1147289735115571220/placeholder.png",
+            "position": "Moderator",
+            "name": "Tyler G"
         },
         {
             "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1118010986700472421/merlin.png?width=550&height=550",
@@ -76,34 +136,34 @@
             "name": "Merlin"
         },
         {
-            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1118010976898396301/Ellen.png?width=550&height=550",
-            "position": "Moderator",
-            "name": "Ellen"
-        },
-        {
-            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1118010987090546838/myles.png?width=550&height=550",
-            "position": "Moderator",
-            "name": "Myles"
-        },
-        {
-            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1118010987753242746/Liam.png?width=550&height=550",
-            "position": "Developer",
-            "name": "Liam Reed"
-        },
-        {
-            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1118010977473007677/frank.png?width=550&height=550",
-            "position": "Moderator",
-            "name": "Frank Jr"
-        },
-        {
-            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1118010961769537636/berry.png?width=550&height=550",
-            "position": "Moderator",
-            "name": "Berry "
-        },
-        {
             "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1118010985748369539/Mari.png?width=550&height=550",
-            "position": "Discord Mod",
+            "position": "Staff Support",
             "name": "Mari"
+        },
+        {
+            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1147289735115571220/placeholder.png",
+            "position": "Staff Support",
+            "name": "Carlos"
+        },
+        {
+            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1147289735115571220/placeholder.png",
+            "position": "Staff Support",
+            "name": "AJ"
+        },
+        {
+            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1118010988101373952/lo.png?width=550&height=550",
+            "position": "Discord Mod",
+            "name": "Lo"
+        },
+        {
+            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1147289735115571220/placeholder.png",
+            "position": "Discord Mod",
+            "name": "Mick"
+        },
+        {
+            "imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1147289735115571220/placeholder.png",
+            "position": "Discord Mod",
+            "name": "Plooshie"
         }
     ]
 }
