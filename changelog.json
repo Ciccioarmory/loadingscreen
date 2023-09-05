@@ -1,6 +1,17 @@
 {
     "items": [
         {
+            "date": "9/5/2023",
+            "changes": [
+                "Fixed Boss Menus not firing employees correctly",
+                "Fixed radial menu not opening while being dead and on EMS",
+                "Fixed PD spikestrips, item re added",
+                "Fixed bandages",
+                "Removed shots fired calls from KOS for PD",
+                "Removed Jobs app from the phone"
+            ]
+        },
+        {
             "date": "9/1/2023",
             "changes": [
                 "Viper 3.0 Update Has Arrived! This Update includes numerous new features and content! Please see our Discord server for more information."
