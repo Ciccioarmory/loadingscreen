@@ -1,6 +1,27 @@
 {
     "items": [
         {
+            "date": "9/6/2023",
+            "changes": [
+                "Fixed vehicles going to the void after a vehicle wipe, now they will go to the impound!",
+                "Removed cruise control due to exploits",
+                "Fixed decay on a couple of items",
+                "Fixed the boat alarm bug, where the alarm didn't stop after successfully hot-wiring.",
+                "Fixed Petrol Can infinite ammo and never removing Bug",
+                "Fixed Mech Bays for Sport Racing Mechanic",
+                "Fixed MDT incidents not saving for PD if the incident details or title were too long",
+                "Fixed PD spawn at RHPD",
+                "Fixed Diving suit",
+                "Fixed a server side error on the delivery job",
+                "Raised the price of the verified on Squawk",
+                "Removed a bunch of test commands",
+                "Fixed logout button inside the apartments",
+                "Fixed an exploit with the Emote Menu",
+                "Fixed the garage near the airport",
+                "Re added the boss menu for Otto's Mechanic"
+            ]
+        },
+        {
             "date": "9/5/2023",
             "changes": [
                 "Fixed Boss Menus not firing employees correctly",
