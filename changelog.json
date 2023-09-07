@@ -1,6 +1,14 @@
 {
     "items": [
         {
+            "date": "9/7/2023",
+            "changes": [
+                "Fixed squawk verified not saying it costs 100k",
+                "Actually fixed the Diving Gear",
+                "Fixed PD being able to jail people while they're already in jail"
+            ]
+        },
+        {
             "date": "9/6/2023",
             "changes": [
                 "Fixed vehicles going to the void after a vehicle wipe, now they will go to the impound!",
