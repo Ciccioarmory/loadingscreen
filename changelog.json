@@ -1,6 +1,12 @@
 {
     "items": [
         {
+            "date": "9/8/2023",
+            "changes": [
+                "Decreased the rate at which hunger/thirst goes down, making it take longer to starve"
+            ]
+        },
+        {
             "date": "9/7/2023",
             "changes": [
                 "Fixed squawk verified not saying it costs 100k",
