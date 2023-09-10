@@ -1,6 +1,13 @@
 {
     "items": [
         {
+            "date": "9/9/2023",
+            "changes": [
+                "Fixed an error with the art gallery heist",
+                "Replaced 'Press E to respawn' with 'Press E to call a doctor', which sends an NPC ped to revive you when there's no EMS online"
+            ]
+        },
+        {
             "date": "9/8/2023",
             "changes": [
                 "Decreased the rate at which hunger/thirst goes down, making it take longer to starve"
