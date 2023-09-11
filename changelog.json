@@ -4,7 +4,10 @@
             "date": "9/9/2023",
             "changes": [
                 "Fixed an error with the art gallery heist",
-                "Replaced 'Press E to respawn' with 'Press E to call a doctor', which sends an NPC ped to revive you when there's no EMS online"
+                "Replaced 'Press E to respawn' with 'Press E to call a doctor', which sends an NPC ped to revive you when there's no EMS online",
+                "Major Bug fixes to house robbery, T1 Houses should now spawn, Rare Loot Spawns have been slightly increased",
+                "Slightly Modified loot drops for Fleeca Bank Robbery, Fixed Small Bugs with fleeca bank, Added additional rare loot drops to fleeca banks",
+                "Changed the Respond Button on the Dispatch to 'E' instead of 'G' (You might need to rebind it!)"
             ]
         },
         {
