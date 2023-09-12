@@ -1,6 +1,14 @@
 {
     "items": [
         {
+            "date": "9/11/2023",
+            "changes": [
+                "Disabled collisions on gas pumps",
+                "Disable Hip-fire to fix exploit",
+                "Disabled VDM (you no longer take damage from vehicles)"
+            ]
+        },
+        {
             "date": "9/9/2023",
             "changes": [
                 "Fixed an error with the art gallery heist",
