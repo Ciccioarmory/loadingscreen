@@ -5,7 +5,8 @@
             "changes": [
                 "Disabled collisions on gas pumps",
                 "Disable Hip-fire to fix exploit",
-                "Disabled VDM (you no longer take damage from vehicles)"
+                "Disabled VDM (you no longer take damage from vehicles)",
+                "Fixed several bugs involving vehicle damage (please report ones you find)"
             ]
         },
         {
