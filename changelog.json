@@ -1,6 +1,15 @@
 {
     "items": [
         {
+            "date": "9/13/2023",
+            "changes": [
+                "Fixed the server status bot, now the channel〘🌊〙𝘚𝘦𝘳𝘷𝘦𝘳-𝘚𝘵𝘢𝘵𝘶𝘴 will be updated every minute!",
+                "Fixed garages, now the personal pd and ems cars can be parked!",
+                "Fixed Mech Bays for Sport Inside Track Mechanic",
+                "Fixed an exploit with reloading ammo"
+            ]
+        },
+        {
             "date": "9/11/2023",
             "changes": [
                 "Disabled collisions on gas pumps",
