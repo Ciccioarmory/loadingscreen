@@ -1,6 +1,20 @@
 {
     "items": [
         {
+            "date": "9/15/2023",
+            "changes": [
+                "Fixed 2 minor bugs for the Black Market",
+                "Reduced Black Market item prices significantly",
+                "Increased T2 House Robbery rare item spawn chance by 8%",
+                "Added Mechanic Crafting Benches to all current mechshops {w/additional exclusive craftable items}",
+                "Added Additional Bobcat Loot Drops and modified rare loot chances",
+                "Increased Drop chance for the following blueprints Forging = +10% , Tinker = +5%, Mk1 = +5%, Medstation = +2%, Mk2 = +1%",
+                "Added 1 new item to hardwarestore {i forgot to add this im sorry ❤️ - bobby}",
+                "Rusted car parts are now recyclable",
+                "Added custom Animations and Props to new Injectors"
+            ]
+        },
+        {
             "date": "9/14/2023",
             "changes": [
                 "DISABLED KEYFOB FOR CARS!",
