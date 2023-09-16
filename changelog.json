@@ -1,6 +1,23 @@
 {
     "items": [
         {
+            "date": "9/16/2023",
+            "changes": [
+                "Added a missing item to the Mechshop Crafting Benches {Advanced Toolset}",
+                "Recalibrated crafting cost for many Mechanic parts {Mostly decreased needed mats but a few items need a few more mats}",
+                "Fixed certain mechanic parts not being able to be stacked {majority of parts are now stackable}",
+                "Buffed payouts from Bank Truck robberies",
+                "Added 1 new rare item drop to Bank Truck robberies",
+                "Fixed the payout received notification to show the correct amount of items given for the Bank Truck robbery",
+                "Fixed a bug with the wrong duffel bag appearing on your character after robbing a Bank Truck",
+                "Major bug fix for contracts coming for Car Boosting [cops were not registering as online]",
+                "PD armory prices for essential equipment has been drastically reduced",
+                "FTO Cadet Starter Kit created and added to armory for FTOS only +",
+                "PD Grades 26 - 28 were added to the armory",
+                "Fixed a Major Exploit with car garages"
+            ]
+        },
+        {
             "date": "9/15/2023",
             "changes": [
                 "Fixed 2 minor bugs for the Black Market",
