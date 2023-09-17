@@ -1,6 +1,35 @@
 {
     "items": [
         {
+            "date": "9/17/2023",
+            "changes": [
+                "**Major Fixes:**",
+                "**Car Boosting:**",
+                "   Notable enhancements to C+ class crypto and cash payouts, reduced time to procure new contracts, and increased the capacity of deliverable contracts per tsunami.",
+                "   Updated the BMX bike from C to D class boost ('bobby had to leave this in for the memes' note).",
+                "**Tinker Bench: **",
+                "   Incorporated missing items at their accurate levels. Apologies, Bobby ❤️.",
+                "   Crafting cost of Thermite diminished.",
+                "**Auxiliary Changes:**",
+                "   Resolved issues with Steel Mill's menus. ",
+                "   Corrected an interaction UI color. ",
+                "   Addressed implausible low weight items (house robbery objects, mechanic parts). ",
+                "   Mended a glitch causing calls to off-duty PD and EMS. ",
+                "   Erased outdated 2.5 poly (Knock On Door).",
+                "   Resolved a fishing mechanic bug where the system failed to utilize or acknowledge available bait.",
+                "**Vehicle Damage:**",
+                "   Made several improvements:",
+                "  Corrected a glitch causing some vehicles to be impervious to damage.",
+                "  Addressed random stalls and enhanced consistency.",
+                "  Fixed a glitch allowing immediate restart after a stall (now requires waiting until the stall concludes).",
+                "  Added cascading failure (heavy damage will gradually cause vehicle to deteriorate).",
+                "CIU stashes can now be opened with necessary certification, addressing a previous bug.",
+                "Major change implemented to minimize daily car wipes, adjusting vehicle deletion times to every 2 hours (this is a trial adjustment and may be reversed if issues arise). ",
+                "Reinstated the Police HeliCam feature for superior surveillance and crime prevention in-game. Experience seamless gameplay and improved security measures.",
+                "Fixed vehicle speed limiter to not impact helicopters and planes, enhancing gameplay experience."
+            ]
+        },
+        {
             "date": "9/16/2023",
             "changes": [
                 "Added a missing item to the Mechshop Crafting Benches {Advanced Toolset}",
