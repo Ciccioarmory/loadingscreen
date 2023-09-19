@@ -1,6 +1,15 @@
 {
     "items": [
         {
+            "date": "9/19/2023",
+            "changes": [
+                "Fixed Jewelry Store Sell Ped Bug",
+                "Multiple Bug Fixes for weed planting script {please report if you find additional issues}",
+                "Added Additional holsters for PD",
+                "Re-added some teleports"
+            ]
+        },
+        {
             "date": "9/17/2023",
             "changes": [
                 "**Major Fixes:**",
