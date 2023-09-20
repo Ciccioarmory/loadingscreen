@@ -1,6 +1,23 @@
 {
     "items": [
         {
+            "date": "9/20/2023",
+            "changes": [
+                "Removed a Duplicate tape item",
+                "Fixed Mechanic bench crafting {lockpick}",
+                "Removed 1 Tinker bench craftable item {lockpick was moved to mechanic crafting only}",
+                "Removed 1 old 2.5 seed type from a drop table [white widow seed]",
+                "Revisited Boosting after some more feedback and increased the amount of contracts per session and slightly modified the intervals for when contracts should be received, and Slightly decreased crypto payouts [please continue to put in viable feedback regarding boosting <3]",
+                "Ammunation gun stores have 1 new craft able item [Factory New SMG Body]",
+                "Walther PPK ammunation pistols no longer require black diamonds to craft",
+                "Mk1/MK2 Crafting material reduction for many items",
+                "Forging crafting material reduction for many items",
+                "Applied new patches on the weed planting",
+                "Disabled some dev commands",
+                "Owned emergency vehicles should work with the new mechanics features"
+            ]
+        },
+        {
             "date": "9/19/2023",
             "changes": [
                 "Fixed Jewelry Store Sell Ped Bug",
