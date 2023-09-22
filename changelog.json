@@ -1,6 +1,13 @@
 {
     "items": [
         {
+            "date": "9/21/2023",
+            "changes": [
+                "Stashes issues should all now be resolved [fingers crossed please report additional issues]",
+                "Broken item in Heroin crafting was fixed"
+            ]
+        },
+        {
             "date": "9/20/2023",
             "changes": [
                 "Removed a Duplicate tape item",
