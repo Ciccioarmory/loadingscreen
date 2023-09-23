@@ -1,6 +1,18 @@
 {
     "items": [
         {
+            "date": "9/22/2023",
+            "changes": [
+                "Fixed an issue with the ingot crafting at the smithy table",
+                "Boosting has been updated [Bonus Experience Multipliers have been enabled]",
+                "Additional Changes were made to Boosting Generation Times [please continue to give boosting feedback]",
+                "Eels are now sellable",
+                "Fixed a spelling error on an EMS item",
+                "Fixed Heli Trunks",
+                "Re-added Shotta Speedway Bumpton Coins Item"
+            ]
+        },
+        {
             "date": "9/21/2023",
             "changes": [
                 "Stashes issues should all now be resolved [fingers crossed please report additional issues]",
