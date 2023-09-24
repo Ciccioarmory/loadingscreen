@@ -1,6 +1,18 @@
 {
     "items": [
         {
+            "date": "9/23/2023",
+            "changes": [
+                "Air Drop Chances have been slightly tweaked, an additional 3 items were added to airdrops",
+                "Reduced material cost for a couple of crafting items",
+                "Fixed the Tinker Crafting Bench",
+                "Reduced the weight of Blue tape and increased the weight of a couple other items to be more realistic",
+                "Changes made to xp of crafting benches you may notice a slight change in your xp bar {dont be alarmed}",
+                "Fixed an error with the itembox not showing up with heroin",
+                "Fixed some exploits with fishing"
+            ]
+        },
+        {
             "date": "9/22/2023",
             "changes": [
                 "Fixed an issue with the ingot crafting at the smithy table",
