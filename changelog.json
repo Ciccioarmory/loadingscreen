@@ -1,6 +1,21 @@
 {
     "items": [
         {
+            "date": "9/24/2023",
+            "changes": [
+                "Fixed an issue where purchasing the racing tablet in the boost section didn't result in actually receiving it. You should now receive your tablet as expected after purchase.",
+                "Fixed an issue with the third eye icon for grabbing papers",
+                "Fixed printer paper not being recieved",
+                "Fixed typo on mechanic menu from Confort suspension to Comfort suspension",
+                "Fixed Tuner mechanic parts menu",
+                "Partial refactor of qb-management and qb-cicicustom for the mechanics job detection",
+                "Fixed scoreboard police count for illegal activities",
+                "Fixed an exploit with the emotes",
+                "Added the anchor to the vehicle menu inside the radialmenu",
+                "Fixed issues regarding the fleeca banks"
+            ]
+        },
+        {
             "date": "9/23/2023",
             "changes": [
                 "Air Drop Chances have been slightly tweaked, an additional 3 items were added to airdrops",
