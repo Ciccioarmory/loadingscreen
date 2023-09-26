@@ -1,6 +1,19 @@
 {
     "items": [
         {
+            "date": "9/25/2023",
+            "changes": [
+                "Fixed an exploit with the emotes",
+                "Fixed the scrap yard",
+                "Fixed air hockey",
+                "Fixed some mechanic jobs that were missing crafting / scanner access",
+                "Changed the exploit detection for dispensary weed picking to an alert instead of a kick",
+                "Fixed the test drive button in the VIP import dealership",
+                "Fixed scoreboard police count for illegal activities",
+                "Removed Herobrine"
+            ]
+        },
+        {
             "date": "9/24/2023",
             "changes": [
                 "Fixed an issue where purchasing the racing tablet in the boost section didn't result in actually receiving it. You should now receive your tablet as expected after purchase.",
