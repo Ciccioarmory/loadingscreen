@@ -1,6 +1,18 @@
 {
     "items": [
         {
+            "date": "9/29/2023",
+            "changes": [
+                "Fixed the problem with the hands up",
+                "Fixed an exploit with meth",
+                "Added new hospital",
+                "Re added and fixed CMU Med Bag",
+                "Fixed Police garage for rank 28",
+                "Removed blank spaces from police armory",
+                "Overhaul of the police garage, it now uses the f1 menu"
+            ]
+        },
+        {
             "date": "9/25/2023",
             "changes": [
                 "Fixed an exploit with the emotes",
