@@ -1,6 +1,13 @@
 {
     "items": [
         {
+            "date": "9/30/2023",
+            "changes": [
+                "Updated loading screen with halloween content",
+                "Added different rentals on KOS"
+            ]
+        },
+        {
             "date": "9/29/2023",
             "changes": [
                 "Fixed the problem with the hands up",
