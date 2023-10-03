@@ -1,6 +1,17 @@
 {
     "items": [
         {
+            "date": "10/03/2023",
+            "changes": [
+                "Added 'Soul Shrine Battlepass'",
+                "Added Halloween Decorations around the city",
+                "Added New Halloween Themed loading screen w/skip buttons and a variety of songs!",
+                "Buffed payout from Fleeca Banks",
+                "Buffed Mining Drop rates [gemstone & mineral ore]",
+                "Major Changes & Big Buff to Steel Mills"
+            ]
+        },
+        {
             "date": "9/30/2023",
             "changes": [
                 "Updated loading screen with halloween content",
