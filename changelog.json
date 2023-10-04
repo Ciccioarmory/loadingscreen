@@ -1,6 +1,13 @@
 {
     "items": [
         {
+            "date": "10/04/2023",
+            "changes": [
+                "Re Added housing to the server",
+                "Fixed an exploit with tackling"
+            ]
+        },
+        {
             "date": "10/03/2023",
             "changes": [
                 "Added 'Soul Shrine Battlepass'",
