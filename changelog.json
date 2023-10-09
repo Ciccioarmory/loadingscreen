@@ -1,6 +1,16 @@
 {
     "items": [
         {
+            "date": "10/09/2023",
+            "changes": [
+                "Off-Duty Personnel will no longer show on the MDT",
+                "Names of On-Duty Personnel will now be sorted in the MDT",
+                "Added some new chains to the peds",
+                "Fixed a broken crafting table at the mirror park ammunation",
+                "Added a new weapon to another ammunation"
+            ]
+        },
+        {
             "date": "10/06/2023",
             "changes": [
                 "Changed hospital"
