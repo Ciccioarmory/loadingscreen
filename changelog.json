@@ -1,6 +1,32 @@
 {
     "items": [
         {
+            "date": "10/7/2023 - 10/10/2023",
+            "changes": [
+                "Fixed a bug with Steel Mills",
+                "Major Buffs to Steel Mills",
+                "Pushed a few bug fixes with Weed Planting",
+                "Fixed a Crafting Recipe which was showing a unknown item",
+                "Changes made to Oxy Run Script",
+                "Buffed things within the Oxy Run Script",
+                "Reduced weight of Diving Gear",
+                "Reduced weight of EMS first aid kits",
+                "Reduced prices @ Costco",
+                "Fixed ingredients for uWu Cafe & Wingstop that were overpriced",
+                "Increased Prices of gas station/store food and drink items to owner and customer",
+                "Nerfed Gas Station / Store  food and drink items they will now only give 25 food or drink",
+                "Removed Sling from city [could be temporary but is unknown at this time]",
+                "Made changes to Bank Truck robberies that should fix a couple bugs",
+                "Buffed Payouts for all Bank Truck Robberies",
+                "Heavily Reduced the Prices of Hardware Store Items",
+                "Heavily Reduced the Police Issued Fines for Crimes",
+                "Drugs/Gang Territory Buff",
+                "Buffed Plane Run chemicals given per run to 15",
+                "Buffed Plane Run chemicals taxed to 5 per run",
+                "Buffed Taxation stock of zones to 100"
+            ]
+        },
+        {
             "date": "10/06/2023",
             "changes": [
                 "Changed hospital"
