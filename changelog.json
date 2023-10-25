@@ -1,6 +1,37 @@
 {
     "items": [
         {
+            "date": "10/10/2023 - 10/24/2023",
+            "changes": [
+                "Most of these have been live for a lil bit ,we just been really busy  ❤️",
+                "Lowered Fishing Bait Price to $2",
+                "Buffed Fishing Payouts Slightly",
+                "Buffed Delivery Job Payout",
+                "Buffed Jet ski Job Payout",
+                "Buffed Forklift Job Payout",
+                "Buffed Garbage Job Payout",
+                "Buffed Taxi Job Payout",
+                "Buffed Payout for All Convenient Store Robberies",
+                "Buffed Drop Rate for Rare Store Robbery Item By 35%",
+                "Buffed Payout for Baycity Bank",
+                "Baycity Bank Hack Difficulty was Raised Slightly",
+                "Baycity Bank Cooldown timer was raised slightly",
+                "Lowered Crafting Cost for Thermite & Thermite Powder",
+                "Buffed Money Wash from 50% Return Rate to 65%. About a 15% Buff",
+                "Buff to Oxy Runs",
+                "Fixed a Major bug with paychecks for EMS  & PD",
+                "Fixed Housing Shells",
+                "Fixed Housing stashes Slots & Weight",
+                "Fixed some exploits with house robberies",
+                "Fixed an exploit with the inventory",
+                "Disabled annoying sound with car boosting for PD",
+                "Added an Ambulance Stretcher for EMS",
+                "Fixed many bugs with Weed Planting [Shout out to the peeps that helped all morning testing this with us]",
+                "Added boat impound",
+                "Made boat garage by dreamworks mechanic easier to park in"
+            ]
+        },
+        {
             "date": "10/7/2023 - 10/10/2023",
             "changes": [
                 "Fixed a bug with Steel Mills",
