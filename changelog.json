@@ -1,6 +1,21 @@
 {
     "items": [
         {
+            "date": "10/24/2023 - 11/1/2023",
+            "changes": [
+                "Ammunation Perfect Smg bodies no longer require the forging bp bench ingots.",
+                "Ammunation Bullet crafting is now by 10's instead of crafting 1 at a time",
+                "Ammunation Bullet Tips crafting is now by 10's instead of crafting 1 at a time",
+                "Strip Mining has been buffed. Chances of getting double drops has increased Significantly",
+                "Mineral Ore Drop rate has increased to 75% . [15% Increase]",
+                "Mineral Ore Ammunation Trader. Has now been reduced to only 2 Mineral ore per trade. Instead of 5.",
+                "Dead By Daylight Changes",
+                "Implemented checks for remaining props at the end of each game to prevent inaccessible generators or chests.",
+                "Game now halts if the killer disconnects and reduces survivors if a player disconnects.",
+                "Killer's walk style is now looped for consistency."
+            ]
+        },
+        {
             "date": "10/10/2023 - 10/24/2023",
             "changes": [
                 "Most of these have been live for a lil bit ,we just been really busy  ❤️",
