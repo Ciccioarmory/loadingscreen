@@ -3,10 +3,11 @@
     "start_playlist_random": true,
     "music_start_index": 0,
     "music_links": [
-        "https://github.com/Ciccioarmory/loadingscreen/raw/development/Ray_Parker_Jr_Ghostbusters_Spooky_Remix.mp3",
-        "https://github.com/Ciccioarmory/loadingscreen/raw/development/Rockwell_%20Somebody_s_Watching_Me.mp3",
-        "https://github.com/Ciccioarmory/loadingscreen/raw/development/Spooky_Scary%20Skeletons_DRYPAPER_Remix.mp3",
-        "https://github.com/Ciccioarmory/loadingscreen/raw/development/Stranger_Things_Season_4%20_Running_Up_That_Hill_Kate%20Bush_TOTEM_Remix.mp3",
-        "https://github.com/Ciccioarmory/loadingscreen/raw/development/This_Is_Halloween.mp3"
+       {
+           "img": "none",
+           "url": "none",
+           "author": "none",
+           "song-name": "none"
+       }
     ]
 }
