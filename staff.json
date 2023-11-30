@@ -56,14 +56,14 @@
 			"name": "Liam"
 		},
 		{
-			"imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1147289735115571220/placeholder.png",
-			"position": "Developer",
-			"name": "Fisherman"
-		},
-		{
 			"imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1147290402441936977/image.png",
 			"position": "Developer",
 			"name": "Alter"
+		},
+		{
+			"imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1147289735115571220/placeholder.png",
+			"position": "Developer",
+			"name": "Fisherman"
 		},
 		{
 			"imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1147289735115571220/placeholder.png",
