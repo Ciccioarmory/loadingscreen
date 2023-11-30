@@ -3,17 +3,23 @@
     "start_playlist_random": true,
     "music_start_index": 0,
     "music_links": [
-       {
-           "img": "https://media.discordapp.net/attachments/1116052302093103136/1170935431769116772/channels4_profile.jpg?ex=655ad999&is=65486499&hm=3c06373d5370c9528fbe2c1f83896148e11cfa51eabc3db4c0ea304e2560b310&=&width=193&height=193",
-           "url": "https://github.com/Ciccioarmory/loadingscreen/raw/thanksgiving_2023/viper_thanksgiving_2023_songs/Truthfully.mp3",
-           "author": "itsRo",
-           "song_name": "Truthfully"
-       },
         {
-           "img": "https://media.discordapp.net/attachments/1116052302093103136/1170138762844590150/Denial.png?ex=6557f3a5&is=65457ea5&hm=89ad5f5f4ff179f39d7022763ae366058238ab80a3d4afb93d6f0d07249777d3&=&width=676&height=676",
-           "url": "https://github.com/Ciccioarmory/loadingscreen/raw/thanksgiving_2023/viper_thanksgiving_2023_songs/DENIAL_FINAL_1.mp3",
-           "author": "Scotty Cashe",
-           "song_name": "Denial"
-       }
+            "img": "",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/christmas-2023/christmas_2023_songs/Ariana_Grande_Santa_Tell_Me.mp3",
+            "author": "Ariana Grande",
+            "song_name": "Santa Tell Me"
+        },
+        {
+            "img": "",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/christmas-2023/christmas_2023_songs/HERE_COMES_SANTA_CLAUS_TRAP_REMIX.mp3",
+            "author": "Trap Music Now",
+            "song_name": "HERE COMES SANTA CLAUS"
+        },
+        {
+            "img": "",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/christmas-2023/christmas_2023_songs/ROCKIN_AROUND_THE_CHRISTMAS_TREE_OFFICIAL_TRAP_REMIX.mp3",
+            "author": "Trap Music Now",
+            "song_name": "ROCKIN' AROUND THE CHRISTMAS TREE"
+        }
     ]
 }
