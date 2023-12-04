@@ -1,6 +1,17 @@
 {
     "items": [
         {
+            "date": "12/1/2023 - 12/4/2023",
+            "changes": [
+                "Updated the loading screen",
+                "Added new Frostbite Fury Battlepass",
+                "Re-added EMS's 'respond to call' functionality",
+                "Added a camera north of Paleto for EMS to help with playdough issues",
+                "Fixed an issue with boats not going to boat impound when wiped (not retro-active, open a ticket if you still have one stuck)",
+                "Removed Herobrine"
+            ]
+        },
+        {
             "date": "11/1/2023 - 11/7/2023",
             "changes": [
                 "Updated loading screen",
