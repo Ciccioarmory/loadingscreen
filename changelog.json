@@ -1,6 +1,15 @@
 {
     "items": [
         {
+            "date": "12/12/2023",
+            "changes": [
+                "Adjusted functionality of the AI Doctor",
+                "Upgraded the AI Doctor's vehicle for the Holiday Season",
+                "Added additional info text for when the AI Doctor is available",
+                "Made all pizza have pineapple (to make Cici mad lol)"
+            ]
+        },
+        {
             "date": "12/1/2023 - 12/4/2023",
             "changes": [
                 "Updated the loading screen",
