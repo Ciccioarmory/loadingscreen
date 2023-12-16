@@ -1,6 +1,27 @@
 {
     "items": [
         {
+            "date": "12/16/2023",
+            "changes": [
+                "Fixed a False Ban with Bobcat Heist & Buffed Rare Item spawn quantities",
+                "Expanded Vangelico Robbery & Fixed some Incorrect items & Bugs",
+                "PD Can now relock Vangelico if no robbers are Present",
+                "Added tablet , ps2 ,harddrive1 to Recycler",
+                "Added 2 Sellable items to Juice",
+                "Fixed PD Marksman training tablet",
+                "Updated the dice script [DND DICE]",
+                "XP on all Benches have received a buff",
+                "Tinker bench crafting costs for certain items have been lowered",
+                "Tinker BP is now only Required for Crafting Lvl 4 + Items",
+                "Ammunation Ammo Crafting Cost has been Significantly lowered",
+                "Ammunation Crafting Cost on certain items has been lowered",
+                "Ammunation Armor Crafting has been Significantly lowered",
+                "Ingot Crafting Costs have been Slightly Lowered",
+                "Baggies Crafting amount given has been raised to 10",
+                "WL Gang Crafting Costs have been lowered across the board"
+            ]
+        },
+        {
             "date": "12/12/2023",
             "changes": [
                 "Adjusted functionality of the AI Doctor",
