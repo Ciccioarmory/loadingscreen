@@ -3,6 +3,19 @@
         {
             "date": "12/16/2023",
             "changes": [
+                "Added a 4 Craftable Items to Tinker Bench",
+                "Reduced Crafting Cost of Certain Tinker Bench Items Significantly",
+                "Updated over 20 Item Pictures",
+                "Adjusted and Balanced Ammunation Ammo Crafting after Getting Negative Feedback",
+                "Adjusted & Modified Bobcat Loot tables Slightly, Increased Rare item spawns by 25%",
+                "Added 3 New Items to House Robbery Loot table for the T1 House",
+                "Changed the House Robbery Window from 20:00 to 04:00 to 17:00 to 11:00 [will continue to modify after feedback if needed]",
+                "Fixed electronics label {bobby's ocd ass couldn't take it anymore... Lower case e ... }"
+            ]
+        },
+        {
+            "date": "12/16/2023",
+            "changes": [
                 "Fixed a False Ban with Bobcat Heist & Buffed Rare Item spawn quantities",
                 "Expanded Vangelico Robbery & Fixed some Incorrect items & Bugs",
                 "PD Can now relock Vangelico if no robbers are Present",
