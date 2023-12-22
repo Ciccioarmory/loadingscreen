@@ -1,6 +1,25 @@
 {
 	"items": [
 		{
+			"date": "12/21/2023",
+			"changes": [
+				"Released Paintball V2!!! Loaner Weapons are now available to pick from. Options for 1st person matches or 3rd Person.",
+				"Update to Tony's area {Christmas Edition}",
+				"Payout Buff For EMS",
+				"Payout Buff For PD",
+				"Payout Buff For DOJ",
+				"Added Fish Buyer & Fishing Shop to City Pier!",
+				"Changed Lockpick minigame for Store Robberies",
+				"Reduced time to open registers by 25% For Store Robberies",
+				"Buffed 2 Rare Item Drops for Store Robberies",
+				"Significantly Buffed Payout from Store Robberies",
+				"Moved New player fly in location @ in the Apartment",
+				"Modified New Player Base Items",
+				"Fixed /streamermode",
+				"Lowered Sound Effect for Mulching {Lawnmower}"
+			]
+		},
+		{
 			"date": "12/17/2023",
 			"changes": [
 				"Added a 4 Craftable Items to Tinker Bench",
