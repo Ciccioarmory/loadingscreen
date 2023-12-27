@@ -1,6 +1,18 @@
 {
 	"items": [
 		{
+			"date": "12/26/2023",
+			"changes": [
+				"Removed players steam when doing shared emotes [/nearby]",
+				"Fixed a issue with EMP not being removed",
+				"Lowered cooldown on PD Fines",
+				"Fixed community service so that it uncuffs you",
+				"Buffed Bay City Robbery Payout",
+				"Fixed Bug with Paintball V2, Game ending after 1 player died",
+				"Removed Extra Chip Ped from Casino"
+			]
+		},
+		{
 			"date": "12/21/2023",
 			"changes": [
 				"Released Paintball V2!!! Loaner Weapons are now available to pick from. Options for 1st person matches or 3rd Person.",
