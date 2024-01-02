@@ -1,352 +1,442 @@
 {
-    "items": [
-        {
-            "date": "10/24/2023 - 11/1/2023",
-            "changes": [
-                "Ammunation Perfect Smg bodies no longer require the forging bp bench ingots.",
-                "Ammunation Bullet crafting is now by 10's instead of crafting 1 at a time",
-                "Ammunation Bullet Tips crafting is now by 10's instead of crafting 1 at a time",
-                "Strip Mining has been buffed. Chances of getting double drops has increased Significantly",
-                "Mineral Ore Drop rate has increased to 75% . [15% Increase]",
-                "Mineral Ore Ammunation Trader. Has now been reduced to only 2 Mineral ore per trade. Instead of 5.",
-                "Dead By Daylight Changes",
-                "Implemented checks for remaining props at the end of each game to prevent inaccessible generators or chests.",
-                "Game now halts if the killer disconnects and reduces survivors if a player disconnects.",
-                "Killer's walk style is now looped for consistency."
-            ]
-        },
-        {
-            "date": "10/10/2023 - 10/24/2023",
-            "changes": [
-                "Most of these have been live for a lil bit ,we just been really busy  ❤️",
-                "Lowered Fishing Bait Price to $2",
-                "Buffed Fishing Payouts Slightly",
-                "Buffed Delivery Job Payout",
-                "Buffed Jet ski Job Payout",
-                "Buffed Forklift Job Payout",
-                "Buffed Garbage Job Payout",
-                "Buffed Taxi Job Payout",
-                "Buffed Payout for All Convenient Store Robberies",
-                "Buffed Drop Rate for Rare Store Robbery Item By 35%",
-                "Buffed Payout for Baycity Bank",
-                "Baycity Bank Hack Difficulty was Raised Slightly",
-                "Baycity Bank Cooldown timer was raised slightly",
-                "Lowered Crafting Cost for Thermite & Thermite Powder",
-                "Buffed Money Wash from 50% Return Rate to 65%. About a 15% Buff",
-                "Buff to Oxy Runs",
-                "Fixed a Major bug with paychecks for EMS  & PD",
-                "Fixed Housing Shells",
-                "Fixed Housing stashes Slots & Weight",
-                "Fixed some exploits with house robberies",
-                "Fixed an exploit with the inventory",
-                "Disabled annoying sound with car boosting for PD",
-                "Added an Ambulance Stretcher for EMS",
-                "Fixed many bugs with Weed Planting [Shout out to the peeps that helped all morning testing this with us]",
-                "Added boat impound",
-                "Made boat garage by dreamworks mechanic easier to park in"
-            ]
-        },
-        {
-            "date": "10/7/2023 - 10/10/2023",
-            "changes": [
-                "Fixed a bug with Steel Mills",
-                "Major Buffs to Steel Mills",
-                "Pushed a few bug fixes with Weed Planting",
-                "Fixed a Crafting Recipe which was showing a unknown item",
-                "Changes made to Oxy Run Script",
-                "Buffed things within the Oxy Run Script",
-                "Reduced weight of Diving Gear",
-                "Reduced weight of EMS first aid kits",
-                "Reduced prices @ Costco",
-                "Fixed ingredients for uWu Cafe & Wingstop that were overpriced",
-                "Increased Prices of gas station/store food and drink items to owner and customer",
-                "Nerfed Gas Station / Store  food and drink items they will now only give 25 food or drink",
-                "Removed Sling from city [could be temporary but is unknown at this time]",
-                "Made changes to Bank Truck robberies that should fix a couple bugs",
-                "Buffed Payouts for all Bank Truck Robberies",
-                "Heavily Reduced the Prices of Hardware Store Items",
-                "Heavily Reduced the Police Issued Fines for Crimes",
-                "Buffed Plane Run chemicals given per run to 15",
-                "Buffed Plane Run chemicals taxed to 5 per run",
-                "Buffed Taxation stock of zones to 100"
-            ]
-        },
-        {
-            "date": "10/06/2023",
-            "changes": [
-                "Changed hospital"
-            ]
-        },
-        {
-            "date": "10/04/2023",
-            "changes": [
-                "Re Added housing to the server",
-                "Fixed an exploit with tackling"
-            ]
-        },
-        {
-            "date": "10/03/2023",
-            "changes": [
-                "Added 'Soul Shrine Battlepass'",
-                "Added Halloween Decorations around the city",
-                "Added New Halloween Themed loading screen w/skip buttons and a variety of songs!",
-                "Buffed payout from Fleeca Banks",
-                "Buffed Mining Drop rates [gemstone & mineral ore]",
-                "Major Changes & Big Buff to Steel Mills"
-            ]
-        },
-        {
-            "date": "9/30/2023",
-            "changes": [
-                "Updated loading screen with halloween content",
-                "Added different rentals on KOS"
-            ]
-        },
-        {
-            "date": "9/29/2023",
-            "changes": [
-                "Fixed the problem with the hands up",
-                "Fixed an exploit with meth",
-                "Added new hospital",
-                "Re added and fixed CMU Med Bag",
-                "Fixed Police garage for rank 28",
-                "Removed blank spaces from police armory",
-                "Overhaul of the police garage, it now uses the f1 menu"
-            ]
-        },
-        {
-            "date": "9/25/2023",
-            "changes": [
-                "Fixed an exploit with the emotes",
-                "Fixed the scrap yard",
-                "Fixed air hockey",
-                "Fixed some mechanic jobs that were missing crafting / scanner access",
-                "Changed the exploit detection for dispensary weed picking to an alert instead of a kick",
-                "Fixed the test drive button in the VIP import dealership",
-                "Removed Herobrine"
-            ]
-        },
-        {
-            "date": "9/24/2023",
-            "changes": [
-                "Fixed an issue where purchasing the racing tablet in the boost section didn't result in actually receiving it. You should now receive your tablet as expected after purchase.",
-                "Fixed an issue with the third eye icon for grabbing papers",
-                "Fixed printer paper not being recieved",
-                "Fixed typo on mechanic menu from Confort suspension to Comfort suspension",
-                "Fixed Tuner mechanic parts menu",
-                "Partial refactor of qb-management and qb-cicicustom for the mechanics job detection",
-                "Fixed scoreboard police count for illegal activities",
-                "Fixed an exploit with the emotes",
-                "Added the anchor to the vehicle menu inside the radialmenu",
-                "Fixed issues regarding the fleeca banks"
-            ]
-        },
-        {
-            "date": "9/23/2023",
-            "changes": [
-                "Air Drop Chances have been slightly tweaked, an additional 3 items were added to airdrops",
-                "Reduced material cost for a couple of crafting items",
-                "Fixed the Tinker Crafting Bench",
-                "Reduced the weight of Blue tape and increased the weight of a couple other items to be more realistic",
-                "Changes made to xp of crafting benches you may notice a slight change in your xp bar {dont be alarmed}",
-                "Fixed an error with the itembox not showing up with heroin",
-                "Fixed some exploits with fishing"
-            ]
-        },
-        {
-            "date": "9/22/2023",
-            "changes": [
-                "Fixed an issue with the ingot crafting at the smithy table",
-                "Boosting has been updated [Bonus Experience Multipliers have been enabled]",
-                "Additional Changes were made to Boosting Generation Times [please continue to give boosting feedback]",
-                "Eels are now sellable",
-                "Fixed a spelling error on an EMS item",
-                "Fixed Heli Trunks",
-                "Re-added Shotta Speedway Bumpton Coins Item"
-            ]
-        },
-        {
-            "date": "9/21/2023",
-            "changes": [
-                "Stashes issues should all now be resolved [fingers crossed please report additional issues]",
-                "Broken item in Heroin crafting was fixed"
-            ]
-        },
-        {
-            "date": "9/20/2023",
-            "changes": [
-                "Removed a Duplicate tape item",
-                "Fixed Mechanic bench crafting {lockpick}",
-                "Removed 1 Tinker bench craftable item {lockpick was moved to mechanic crafting only}",
-                "Removed 1 old 2.5 seed type from a drop table [white widow seed]",
-                "Revisited Boosting after some more feedback and increased the amount of contracts per session and slightly modified the intervals for when contracts should be received, and Slightly decreased crypto payouts [please continue to put in viable feedback regarding boosting <3]",
-                "Ammunation gun stores have 1 new craft able item [Factory New SMG Body]",
-                "Walther PPK ammunation pistols no longer require black diamonds to craft",
-                "Mk1/MK2 Crafting material reduction for many items",
-                "Forging crafting material reduction for many items",
-                "Applied new patches on the weed planting",
-                "Disabled some dev commands",
-                "Owned emergency vehicles should work with the new mechanics features"
-            ]
-        },
-        {
-            "date": "9/19/2023",
-            "changes": [
-                "Fixed Jewelry Store Sell Ped Bug",
-                "Multiple Bug Fixes for weed planting script {please report if you find additional issues}",
-                "Added Additional holsters for PD",
-                "Re-added some teleports"
-            ]
-        },
-        {
-            "date": "9/17/2023",
-            "changes": [
-                "**Major Fixes:**",
-                "**Car Boosting:**",
-                "   Notable enhancements to C+ class crypto and cash payouts, reduced time to procure new contracts, and increased the capacity of deliverable contracts per tsunami.",
-                "   Updated the BMX bike from C to D class boost ('bobby had to leave this in for the memes' note).",
-                "**Tinker Bench: **",
-                "   Incorporated missing items at their accurate levels. Apologies, Bobby ❤️.",
-                "   Crafting cost of Thermite diminished.",
-                "**Auxiliary Changes:**",
-                "   Resolved issues with Steel Mill's menus. ",
-                "   Corrected an interaction UI color. ",
-                "   Addressed implausible low weight items (house robbery objects, mechanic parts). ",
-                "   Mended a glitch causing calls to off-duty PD and EMS. ",
-                "   Erased outdated 2.5 poly (Knock On Door).",
-                "   Resolved a fishing mechanic bug where the system failed to utilize or acknowledge available bait.",
-                "**Vehicle Damage:**",
-                "   Made several improvements:",
-                "  Corrected a glitch causing some vehicles to be impervious to damage.",
-                "  Addressed random stalls and enhanced consistency.",
-                "  Fixed a glitch allowing immediate restart after a stall (now requires waiting until the stall concludes).",
-                "  Added cascading failure (heavy damage will gradually cause vehicle to deteriorate).",
-                "CIU stashes can now be opened with necessary certification, addressing a previous bug.",
-                "Major change implemented to minimize daily car wipes, adjusting vehicle deletion times to every 2 hours (this is a trial adjustment and may be reversed if issues arise). ",
-                "Reinstated the Police HeliCam feature for superior surveillance and crime prevention in-game. Experience seamless gameplay and improved security measures.",
-                "Fixed vehicle speed limiter to not impact helicopters and planes, enhancing gameplay experience."
-            ]
-        },
-        {
-            "date": "9/16/2023",
-            "changes": [
-                "Added a missing item to the Mechshop Crafting Benches {Advanced Toolset}",
-                "Recalibrated crafting cost for many Mechanic parts {Mostly decreased needed mats but a few items need a few more mats}",
-                "Fixed certain mechanic parts not being able to be stacked {majority of parts are now stackable}",
-                "Buffed payouts from Bank Truck robberies",
-                "Added 1 new rare item drop to Bank Truck robberies",
-                "Fixed the payout received notification to show the correct amount of items given for the Bank Truck robbery",
-                "Fixed a bug with the wrong duffel bag appearing on your character after robbing a Bank Truck",
-                "Major bug fix for contracts coming for Car Boosting [cops were not registering as online]",
-                "PD armory prices for essential equipment has been drastically reduced",
-                "FTO Cadet Starter Kit created and added to armory for FTOS only +",
-                "PD Grades 26 - 28 were added to the armory",
-                "Fixed a Major Exploit with car garages"
-            ]
-        },
-        {
-            "date": "9/15/2023",
-            "changes": [
-                "Fixed 2 minor bugs for the Black Market",
-                "Reduced Black Market item prices significantly",
-                "Increased T2 House Robbery rare item spawn chance by 8%",
-                "Added Mechanic Crafting Benches to all current mechshops {w/additional exclusive craftable items}",
-                "Added Additional Bobcat Loot Drops and modified rare loot chances",
-                "Increased Drop chance for the following blueprints Forging = +10% , Tinker = +5%, Mk1 = +5%, Medstation = +2%, Mk2 = +1%",
-                "Added 1 new item to hardwarestore {i forgot to add this im sorry ❤️ - bobby}",
-                "Rusted car parts are now recyclable",
-                "Added custom Animations and Props to new Injectors"
-            ]
-        },
-        {
-            "date": "9/14/2023",
-            "changes": [
-                "DISABLED KEYFOB FOR CARS!",
-                "The advanced repair kits can now only be used by mechanics!",
-                "New system made for plates in order to not have ped cars with player's plates",
-                "Re-Enabled the air control for Bikes and Motorcycles"
-            ]
-        },
-        {
-            "date": "9/13/2023",
-            "changes": [
-                "Fixed the server status bot, now the channel〘🌊〙𝘚𝘦𝘳𝘷𝘦𝘳-𝘚𝘵𝘢𝘵𝘶𝘴 will be updated every minute!",
-                "Fixed garages, now the personal pd and ems cars can be parked!",
-                "Fixed Mech Bays for Sport Inside Track Mechanic",
-                "Fixed an exploit with reloading ammo"
-            ]
-        },
-        {
-            "date": "9/11/2023",
-            "changes": [
-                "Disabled collisions on gas pumps",
-                "Disable Hip-fire to fix exploit",
-                "Disabled VDM (you no longer take damage from vehicles)",
-                "Fixed several bugs involving vehicle damage (please report ones you find)"
-            ]
-        },
-        {
-            "date": "9/9/2023",
-            "changes": [
-                "Fixed an error with the art gallery heist",
-                "Replaced 'Press E to respawn' with 'Press E to call a doctor', which sends an NPC ped to revive you when there's no EMS online",
-                "Major Bug fixes to house robbery, T1 Houses should now spawn, Rare Loot Spawns have been slightly increased",
-                "Slightly Modified loot drops for Fleeca Bank Robbery, Fixed Small Bugs with fleeca bank, Added additional rare loot drops to fleeca banks",
-                "Changed the Respond Button on the Dispatch to 'E' instead of 'G' (You might need to rebind it!)"
-            ]
-        },
-        {
-            "date": "9/8/2023",
-            "changes": [
-                "Decreased the rate at which hunger/thirst goes down, making it take longer to starve"
-            ]
-        },
-        {
-            "date": "9/7/2023",
-            "changes": [
-                "Fixed squawk verified not saying it costs 100k",
-                "Actually fixed the Diving Gear",
-                "Fixed PD being able to jail people while they're already in jail"
-            ]
-        },
-        {
-            "date": "9/6/2023",
-            "changes": [
-                "Fixed vehicles going to the void after a vehicle wipe, now they will go to the impound!",
-                "Removed cruise control due to exploits",
-                "Fixed decay on a couple of items",
-                "Fixed the boat alarm bug, where the alarm didn't stop after successfully hot-wiring.",
-                "Fixed Petrol Can infinite ammo and never removing Bug",
-                "Fixed Mech Bays for Sport Racing Mechanic",
-                "Fixed MDT incidents not saving for PD if the incident details or title were too long",
-                "Fixed PD spawn at RHPD",
-                "Fixed Diving suit",
-                "Fixed a server side error on the delivery job",
-                "Raised the price of the verified on Squawk",
-                "Removed a bunch of test commands",
-                "Fixed logout button inside the apartments",
-                "Fixed an exploit with the Emote Menu",
-                "Fixed the garage near the airport",
-                "Re added the boss menu for Otto's Mechanic",
-                "Reduced price of the valet from 10k to 500"
-            ]
-        },
-        {
-            "date": "9/5/2023",
-            "changes": [
-                "Fixed Boss Menus not firing employees correctly",
-                "Fixed radial menu not opening while being dead and on EMS",
-                "Fixed PD spikestrips, item re added",
-                "Fixed bandages",
-                "Removed shots fired calls from KOS for PD",
-                "Removed Jobs app from the phone"
-            ]
-        },
-        {
-            "date": "9/1/2023",
-            "changes": [
-                "Viper 3.0 Update Has Arrived! This Update includes numerous new features and content! Please see our Discord server for more information."
-            ]
-        }
-    ]
+	"items": [
+		{
+			"date": "12/26/2023",
+			"changes": [
+				"Removed players steam when doing shared emotes [/nearby]",
+				"Fixed a issue with EMP not being removed",
+				"Lowered cooldown on PD Fines",
+				"Fixed community service so that it uncuffs you",
+				"Buffed Bay City Robbery Payout",
+				"Fixed Bug with Paintball V2, Game ending after 1 player died",
+				"Removed Extra Chip Ped from Casino"
+			]
+		},
+		{
+			"date": "12/21/2023",
+			"changes": [
+				"Released Paintball V2!!! Loaner Weapons are now available to pick from. Options for 1st person matches or 3rd Person.",
+				"Update to Tony's area {Christmas Edition}",
+				"Payout Buff For EMS",
+				"Payout Buff For PD",
+				"Payout Buff For DOJ",
+				"Added Fish Buyer & Fishing Shop to City Pier!",
+				"Changed Lockpick minigame for Store Robberies",
+				"Reduced time to open registers by 25% For Store Robberies",
+				"Buffed 2 Rare Item Drops for Store Robberies",
+				"Significantly Buffed Payout from Store Robberies",
+				"Moved New player fly in location @ in the Apartment",
+				"Modified New Player Base Items",
+				"Fixed /streamermode",
+				"Lowered Sound Effect for Mulching {Lawnmower}"
+			]
+		},
+		{
+			"date": "12/17/2023",
+			"changes": [
+				"Added a 4 Craftable Items to Tinker Bench",
+				"Reduced Crafting Cost of Certain Tinker Bench Items Significantly",
+				"Updated over 20 Item Pictures",
+				"Adjusted and Balanced Ammunation Ammo Crafting after Getting Negative Feedback",
+				"Adjusted & Modified Bobcat Loot tables Slightly, Increased Rare item spawns by 25%",
+				"Added 3 New Items to House Robbery Loot table for the T1 House",
+				"Changed the House Robbery Window from 20:00 to 04:00 to 17:00 to 11:00 [will continue to modify after feedback if needed]",
+				"Fixed electronics label {bobby's ocd ass couldn't take it anymore... Lower case e ... }"
+			]
+		},
+		{
+			"date": "12/16/2023",
+			"changes": [
+				"Fixed a False Ban with Bobcat Heist & Buffed Rare Item spawn quantities",
+				"Expanded Vangelico Robbery & Fixed some Incorrect items & Bugs",
+				"PD Can now relock Vangelico if no robbers are Present",
+				"Added tablet , ps2 ,harddrive1 to Recycler",
+				"Added 2 Sellable items to Juice",
+				"Fixed PD Marksman training tablet",
+				"Updated the dice script [DND DICE]",
+				"XP on all Benches have received a buff",
+				"Tinker bench crafting costs for certain items have been lowered",
+				"Tinker BP is now only Required for Crafting Lvl 4 + Items",
+				"Ammunation Ammo Crafting Cost has been Significantly lowered",
+				"Ammunation Crafting Cost on certain items has been lowered",
+				"Ammunation Armor Crafting has been Significantly lowered",
+				"Ingot Crafting Costs have been Slightly Lowered",
+				"Baggies Crafting amount given has been raised to 10",
+				"WL Gang Crafting Costs have been lowered across the board"
+			]
+		},
+		{
+			"date": "12/12/2023",
+			"changes": [
+				"Adjusted functionality of the AI Doctor",
+				"Upgraded the AI Doctor's vehicle for the Holiday Season",
+				"Added additional info text for when the AI Doctor is available",
+				"Made all pizza have pineapple (to make Cici mad lol)"
+			]
+		},
+		{
+			"date": "12/1/2023 - 12/4/2023",
+			"changes": [
+				"Updated the loading screen",
+				"Added new Frostbite Fury Battlepass",
+				"Re-added EMS's 'respond to call' functionality",
+				"Added a camera north of Paleto for EMS to help with playdough issues",
+				"Fixed an issue with boats not going to boat impound when wiped (not retro-active, open a ticket if you still have one stuck)",
+				"Removed Herobrine"
+			]
+		},
+		{
+			"date": "11/1/2023 - 11/7/2023",
+			"changes": [
+				"Updated loading screen",
+				"Added new Serpents Salvation Battlepass"
+			]
+		},
+		{
+			"date": "10/24/2023 - 11/1/2023",
+			"changes": [
+				"Ammunation Perfect Smg bodies no longer require the forging bp bench ingots.",
+				"Ammunation Bullet crafting is now by 10's instead of crafting 1 at a time",
+				"Ammunation Bullet Tips crafting is now by 10's instead of crafting 1 at a time",
+				"Strip Mining has been buffed. Chances of getting double drops has increased Significantly",
+				"Mineral Ore Drop rate has increased to 75% . [15% Increase]",
+				"Mineral Ore Ammunation Trader. Has now been reduced to only 2 Mineral ore per trade. Instead of 5.",
+				"Dead By Daylight Changes",
+				"Implemented checks for remaining props at the end of each game to prevent inaccessible generators or chests.",
+				"Game now halts if the killer disconnects and reduces survivors if a player disconnects.",
+				"Killer's walk style is now looped for consistency."
+			]
+		},
+		{
+			"date": "10/10/2023 - 10/24/2023",
+			"changes": [
+				"Most of these have been live for a lil bit ,we just been really busy  ❤️",
+				"Lowered Fishing Bait Price to $2",
+				"Buffed Fishing Payouts Slightly",
+				"Buffed Delivery Job Payout",
+				"Buffed Jet ski Job Payout",
+				"Buffed Forklift Job Payout",
+				"Buffed Garbage Job Payout",
+				"Buffed Taxi Job Payout",
+				"Buffed Payout for All Convenient Store Robberies",
+				"Buffed Drop Rate for Rare Store Robbery Item By 35%",
+				"Buffed Payout for Baycity Bank",
+				"Baycity Bank Hack Difficulty was Raised Slightly",
+				"Baycity Bank Cooldown timer was raised slightly",
+				"Lowered Crafting Cost for Thermite & Thermite Powder",
+				"Buffed Money Wash from 50% Return Rate to 65%. About a 15% Buff",
+				"Buff to Oxy Runs",
+				"Fixed a Major bug with paychecks for EMS  & PD",
+				"Fixed Housing Shells",
+				"Fixed Housing stashes Slots & Weight",
+				"Fixed some exploits with house robberies",
+				"Fixed an exploit with the inventory",
+				"Disabled annoying sound with car boosting for PD",
+				"Added an Ambulance Stretcher for EMS",
+				"Fixed many bugs with Weed Planting [Shout out to the peeps that helped all morning testing this with us]",
+				"Added boat impound",
+				"Made boat garage by dreamworks mechanic easier to park in"
+			]
+		},
+		{
+			"date": "10/7/2023 - 10/10/2023",
+			"changes": [
+				"Fixed a bug with Steel Mills",
+				"Major Buffs to Steel Mills",
+				"Pushed a few bug fixes with Weed Planting",
+				"Fixed a Crafting Recipe which was showing a unknown item",
+				"Changes made to Oxy Run Script",
+				"Buffed things within the Oxy Run Script",
+				"Reduced weight of Diving Gear",
+				"Reduced weight of EMS first aid kits",
+				"Reduced prices @ Costco",
+				"Fixed ingredients for uWu Cafe & Wingstop that were overpriced",
+				"Increased Prices of gas station/store food and drink items to owner and customer",
+				"Nerfed Gas Station / Store  food and drink items they will now only give 25 food or drink",
+				"Removed Sling from city [could be temporary but is unknown at this time]",
+				"Made changes to Bank Truck robberies that should fix a couple bugs",
+				"Buffed Payouts for all Bank Truck Robberies",
+				"Heavily Reduced the Prices of Hardware Store Items",
+				"Heavily Reduced the Police Issued Fines for Crimes",
+				"Buffed Plane Run chemicals given per run to 15",
+				"Buffed Plane Run chemicals taxed to 5 per run",
+				"Buffed Taxation stock of zones to 100"
+			]
+		},
+		{
+			"date": "10/06/2023",
+			"changes": ["Changed hospital"]
+		},
+		{
+			"date": "10/04/2023",
+			"changes": [
+				"Re Added housing to the server",
+				"Fixed an exploit with tackling"
+			]
+		},
+		{
+			"date": "10/03/2023",
+			"changes": [
+				"Added 'Soul Shrine Battlepass'",
+				"Added Halloween Decorations around the city",
+				"Added New Halloween Themed loading screen w/skip buttons and a variety of songs!",
+				"Buffed payout from Fleeca Banks",
+				"Buffed Mining Drop rates [gemstone & mineral ore]",
+				"Major Changes & Big Buff to Steel Mills"
+			]
+		},
+		{
+			"date": "9/30/2023",
+			"changes": [
+				"Updated loading screen with halloween content",
+				"Added different rentals on KOS"
+			]
+		},
+		{
+			"date": "9/29/2023",
+			"changes": [
+				"Fixed the problem with the hands up",
+				"Fixed an exploit with meth",
+				"Added new hospital",
+				"Re added and fixed CMU Med Bag",
+				"Fixed Police garage for rank 28",
+				"Removed blank spaces from police armory",
+				"Overhaul of the police garage, it now uses the f1 menu"
+			]
+		},
+		{
+			"date": "9/25/2023",
+			"changes": [
+				"Fixed an exploit with the emotes",
+				"Fixed the scrap yard",
+				"Fixed air hockey",
+				"Fixed some mechanic jobs that were missing crafting / scanner access",
+				"Changed the exploit detection for dispensary weed picking to an alert instead of a kick",
+				"Fixed the test drive button in the VIP import dealership",
+				"Removed Herobrine"
+			]
+		},
+		{
+			"date": "9/24/2023",
+			"changes": [
+				"Fixed an issue where purchasing the racing tablet in the boost section didn't result in actually receiving it. You should now receive your tablet as expected after purchase.",
+				"Fixed an issue with the third eye icon for grabbing papers",
+				"Fixed printer paper not being recieved",
+				"Fixed typo on mechanic menu from Confort suspension to Comfort suspension",
+				"Fixed Tuner mechanic parts menu",
+				"Partial refactor of qb-management and qb-cicicustom for the mechanics job detection",
+				"Fixed scoreboard police count for illegal activities",
+				"Fixed an exploit with the emotes",
+				"Added the anchor to the vehicle menu inside the radialmenu",
+				"Fixed issues regarding the fleeca banks"
+			]
+		},
+		{
+			"date": "9/23/2023",
+			"changes": [
+				"Air Drop Chances have been slightly tweaked, an additional 3 items were added to airdrops",
+				"Reduced material cost for a couple of crafting items",
+				"Fixed the Tinker Crafting Bench",
+				"Reduced the weight of Blue tape and increased the weight of a couple other items to be more realistic",
+				"Changes made to xp of crafting benches you may notice a slight change in your xp bar {dont be alarmed}",
+				"Fixed an error with the itembox not showing up with heroin",
+				"Fixed some exploits with fishing"
+			]
+		},
+		{
+			"date": "9/22/2023",
+			"changes": [
+				"Fixed an issue with the ingot crafting at the smithy table",
+				"Boosting has been updated [Bonus Experience Multipliers have been enabled]",
+				"Additional Changes were made to Boosting Generation Times [please continue to give boosting feedback]",
+				"Eels are now sellable",
+				"Fixed a spelling error on an EMS item",
+				"Fixed Heli Trunks",
+				"Re-added Shotta Speedway Bumpton Coins Item"
+			]
+		},
+		{
+			"date": "9/21/2023",
+			"changes": [
+				"Stashes issues should all now be resolved [fingers crossed please report additional issues]",
+				"Broken item in Heroin crafting was fixed"
+			]
+		},
+		{
+			"date": "9/20/2023",
+			"changes": [
+				"Removed a Duplicate tape item",
+				"Fixed Mechanic bench crafting {lockpick}",
+				"Removed 1 Tinker bench craftable item {lockpick was moved to mechanic crafting only}",
+				"Removed 1 old 2.5 seed type from a drop table [white widow seed]",
+				"Revisited Boosting after some more feedback and increased the amount of contracts per session and slightly modified the intervals for when contracts should be received, and Slightly decreased crypto payouts [please continue to put in viable feedback regarding boosting <3]",
+				"Ammunation gun stores have 1 new craft able item [Factory New SMG Body]",
+				"Walther PPK ammunation pistols no longer require black diamonds to craft",
+				"Mk1/MK2 Crafting material reduction for many items",
+				"Forging crafting material reduction for many items",
+				"Applied new patches on the weed planting",
+				"Disabled some dev commands",
+				"Owned emergency vehicles should work with the new mechanics features"
+			]
+		},
+		{
+			"date": "9/19/2023",
+			"changes": [
+				"Fixed Jewelry Store Sell Ped Bug",
+				"Multiple Bug Fixes for weed planting script {please report if you find additional issues}",
+				"Added Additional holsters for PD",
+				"Re-added some teleports"
+			]
+		},
+		{
+			"date": "9/17/2023",
+			"changes": [
+				"**Major Fixes:**",
+				"**Car Boosting:**",
+				"   Notable enhancements to C+ class crypto and cash payouts, reduced time to procure new contracts, and increased the capacity of deliverable contracts per tsunami.",
+				"   Updated the BMX bike from C to D class boost ('bobby had to leave this in for the memes' note).",
+				"**Tinker Bench: **",
+				"   Incorporated missing items at their accurate levels. Apologies, Bobby ❤️.",
+				"   Crafting cost of Thermite diminished.",
+				"**Auxiliary Changes:**",
+				"   Resolved issues with Steel Mill's menus. ",
+				"   Corrected an interaction UI color. ",
+				"   Addressed implausible low weight items (house robbery objects, mechanic parts). ",
+				"   Mended a glitch causing calls to off-duty PD and EMS. ",
+				"   Erased outdated 2.5 poly (Knock On Door).",
+				"   Resolved a fishing mechanic bug where the system failed to utilize or acknowledge available bait.",
+				"**Vehicle Damage:**",
+				"   Made several improvements:",
+				"  Corrected a glitch causing some vehicles to be impervious to damage.",
+				"  Addressed random stalls and enhanced consistency.",
+				"  Fixed a glitch allowing immediate restart after a stall (now requires waiting until the stall concludes).",
+				"  Added cascading failure (heavy damage will gradually cause vehicle to deteriorate).",
+				"CIU stashes can now be opened with necessary certification, addressing a previous bug.",
+				"Major change implemented to minimize daily car wipes, adjusting vehicle deletion times to every 2 hours (this is a trial adjustment and may be reversed if issues arise). ",
+				"Reinstated the Police HeliCam feature for superior surveillance and crime prevention in-game. Experience seamless gameplay and improved security measures.",
+				"Fixed vehicle speed limiter to not impact helicopters and planes, enhancing gameplay experience."
+			]
+		},
+		{
+			"date": "9/16/2023",
+			"changes": [
+				"Added a missing item to the Mechshop Crafting Benches {Advanced Toolset}",
+				"Recalibrated crafting cost for many Mechanic parts {Mostly decreased needed mats but a few items need a few more mats}",
+				"Fixed certain mechanic parts not being able to be stacked {majority of parts are now stackable}",
+				"Buffed payouts from Bank Truck robberies",
+				"Added 1 new rare item drop to Bank Truck robberies",
+				"Fixed the payout received notification to show the correct amount of items given for the Bank Truck robbery",
+				"Fixed a bug with the wrong duffel bag appearing on your character after robbing a Bank Truck",
+				"Major bug fix for contracts coming for Car Boosting [cops were not registering as online]",
+				"PD armory prices for essential equipment has been drastically reduced",
+				"FTO Cadet Starter Kit created and added to armory for FTOS only +",
+				"PD Grades 26 - 28 were added to the armory",
+				"Fixed a Major Exploit with car garages"
+			]
+		},
+		{
+			"date": "9/15/2023",
+			"changes": [
+				"Fixed 2 minor bugs for the Black Market",
+				"Reduced Black Market item prices significantly",
+				"Increased T2 House Robbery rare item spawn chance by 8%",
+				"Added Mechanic Crafting Benches to all current mechshops {w/additional exclusive craftable items}",
+				"Added Additional Bobcat Loot Drops and modified rare loot chances",
+				"Increased Drop chance for the following blueprints Forging = +10% , Tinker = +5%, Mk1 = +5%, Medstation = +2%, Mk2 = +1%",
+				"Added 1 new item to hardwarestore {i forgot to add this im sorry ❤️ - bobby}",
+				"Rusted car parts are now recyclable",
+				"Added custom Animations and Props to new Injectors"
+			]
+		},
+		{
+			"date": "9/14/2023",
+			"changes": [
+				"DISABLED KEYFOB FOR CARS!",
+				"The advanced repair kits can now only be used by mechanics!",
+				"New system made for plates in order to not have ped cars with player's plates",
+				"Re-Enabled the air control for Bikes and Motorcycles"
+			]
+		},
+		{
+			"date": "9/13/2023",
+			"changes": [
+				"Fixed the server status bot, now the channel〘🌊〙𝘚𝘦𝘳𝘷𝘦𝘳-𝘚𝘵𝘢𝘵𝘶𝘴 will be updated every minute!",
+				"Fixed garages, now the personal pd and ems cars can be parked!",
+				"Fixed Mech Bays for Sport Inside Track Mechanic",
+				"Fixed an exploit with reloading ammo"
+			]
+		},
+		{
+			"date": "9/11/2023",
+			"changes": [
+				"Disabled collisions on gas pumps",
+				"Disable Hip-fire to fix exploit",
+				"Disabled VDM (you no longer take damage from vehicles)",
+				"Fixed several bugs involving vehicle damage (please report ones you find)"
+			]
+		},
+		{
+			"date": "9/9/2023",
+			"changes": [
+				"Fixed an error with the art gallery heist",
+				"Replaced 'Press E to respawn' with 'Press E to call a doctor', which sends an NPC ped to revive you when there's no EMS online",
+				"Major Bug fixes to house robbery, T1 Houses should now spawn, Rare Loot Spawns have been slightly increased",
+				"Slightly Modified loot drops for Fleeca Bank Robbery, Fixed Small Bugs with fleeca bank, Added additional rare loot drops to fleeca banks",
+				"Changed the Respond Button on the Dispatch to 'E' instead of 'G' (You might need to rebind it!)"
+			]
+		},
+		{
+			"date": "9/8/2023",
+			"changes": [
+				"Decreased the rate at which hunger/thirst goes down, making it take longer to starve"
+			]
+		},
+		{
+			"date": "9/7/2023",
+			"changes": [
+				"Fixed squawk verified not saying it costs 100k",
+				"Actually fixed the Diving Gear",
+				"Fixed PD being able to jail people while they're already in jail"
+			]
+		},
+		{
+			"date": "9/6/2023",
+			"changes": [
+				"Fixed vehicles going to the void after a vehicle wipe, now they will go to the impound!",
+				"Removed cruise control due to exploits",
+				"Fixed decay on a couple of items",
+				"Fixed the boat alarm bug, where the alarm didn't stop after successfully hot-wiring.",
+				"Fixed Petrol Can infinite ammo and never removing Bug",
+				"Fixed Mech Bays for Sport Racing Mechanic",
+				"Fixed MDT incidents not saving for PD if the incident details or title were too long",
+				"Fixed PD spawn at RHPD",
+				"Fixed Diving suit",
+				"Fixed a server side error on the delivery job",
+				"Raised the price of the verified on Squawk",
+				"Removed a bunch of test commands",
+				"Fixed logout button inside the apartments",
+				"Fixed an exploit with the Emote Menu",
+				"Fixed the garage near the airport",
+				"Re added the boss menu for Otto's Mechanic",
+				"Reduced price of the valet from 10k to 500"
+			]
+		},
+		{
+			"date": "9/5/2023",
+			"changes": [
+				"Fixed Boss Menus not firing employees correctly",
+				"Fixed radial menu not opening while being dead and on EMS",
+				"Fixed PD spikestrips, item re added",
+				"Fixed bandages",
+				"Removed shots fired calls from KOS for PD",
+				"Removed Jobs app from the phone"
+			]
+		},
+		{
+			"date": "9/1/2023",
+			"changes": [
+				"Viper 3.0 Update Has Arrived! This Update includes numerous new features and content! Please see our Discord server for more information."
+			]
+		}
+	]
 }
