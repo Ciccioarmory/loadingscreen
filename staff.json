@@ -41,6 +41,11 @@
 			"name": "Miguel"
 		},
 		{
+			"imageLink": "https://cdn.discordapp.com/attachments/1118010661922951279/1157540994800160818/Merlin_Mod.png?ex=6518fb8f&is=6517aa0f&hm=e8aed81f98c88d898174fea5936fd46dc888042da84e800ba43caea8857462b6&",
+			"position": "Admin",
+			"name": "Merlin"
+		},
+		{
 			"imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1118010977473007677/frank.png?width=550&height=550",
 			"position": "Senior Developer",
 			"name": "Frank"
@@ -109,11 +114,6 @@
 			"imageLink": "https://cdn.discordapp.com/attachments/1118010661922951279/1157540995819388968/Rob_Slime_Mod.png?ex=6518fb8f&is=6517aa0f&hm=f19bec90513d57179e56df96b1b1b363d7499b4b6c6e85233a7992276261fe9c&",
 			"position": "Moderator",
 			"name": "Rob"
-		},
-		{
-			"imageLink": "https://cdn.discordapp.com/attachments/1118010661922951279/1157540994800160818/Merlin_Mod.png?ex=6518fb8f&is=6517aa0f&hm=e8aed81f98c88d898174fea5936fd46dc888042da84e800ba43caea8857462b6&",
-			"position": "Moderator",
-			"name": "Merlin"
 		},
 		{
 			"imageLink": "https://cdn.discordapp.com/attachments/1118010661922951279/1157905426264883282/carlos_500x500.png?ex=651a4ef6&is=6518fd76&hm=8cb74117c683875512b0ef105d5ddb767fc1dd9bf7f49495c7d2b25b704b883c&",
