@@ -36,6 +36,11 @@
 			"name": "Rue"
 		},
 		{
+			"imageLink": "https://cdn.discordapp.com/attachments/1118010661922951279/1157904727925862471/miguel_.png?ex=651a4e4f&is=6518fccf&hm=943184ceb6ea173578b2370db3adae4d63c7962cf71a708a4e2e8f18e375c1fc&",
+			"position": "Head Admin",
+			"name": "Miguel"
+		},
+		{
 			"imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1118010977473007677/frank.png?width=550&height=550",
 			"position": "Senior Developer",
 			"name": "Frank"
@@ -89,11 +94,6 @@
 			"imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1118010977787588638/FrankJ.png",
 			"position": "Admin",
 			"name": "Creamy Frank"
-		},
-		{
-			"imageLink": "https://cdn.discordapp.com/attachments/1118010661922951279/1157904727925862471/miguel_.png?ex=651a4e4f&is=6518fccf&hm=943184ceb6ea173578b2370db3adae4d63c7962cf71a708a4e2e8f18e375c1fc&",
-			"position": "Admin",
-			"name": "Miguel"
 		},
 		{
 			"imageLink": "https://cdn.discordapp.com/attachments/1118010661922951279/1157540994410106910/Jams_Mod.png?ex=6518fb8f&is=6517aa0f&hm=39ff513acd6522fa88d02660c038508b559985c17ca3a052a323108c3981f7ab&",
