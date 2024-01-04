@@ -66,6 +66,11 @@
 			"name": "Fisherman"
 		},
 		{
+			"imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1192298237881765988/maclay.png?ex=65a89143&is=65961c43&hm=b2b75a478bdc11073888030150fa4004d80574c2e669c65b5217c4cf0b274ecd&=&format=webp&quality=lossless&width=600&height=600",
+			"position": "Gun Dev",
+			"name": "Macaulay"
+		},
+		{
 			"imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1147289735115571220/placeholder.png",
 			"position": "Videographer",
 			"name": "MRD"
@@ -126,11 +131,6 @@
 			"name": "Serenity"
 		},
 		{
-			"imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1147289735115571220/placeholder.png",
-			"position": "Staff Support",
-			"name": "AJ"
-		},
-		{
 			"imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1118010988101373952/lo.png?width=550&height=550",
 			"position": "Discord Mod",
 			"name": "Lo"
@@ -139,16 +139,6 @@
 			"imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1147289735115571220/placeholder.png",
 			"position": "Discord Mod",
 			"name": "Bebo"
-		},
-		{
-			"imageLink": "https://cdn.discordapp.com/attachments/1118010661922951279/1157540996603711599/Teretto_Discord_Mod.png?ex=6518fb8f&is=6517aa0f&hm=c8c4bfced77eabfa82f1ac6bb5e9bb2abf120cabbdb81b386cf09afeeb84dca2&",
-			"position": "Discord Mod",
-			"name": "Teretto"
-		},
-		{
-			"imageLink": "https://cdn.discordapp.com/attachments/1118010661922951279/1157540995441905674/Pablo_Discord_Mod.png?ex=6518fb8f&is=6517aa0f&hm=e77bc36bedc365b0e83adc7e4908c3041ea17df459d2e4a590bd4c46a956b29c&",
-			"position": "Discord Mod",
-			"name": "Pablo"
 		},
 		{
 			"imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1147289735115571220/placeholder.png",
