@@ -141,6 +141,11 @@
 			"name": "Ploo"
 		},
 		{
+			"imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1192298257641128057/tachi.png?ex=65a89148&is=65961c48&hm=e33ddfd4380b8450b1c67e5d044cece7b2cae156fde889b62593217c6af07a1b&=&format=webp&quality=lossless&width=600&height=600",
+			"position": "Staff Support",
+			"name": "Tachi"
+		},
+		{
 			"imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1118010988101373952/lo.png?width=550&height=550",
 			"position": "Discord Mod",
 			"name": "Lo"
