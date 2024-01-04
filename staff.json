@@ -146,6 +146,11 @@
 			"name": "Tachi"
 		},
 		{
+			"imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1192307700491628645/kenzo.png?ex=65a89a13&is=65962513&hm=3bbadcd069a9011498d576696ef83d82531e5c0da197a6a2276892b82909a038&=&format=webp&quality=lossless&width=600&height=600",
+			"position": "Staff Support",
+			"name": "Kenzo"
+		},
+		{
 			"imageLink": "https://media.discordapp.net/attachments/1118010661922951279/1118010988101373952/lo.png?width=550&height=550",
 			"position": "Discord Mod",
 			"name": "Lo"
