@@ -1,6 +1,23 @@
 {
 	"items": [
 		{
+			"date": "01/10/2024",
+			"changes": [
+				"Adjusted Oxy usage from 2 to 1 (fixed)",
+				"Fixed 2 exploits related to item duplication",
+				"Reduced Lockpick, Cleaning Kit, and Advanced Repair Kit crafting costs for mechanic shops",
+				"Resolved an error on Tinker Bench item",
+				"Removed Hardened Steel from specific medical bench craftables",
+				"Added a new limited rare item to Dumpster Diving",
+				"Implemented a new Helicam Script for the police department",
+				"Updated TSB Backpack with a progress bar and restricted users from carrying more than one",
+				"Gas Stations Changes:",
+				"Set minimum gas price to $3 and maximum to $10",
+				"Increased gas rewards for runs to 400, 650, 100 (from 250, 350, 550)",
+				"Removed jerry cans"
+			]
+		},
+		{
 			"date": "12/26/2023",
 			"changes": [
 				"Removed players steam when doing shared emotes [/nearby]",
