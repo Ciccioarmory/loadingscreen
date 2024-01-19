@@ -1,6 +1,17 @@
 {
 	"items": [
 		{
+			"date": "01/10/2024 - 01/19/2024",
+			"changes": [
+				"Fixed bug with paintball, the paintball weapons will now always disappear when a game ends",
+				"Changed the amount of cops needed to sell drugs to 2",
+				"Moved T3 Warehouse location",
+				"Updated Racing",
+				"New EMS Script - In Depth healing - RP Driven Treatment - Clean new UI",
+				"Changes to Fast Treatment from EMS - You will now have a 10 min Injured De-buff when choosing to get Quick Healed by EMS"
+			]
+		},
+		{
 			"date": "01/10/2024",
 			"changes": [
 				"Adjusted Oxy usage from 2 to 1 (fixed)",
