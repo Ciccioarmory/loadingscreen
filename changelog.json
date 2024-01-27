@@ -1,6 +1,15 @@
 {
 	"items": [
 		{
+			"date": "01/26/2024",
+			"changes": [
+				"Changed the multijob menu to display the job label instead of the code-sided name",
+				"Vertically centered job labels in the multijob script (this was a long time coming tbh)",
+				"Broke all pasta in city in half to piss off Cici",
+				"Removed Herobine"
+			]
+		},
+		{
 			"date": "01/19/2024 - 01/23/2024",
 			"changes": [
 				"Fixed exploit with paintball",
