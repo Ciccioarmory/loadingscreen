@@ -1,12 +1,21 @@
 {
 	"items": [
 		{
-			"date": "01/23/2024 - 01/30/2024",
+			"date": "01/26/2024 - 01/30/2024",
 			"changes": [
 				"Added New WL Gang Script",
 				"Added New WL Gang Sprays and removers",
 				"Updated Tony with New Interactions for both Civs & WL Gangs",
 				"Removed 10 Heavy / Resource intensive Mlos from the city"
+			]
+		},
+		{
+			"date": "01/26/2024",
+			"changes": [
+				"Changed the multijob menu to display the job label instead of the code-sided name",
+				"Vertically centered job labels in the multijob script (this was a long time coming tbh)",
+				"Broke all pasta in city in half to piss off Cici",
+				"Removed Herobine"
 			]
 		},
 		{
