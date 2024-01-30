@@ -1,6 +1,15 @@
 {
 	"items": [
 		{
+			"date": "01/23/2024 - 01/30/2024",
+			"changes": [
+				"Added New WL Gang Script",
+				"Added New WL Gang Sprays and removers",
+				"Updated Tony with New Interactions for both Civs & WL Gangs",
+				"Removed 10 Heavy / Resource intensive Mlos from the city"
+			]
+		},
+		{
 			"date": "01/19/2024 - 01/23/2024",
 			"changes": [
 				"Fixed exploit with paintball",
