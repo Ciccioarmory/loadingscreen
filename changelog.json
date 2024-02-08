@@ -1,6 +1,21 @@
 {
 	"items": [
 		{
+			
+			"date": "01/30/2024 - 02/08/2024",
+			"changes": [
+				"Increased Payouts for Fleeca Banks to ~140k-200k",
+				"Increased chances of finding Safebox loot Significantly",
+				"Lowered Hacking difficulty for Fleeca Banks",
+				"Slightly Lowered Big Drill time for Fleeca Banks",
+				"Slightly Lowered Vault door open time for Fleeca Banks",
+				"Significantly Buffed payout for House Robbery Sellables",
+				"Significantly Buffed drop rates for rare and sellable items",
+				"Fixed Various items with missing images"
+			]
+		},
+		{
+			
 			"date": "01/26/2024 - 01/30/2024",
 			"changes": [
 				"Added New WL Gang Script",
