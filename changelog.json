@@ -1,5 +1,13 @@
 {
 	"items": [
+        {
+			
+			"date": "03/04/2024",
+			"changes": [
+				"Fixed Bug With viper-smuggling {Live Now!}",
+                "Fixed issue with MLO Collision on Cayo [Blocked door] {FIXED FOR NEXT RESTART}"
+			]
+		},
 		{
 			
 			"date": "01/30/2024 - 02/08/2024",
