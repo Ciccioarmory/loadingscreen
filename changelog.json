@@ -2,6 +2,19 @@
 	"items": [
         {
 			
+			"date": "03/05/2024 - 03/06/2024",
+			"changes": [
+				"Automatic Cayo Revive System,  After 5 mins you may respawn on the mainland No F8 Required",
+                "Added 2 Rental Spots for New Cayo Revive system",
+                "Added 2 Atms for New Cayo Revive System",
+                "Added New Used Car Lot Business",
+                "Updated radio",
+                "New update for the speedometer, it now has 2 different modes (use the radial menu) and supports both km and mph based on your gta settings!",
+                "New functionality for the clothing menu, now you can rotate your character with right and left arrow!"
+			]
+		},
+        {
+			
 			"date": "03/04/2024",
 			"changes": [
 				"Fixed Bug With viper-smuggling {Live Now!}",
