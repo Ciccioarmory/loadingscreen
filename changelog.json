@@ -2,6 +2,23 @@
 	"items": [
         {
 			
+			"date": "03/06/2024",
+			"changes": [
+				"Re-pushed couple of scripts that got reverted {Radio Update, Battlepass Emotes, Rentals Blips, etc}",
+                "Added New Boosted Drop 4 Total Hint: New Drop Time - wink wink - Bobby",
+                "Buffed Peso Payout for all drop types",
+                "Drops should now happen every hour even throughout EU Times.",
+                "Buffed Schematic Drop Rates on Certain Drops",
+                "Cayo Respawn : Fixed Exploit allowing you to open inventory while dead",
+                "Cayo Respawn : Improved Compatibility for false Respawns",
+                "Cayo Respawn : Fixed Bug  of Being able to spawn R to respawn immediately",
+                "Cayo Respawn : Fixed Bug where you would sometimes not be revived when respawning on the beach",
+                "Cayo Respawn : Fixed Bug where you could not use the crim doc while in the new respawn. It should now cancel the respawn process",
+                "Please Report any additional bugs you guys come across ❤️ - Viper Dev Team"
+			]
+		},
+        {
+			
 			"date": "03/05/2024 - 03/06/2024",
 			"changes": [
 				"Automatic Cayo Revive System,  After 5 mins you may respawn on the mainland No F8 Required",
