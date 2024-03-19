@@ -2,6 +2,17 @@
 	"items": [
         {
 			
+			"date": "3/19/2024",
+			"changes": [
+				"Reverted Blunt Changes [LIVE NOW]",
+                "Lowered Purchased Air Drop Signal Peso Costs [LIVE @ TSUNAMI]",
+                "Slightly Lowered Schematic Peso Costs [LIVE @ TSUNAMI]",
+                "Significantly Lowered Peso Costs for a few smuggling items [LIVE @ TSUNAMI]",
+                "Fixed a bug with the Taxation Menu items that would not let you take the items"
+			]
+		},
+        {
+			
 			"date": "03/06/2024",
 			"changes": [
 				"Re-pushed couple of scripts that got reverted {Radio Update, Battlepass Emotes, Rentals Blips, etc}",
