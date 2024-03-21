@@ -2,6 +2,16 @@
 	"items": [
         {
 			
+			"date": "3/20/2024",
+			"changes": [
+				"Removed 2 Bad Delivery Locations for Trucking Logistics Job",
+                "Buffed Payouts Significantly For Trucking Logistics Job",
+                "Slightly increased xp gains  For Trucking Logistics Job",
+                "Increased the amount of money Hired Drivers can make passively  For Trucking Logistics Job"
+			]
+		},
+        {
+			
 			"date": "3/19/2024",
 			"changes": [
 				"Reverted Blunt Changes [LIVE NOW]",
