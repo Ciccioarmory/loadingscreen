@@ -2,6 +2,18 @@
 	"items": [
         {
 			
+			"date": "3/21/2024",
+			"changes": [
+				"Added 6 New EU Timezone Rare Airdrops",
+                "Added 2 New NA Timezone Rare Airdrops",
+                "Increased  Rare Item Drop Rates on Certain Airdrops",
+                "Removed Blips from Personally Called in Airdrops",
+                "Fixed a Bug with Contract Times - For Trucking Logistics Job {Should now produce contracts at the correct rate}",
+                "Fixed a Bug with Payouts - For Trucking Logistics Job"
+			]
+		},
+        {
+			
 			"date": "3/20/2024",
 			"changes": [
 				"Removed 2 Bad Delivery Locations for Trucking Logistics Job",
