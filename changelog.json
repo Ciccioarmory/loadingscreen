@@ -9,7 +9,8 @@
                 "Increased  Rare Item Drop Rates on Certain Airdrops",
                 "Removed Blips from Personally Called in Airdrops",
                 "Fixed a Bug with Contract Times - For Trucking Logistics Job {Should now produce contracts at the correct rate}",
-                "Fixed a Bug with Payouts - For Trucking Logistics Job"
+                "Fixed a Bug with Payouts - For Trucking Logistics Job",
+                "Moved Fishing Ped at Pier so its not in the way of the door"
 			]
 		},
         {
