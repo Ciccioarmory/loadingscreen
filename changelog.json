@@ -2,6 +2,23 @@
 	"items": [
         {
 			
+			"date": "3/28/2024 - Boosting Update/ Bug Fixes / Casino Additions",
+			"changes": [
+				"Added Additional Vehicles through D-B Class",
+                "Multiple Boosting Exclusive 1of1 caliber vehicles added to S  Class",
+                "Adjusted Store S Coin Costs",
+                "Adjusted S Coin earned throughout All Classes",
+                "Adjusted VIN Scratch Cost throughout All Classes",
+                "Adjusted Experience Earned Per Boost for B and A Class",
+                "Fixed Broken Electrical Locations while doing prison time",
+                "Fixed a Exploit with Whitelisted F10 Gang Menu",
+                "Added New Poker Tournament Room  [Casino Interior Made by Bigoz  aka Ricky Yall best give dis man some appreciation yall poker demons]",
+                "Added Tv's & Speaker System to Poker Tournament Room",
+                "Added 5 High Stakes Texas Hold em Tables to Poker Tournament Room"
+			]
+		},
+        {
+			
 			"date": "3/21/2024",
 			"changes": [
 				"Added 6 New EU Timezone Rare Airdrops",
