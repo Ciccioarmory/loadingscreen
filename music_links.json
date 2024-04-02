@@ -4,13 +4,13 @@
     "music_start_index": 0,
     "music_links": [
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/music/theThrill.png",
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/music/theThrill.jpg",
             "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/theThrill.mp3",
             "author": "MSKD Sounds",
             "song_name": "Wiz Khalifa - The Thrill (BVRNOUT Remix)"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/music/projectDreams.png",
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/music/projectDreams.jpeg",
             "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/projectDreams.mp3",
             "author": "Marshmello x Roddy Ricch",
             "song_name": "Project Dreams"
