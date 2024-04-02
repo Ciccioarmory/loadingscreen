@@ -4,32 +4,32 @@
     "music_start_index": 0,
     "music_links": [
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/blob/development/january_2024_songs/channels4_profile.jpg?raw=true",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/development/january_2024_songs/Wiz_Khalifa_-_The_Thrill_BVRNOUT_Remix.mp3",
+            "img": "https://github.com/Ciccioarmory/loadingscreen/tree/main/images/music/theThrill.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/theThrill.mp3",
             "author": "MSKD Sounds",
             "song_name": "Wiz Khalifa - The Thrill (BVRNOUT Remix)"
         },
         {
-            "img": "https://media.discordapp.net/attachments/1118747241906188318/1192268520940118046/Marshmello_x_Roddy_Ricch_-_Project_Dreams.jpeg?ex=65a87596&is=65960096&hm=0cfa13d36e63aa1a4769fa906f01a4c1476f60d8bf32bb11746248a21394e274&=&format=webp&width=360&height=360",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/january_2024_songs/Marshmello_x_Roddy_Ricch_-_Project_Dreams_Lyrics.mp3",
+            "img": "https://github.com/Ciccioarmory/loadingscreen/tree/main/images/music/projectDreams.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/projectDreams.mp3",
             "author": "Marshmello x Roddy Ricch",
             "song_name": "Project Dreams"
         },
         {
-            "img": "https://media.discordapp.net/attachments/1118747241906188318/1192269843823595590/qnUlIh0.png?ex=65a876d2&is=659601d2&hm=78eae388a8ff203b86f11c1de7fbb92dbe485ab8151de03cebcc6c7f05efcf7b&=&format=webp&quality=lossless&width=676&height=676",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/january_2024_songs/Hippie_Sabotage_-_Devil_Eyes_Golden_Lyrics.mp3",
+            "img": "https://github.com/Ciccioarmory/loadingscreen/tree/main/images/music/devilEyes.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/devilEyes.mp3",
             "author": "Hippie Sabotage",
             "song_name": "Devil Eyes"
         },
         {
-            "img": "https://media.discordapp.net/attachments/1118747241906188318/1192272418593583134/Lil_Durk_-_All_My_Life_Remixes.png?ex=65a87937&is=65960437&hm=770ad749ba188bf37f71e0d856b20f3504e2f3ca1ae280df2354385fcdeb72d3&=&format=webp&quality=lossless&width=379&height=379",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/january_2024_songs/Lil_Durk_-_All_My_Life_ft._J._Cole.mp3",
+            "img": "https://github.com/Ciccioarmory/loadingscreen/tree/main/images/music/allMyLife.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/allMyLife.mp3",
             "author": "Lil Durk ft. J. Cole",
             "song_name": "All My Life"
         },
         {
-            "img": "https://media.discordapp.net/attachments/1118747241906188318/1192274918440706078/Sleepy_Hallow_-_2055.png?ex=65a87b8b&is=6596068b&hm=1989279d280807d759a02c3c4cb547263977f50e58439e786755d8bf5399d45b&=&format=webp&quality=lossless&width=264&height=264",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/january_2024_songs/Sleepy_Hallow_-_2055_Official_Video.mp3",
+            "img": "https://github.com/Ciccioarmory/loadingscreen/tree/main/images/music/2055.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/2055.mp3",
             "author": "Sleepy Hallow",
             "song_name": "2055"
         }
