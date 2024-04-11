@@ -1,5 +1,47 @@
 {
 	"items": [
+		{
+			
+			"date": "3/29/2024 - 4/10/2024 - WL Job Changes/ Bug Fixes / QOL Changes",
+			"changes": [
+				"Modified and updated the Progress Bar and Skill Check Bar with a new, clean look!",
+                "Buffed plant picking; you now pick 2-4 at a time! {Healing Agents}",
+                "Changed spawn location for T2 VIP apartments.",
+                "Contracts for trucking now come in every minute {changed from 10 mins}.",
+                "Removed broken cat textures {no more demon cats}.",
+                "PD's pay has been buffed to match EMS pay.",
+                "Added ATMs near car repair stations at LSPD, SAST, & BSCO stations",
+                "Removed a broken helicopter and replaced it with another.",
+                "Added 2 new heat vehicles: Viper and Camaro {may take a few restarts to be available}.",
+                "Removed the 2018 Mustang from PD Heat Garage and fixed ranks missing from PD Garage.",
+                "Fixed prison bus spawn for UPD.",
+				"Removed a broken PD boat and replaced it with a working one {looking to add more boats soon as well}.",
+				"Removed duplicate PDM dealership blips.",
+				"Fixed VIP and import dealership blips.",
+				"Fixed Ballas Band-Aids {stops bleeding consistently}.",
+				"PD SWAT Tahoe SUV has received new handling.",
+				"Added 2nd connected PD donation stash in ground level office.",
+				"Added a CIU armory.",
+				"CIU now has an outfit bag.",
+				"Changed PD food and drink {reskinned to coffee and donuts}.",
+				"Added DOJ office blip.",
+				"Added jail blip for Alcatraz.",
+				"Changed PD fines and charges {mainly changed to increase use of lawyer/DOJ; lawyers can now fight to lower your fines up to 40% off your final fine!}.",
+				"DOJ's pay has been significantly buffed.",
+				"EMS pay for EMTs and paramedics has been slightly altered to match PD.",
+				"New custom interactive EMS pharmacy script tied to a certification.",
+				"New EMS pharmacy pills (Percocet & Codeine) have new, unique buffs {only obtainable via EMS}.",
+				"You can now sell certain chains to pawnshops, and employees can melt chains.",
+				"All owned vehicles will now require maintenance more frequently {mechanic buff}.",
+				"Removed a bad trucking drop-off location.",
+				"Renamed multiple public garages to reflect the correct location.",
+				"Closed Pillbox Wormhole!",
+
+				"UPDATE ON DEV PROGRESS: Gang Flags are 70% complete!",
+				"UPDATE ON DEV PROGRESS: Heist updates for bank trucks, jewelry heist, and Bobcat heist are 85% complete!",
+				"UPDATE ON DEV PROGRESS: Oil Rig Fixes are 80% complete!"
+			]
+		},
         {
 			
 			"date": "3/28/2024 - Boosting Update/ Bug Fixes / Casino Additions",
