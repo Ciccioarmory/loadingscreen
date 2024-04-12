@@ -2,7 +2,7 @@
 	"items": [
 		{
 			
-			"date": "4/11/2024 - Gang Flags / Heist Update",
+			"date": "4/11/2024 - Gang Flags / Heist Update / Car Rework & Engines",
 			"changes": [
 				"Whitelisted Gang Block Flags are Back! {Increased visible radius} LIVE NOW!",
                 
@@ -23,7 +23,11 @@
 				"Adjusted Vault Loot Drops.",
 				"Added Security Office Room Loot.",
 				"Removed Nothing Found Option When Looting Vault Boxes.",
-				"Heavily Adjusted MK47 {Mutant Rifle}."
+				"Heavily Adjusted MK47 {Mutant Rifle}.",
+
+				"UPDATE ON DEV PROGRESS: Oil Rig Fixes are 85% complete!",
+				"UPDATE ON DEV PROGRESS: New Non WL JOB ??? 75% Done!",
+				"MECHANIC SHOP UPDATE - Adding/Fixing Engine Swaps and NEW Tool 75% Done!"
 			]
 		},
 		{
