@@ -2,6 +2,32 @@
 	"items": [
 		{
 			
+			"date": "4/11/2024 - Gang Flags / Heist Update",
+			"changes": [
+				"Whitelisted Gang Block Flags are Back! {Increased visible radius} LIVE NOW!",
+                
+				"Vangelico Jewelry Store Updates!",
+                "Drastically Changed Amount of Loot Dropped Per Display Case.",
+                "Total Heist Payout Increased to 180-210k {Pawnshop Smelting Required}.",
+                "Adjusted Hacking Equipment Required Due to Payout Increase.",
+                "Reworked Office Hacking with Intended Item.",
+                "Adjusted Office Loot",
+
+                "Fleeca Bank Trucks Update!",
+                "Adjusted Payout on Fleeca Bank Truck to 38-40k.",
+                "Adjusted Loot Drops on Trucks.",
+                "Adjusted Bugs with Bank Trucks Causing Limited Movement.",
+
+				"Bobcat Security Depot!",
+				"Increased Bobcat Payout to 180-220k.",
+				"Adjusted Vault Loot Drops.",
+				"Added Security Office Room Loot.",
+				"Removed Nothing Found Option When Looting Vault Boxes.",
+				"Heavily Adjusted MK47 {Mutant Rifle}."
+			]
+		},
+		{
+			
 			"date": "3/29/2024 - 4/10/2024 - WL Job Changes/ Bug Fixes / QOL Changes",
 			"changes": [
 				"Modified and updated the Progress Bar and Skill Check Bar with a new, clean look!",
