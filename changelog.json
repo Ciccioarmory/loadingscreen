@@ -2,6 +2,24 @@
 	"items": [
 		{
 			
+			"date": " 04/12/2024 - Mechanic Shop Update / Bugs and Fixes",
+			"changes": [
+				"Fixed Coyote V8 engine swap!",
+				"New Ferrari V12 engine swap!",
+				"New LS7 engine swap!",
+				"New weight reduction tool!",
+				"Removed an unnecessary menu in supply management",  
+				"Slightly rebalanced a few upgrades to ensure meaningful performance changes",  
+				"Added new engines and tools to Mechanic Crafting menu",
+				"Fixed propstuck function in F1 menu",
+				"Fixed some ped friendly fire issues",    
+
+				"UPDATE ON DEV PROGRESS: Oil Rig Fixes are 85% complete!",
+				"UPDATE ON DEV PROGRESS: New Non WL JOB ??? 85% complete!",
+			]
+		},
+		{
+			
 			"date": "4/11/2024 - Gang Flags / Heist Update / Car Rework & Engines",
 			"changes": [
 				"Whitelisted Gang Block Flags are Back! {Increased visible radius} LIVE NOW!",
