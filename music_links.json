@@ -4,34 +4,28 @@
     "music_start_index": 0,
     "music_links": [
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/music/theThrill.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/theThrill.mp3",
-            "author": "MSKD Sounds",
-            "song_name": "Wiz Khalifa - The Thrill (BVRNOUT Remix)"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/music/sheeffg.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/weightonme.mp3",
+            "author": "Sheff G feat Sleepy Hallow",
+            "song_name": "Weight On Me"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/music/projectDreams.jpeg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/projectDreams.mp3",
-            "author": "Marshmello x Roddy Ricch",
-            "song_name": "Project Dreams"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/music/teddyswims.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/losecontrol.mp3",
+            "author": "Teddy Swims",
+            "song_name": "Lose Control"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/music/devilEyes.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/devilEyes.mp3",
-            "author": "Hippie Sabotage",
-            "song_name": "Devil Eyes"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/music/worried.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/worried.mp3",
+            "author": "OneRepublic",
+            "song_name": "I Ain’t Worried"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/music/allMyLife.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/allMyLife.mp3",
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/music/shooter.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/shooter.mp3",
             "author": "Lil Durk ft. J. Cole",
             "song_name": "All My Life"
-        },
-        {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/music/2055.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/2055.mp3",
-            "author": "Sleepy Hallow",
-            "song_name": "2055"
         }
     ]
 }
