@@ -2,6 +2,36 @@
 	"items": [
 		{
 			
+			"date": " 04/13/2024 - 04/21/2024 New Towing Job, QOL Changes, PD Changes and More",
+			"changes": [
+				"Removed Medbench Blueprint Requirment for Medbench Levels 1-4",
+				"Small Adjustments Made to Entry Level Med Bench Patterns",
+				"Removed Forging Blueprint Requirment for Normal Steel Ingots",
+				"Multiple Items Changed To Now Be Able To Be Stacked: Explosive Bricks, Gun Parts, Heist Keycards, Etc!",
+				"Renamed Most City Parking Location Names For Better Identification",  
+				"Added New Parking Spot At Trucking Job Due To Popular Demand!",  
+				"Adjusted SFC Pills",
+				"Adjusted Multiple PD Vehicle Tunes",
+				"Adjusted Grades/Available Vehicles in PD Vehicle Garage (At All Three Stations)",
+				"Impound for PD/EMS Now Charging Accordingly",
+				"New Non-WL Job Towing/Repo!!",
+				"Oil Rig Heist Completed - WOOT!",
+				"Adjusted Map Blips: Size, Name, Removed Old Locations, Added New Locations",
+				"Impound for PD/EMS Now Charging Accordingly",
+				"Refactored HUD compass. Now includes visible information!",
+				"Updated various HUD elements styling. French blue is neat!", 
+				"Removed irrelevant HUD options in favor of our custom elements. Finally, rejecting fake news!",
+				"Improved HUD behavior for extra wide displays. Inclusive of all display shapes and sizes in 2024!",         
+
+				"Dev Update",
+				"BUILDING NEW PHONE APPS ~> 20%",
+				"CRAFTING MORE MECHANIC TOOLS ~> 10%",
+				"MDT UI REFACTORING ~> 35%",
+				"Heavily Adjusting Paleto Recyling Center Amount Recieved ~> 95%"
+			]
+		},
+		{
+			
 			"date": " 04/12/2024 - Mechanic Shop Update / Bugs and Fixes",
 			"changes": [
 				"Fixed Coyote V8 engine swap!",
