@@ -2,6 +2,23 @@
 	"items": [
 		{
 			
+			"date": " 04/22/2024 - 04/23/2024 New Activities, Clutch Case, Bug Fixes and QOL",
+			"changes": [
+				"Added New Rentals to PEDs",
+				"Added New Gang War Phone Script",
+				"Re-added Bowling Script",
+				"Added New Bowling MLO",
+				"Added New Basketball Script",
+				"Added New Golf Script",
+				"Added New Ping Pong Script",
+				"Added New Tennis Script",
+				"Fixed Bug With Repo Job",
+				"Added Beer Pong Script",
+				"Added Beer Pong Item to Hardware Store"
+			]
+		},
+		{
+			
 			"date": " 04/13/2024 - 04/21/2024 New Towing Job, QOL Changes, PD Changes and More",
 			"changes": [
 				"Removed Medbench Blueprint Requirment for Medbench Levels 1-4",
