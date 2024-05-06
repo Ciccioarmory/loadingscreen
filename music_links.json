@@ -4,28 +4,10 @@
     "music_start_index": 0,
     "music_links": [
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/music/sheeffg.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/weightonme.mp3",
-            "author": "Sheff G feat Sleepy Hallow",
-            "song_name": "Weight On Me"
-        },
-        {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/music/teddyswims.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/losecontrol.mp3",
-            "author": "Teddy Swims",
-            "song_name": "Lose Control"
-        },
-        {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/music/worried.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/worried.mp3",
-            "author": "OneRepublic",
-            "song_name": "I Ain’t Worried"
-        },
-        {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/music/shooter.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/shooter.mp3",
-            "author": "Lil Durk ft. J. Cole",
-            "song_name": "All My Life"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/music/ToosiiFavoriteSong.jpeg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/tony.mp3",
+            "author": "Toosii",
+            "song_name": "Favorite Song"
         }
     ]
 }
