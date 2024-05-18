@@ -180,15 +180,15 @@
 			"position": "Staff Support",
 			"name": "Bryan"
 		},
+		{
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
+			"position": "Staff Support",
+			"name": "Dequan"
+		},
         {
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/lo.png",
 			"position": "Discord Mod",
 			"name": "Lo"
-		},
-		{
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
-			"position": "Discord Mod",
-			"name": "Dequan"
 		}
 	]
 }
