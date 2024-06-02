@@ -4,38 +4,38 @@
     "music_start_index": 0,
     "music_links": [
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/music/kendrick.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/NotLikeUs.mp3",
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/images/music/kendrick.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/june_2024_songs/NotLikeUs.mp3",
             "author": "Kendrick Lamar",
             "song_name": "Not Like Us"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/music/drake.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/DRAKEFAMILYMATTERS.mp3",
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/images/music/drake.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/june_2024_songs/DRAKEFAMILYMATTERS.mp3",
             "author": "Drake",
             "song_name": "FAMILY MATTERS"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/music/teddyswims.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/losecontrol.mp3",
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/images/music/teddyswims.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/june_2024_songs/losecontrol.mp3",
             "author": "Teddy Swims",
             "song_name": "Lose Control"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/music/rodwave.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/RodWaveHeartOnIce.mp3",
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/images/music/rodwave.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/june_2024_songs/RodWaveHeartOnIce.mp3",
             "author": "Rod Wave",
             "song_name": "Heart on Ice"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/music/jcole.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/JColeNoRoleModelz.mp3",
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/images/music/jcole.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/june_2024_songs/JColeNoRoleModelz.mp3",
             "author": "J.Cole",
             "song_name": "No Role Modelz"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/music/shooter.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/shooter.mp3",
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/images/music/shooter.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/june_2024_songs/shooter.mp3",
             "author": "Drake",
             "song_name": "First Person Shooter"
         },
