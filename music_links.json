@@ -4,50 +4,50 @@
     "music_start_index": 0,
     "music_links": [
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/images/music/kendrick.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/june_2024_songs/NotLikeUs.mp3",
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/june2024/images/music/kendrick.png",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/raw/june2024/june_2024_songs/NotLikeUs.mp3",
             "author": "Kendrick Lamar",
             "song_name": "Not Like Us"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/images/music/drake.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/june_2024_songs/DRAKEFAMILYMATTERS.mp3",
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/raw/june2024/images/music/drake.png",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/raw/june2024/june_2024_songs/DRAKEFAMILYMATTERS.mp3",
             "author": "Drake",
             "song_name": "FAMILY MATTERS"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/images/music/teddyswims.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/june_2024_songs/losecontrol.mp3",
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/raw/june2024/images/music/teddyswims.png",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/raw/june2024/june_2024_songs/losecontrol.mp3",
             "author": "Teddy Swims",
             "song_name": "Lose Control"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/images/music/rodwave.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/june_2024_songs/RodWaveHeartOnIce.mp3",
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/raw/june2024/images/music/rodwave.png",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/raw/june2024/june_2024_songs/RodWaveHeartOnIce.mp3",
             "author": "Rod Wave",
             "song_name": "Heart on Ice"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/images/music/jcole.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/june_2024_songs/JColeNoRoleModelz.mp3",
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/raw/june2024/images/music/jcole.png",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/raw/june2024/june_2024_songs/JColeNoRoleModelz.mp3",
             "author": "J.Cole",
             "song_name": "No Role Modelz"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/images/music/shooter.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/june_2024_songs/shooter.mp3",
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/raw/june2024/images/music/shooter.jpg",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/raw/june2024/june_2024_songs/shooter.mp3",
             "author": "Drake",
             "song_name": "First Person Shooter"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/music/sheeffg.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/weightonme.mp3",
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/raw/main/images/music/sheeffg.jpg",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/raw/main/music/weightonme.mp3",
             "author": "Sheff G",
             "song_name": "Weight On Me"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/music/worried.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/worried.mp3",
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/raw/main/images/music/worried.jpg",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/raw/main/music/worried.mp3",
             "author": "OneRepublic",
             "song_name": "I Ain't Worried"
         }
