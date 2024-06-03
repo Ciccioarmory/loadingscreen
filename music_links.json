@@ -4,10 +4,52 @@
     "music_start_index": 0,
     "music_links": [
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/music/ToosiiFavoriteSong.jpeg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/tony.mp3",
-            "author": "Toosii",
-            "song_name": "Favorite Song"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/images/artists/kendrick.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/juneartists/NotLikeUs.mp3",
+            "author": "Kendrick Lamar",
+            "song_name": "Not Like Us"
+        },
+        {
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/images/artists/drake.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/juneartists/DRAKEFAMILYMATTERS.mp3",
+            "author": "Drake",
+            "song_name": "FAMILY MATTERS"
+        },
+        {
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/images/artists/teddyswims.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/junetunes/losecontrol.mp3",
+            "author": "Teddy Swims",
+            "song_name": "Lose Control"
+        },
+        {
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/images/artists/rodwave.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/junetunes/RodWaveHeartOnIce.mp3",
+            "author": "Rod Wave",
+            "song_name": "Heart on Ice"
+        },
+        {
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/images/artists/jcole.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/junetunes/JColeNoRoleModelz.mp3",
+            "author": "J.Cole",
+            "song_name": "No Role Modelz"
+        },
+        {
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/images/artists/shooter.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/junetunes/shooter.mp3",
+            "author": "Drake",
+            "song_name": "First Person Shooter"
+        },
+        {
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artists/sheeffg.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/junetunes/weightonme.mp3",
+            "author": "Sheff G",
+            "song_name": "Weight On Me"
+        },
+        {
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artists/worried.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/junetunes/worried.mp3",
+            "author": "OneRepublic",
+            "song_name": "I Ain't Worried"
         }
     ]
 }
