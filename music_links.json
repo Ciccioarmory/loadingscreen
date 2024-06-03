@@ -4,50 +4,50 @@
     "junetunes_start_index": 0,
     "junetunes_links": [
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/images/artistpics/kendrick.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/junetunes/NotLikeUs.mp3",
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/kendrick.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/junetunes/NotLikeUs.mp3",
             "author": "Kendrick Lamar",
             "song_name": "Not Like Us"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/images/artistpics/drake.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/junetunes/DRAKEFAMILYMATTERS.mp3",
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/drake.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/junetunes/DRAKEFAMILYMATTERS.mp3",
             "author": "Drake",
             "song_name": "FAMILY MATTERS"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/images/artistpics/teddyswims.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/junetunes/losecontrol.mp3",
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/teddyswims.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/junetunes/losecontrol.mp3",
             "author": "Teddy Swims",
             "song_name": "Lose Control"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/images/artistpics/rodwave.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/junetunes/RodWaveHeartOnIce.mp3",
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/rodwave.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/junetunes/RodWaveHeartOnIce.mp3",
             "author": "Rod Wave",
             "song_name": "Heart on Ice"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/images/artistpics/jcole.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/junetunes/JColeNoRoleModelz.mp3",
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/jcole.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/junetunes/JColeNoRoleModelz.mp3",
             "author": "J.Cole",
             "song_name": "No Role Modelz"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/images/artistpics/shooter.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/junetunes/shooter.mp3",
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/shooter.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/junetunes/shooter.mp3",
             "author": "Drake",
             "song_name": "First Person Shooter"
         },
         {
             "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/sheeffg.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/junetunes/weightonme.mp3",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/junetunes/weightonme.mp3",
             "author": "Sheff G",
             "song_name": "Weight On Me"
         },
         {
             "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/worried.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/june2024/junetunes/worried.mp3",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/junetunes/worried.mp3",
             "author": "OneRepublic",
             "song_name": "I Ain't Worried"
         }
