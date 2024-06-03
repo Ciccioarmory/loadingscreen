@@ -1,6 +1,68 @@
 {
 	"items": [
 		{
+			"date": "4/30/2024 - 6/2/2024  <>  May/June Additions, Changes & Fixes",
+			"changes": [
+				"JUNE PATCHNOTES/CHANGES",
+				"Updated Loading Screen w/New Songs and Pictures",
+				"New Case Added [Reflection Case]",
+				"Fixed a spawn code for an item in Boosting Store [Racing Tablet]",
+				"Fixed an MLO Collision Issue near Route 68",
+				"Removed a few unused MLO Assets",
+		
+				"MAY PATCHNOTES/CHANGES",
+				"MDT Update",
+				"Updated styles for PD, EMS, DOJ (and a 4th job used by admin for now) terminals",
+				"Added new Automatic Weapon registration system for Police MDTs",
+				"Fixed MDT dispatch maps not properly displaying",
+				"Automatic time logging for on and off-duty service jobs.",
+				"Integrated dispatch systems to sync with MDTs",
+				"Dispatch Update",
+				"Updated styles for dispatch UI",
+				"Updated call clarity for dispatch calls",
+				"Added new Traffic Stop button in radial menu for Police",
+				"Updated Police plate readers to sync and search with MDT", 
+				"Shots Fired adjustment - Suppressed weapons will no longer have locals call police {Star Wars Battlepass weapons still give calls}",
+				"Improved alerts when you make /112 and /911 calls - increased spam call timer to 2 minutes",
+				"Improved functionality and standardized 10-99A and 10-99B calls for service workers {10-99B for non emergency 99s}",
+				"Updated call 10-codes to match official UPD 10-codes",
+				
+				"New Phone! 10x more optimized w/New Apps!",
+				"Updated Housing Script!",
+				"Optimized all Cars & Weapons",
+				"New Clothing Pack!",
+				"TV Screen Update w/more features including smoke machines and bass sparkers",
+				"QOL Armor Update - Armor now has an animation to apply w/Progress bar",
+				"New SWAT RIOT SHIELD",
+				"2 New PD Weapons",
+				"Added Usable Items for Ankle Monitors",
+				"New PD Sling Script w/Weapon Racking System",
+				"Fixed Water Bucket Collecting",
+				"Fixed some issues w/EMS Garage & Certifications",
+				"If you die while carrying someone, you should now drop the person you are escorting on death",
+				"Fixed notifications for when other gangs steal your Territory Flags",
+				"Added missing buds to 420 Bong, fix will also work with future Battlepass bongs",
+				"Fixed a bug where anyone could pick buds from weed stores",
+				"Fixed the Cortez Sticky Note Image not showing when used",
+				"Added new cuff to chair & bench functions for MRPD [UPD]",
+				"Fixed a gun that wasn't showing as repairable in gunstores",
+				"Reduced weight of Mineral Ore",
+				"Reduced weight of Gemstones",
+				"Buffed smelting rates of charcoal",
+				"Buffed Mineral Ore trade-in rates",
+				"Balanced Material Rates for multiple civilian jobs",
+				"Fixed an exploit with turning in Mineral Ore",
+				"Added a check to re-enable walk styles automatically",
+		
+				"DEV IN-PROGRESS UPDATES",
+				"Crafting Benches Overhaul/Rework ~> 75%",
+				"New Heist/Robbery ~> 75%",
+				"Fishing Update/Buff ~> 40%",
+				"Hunting Update/Buff ~> 65%",
+				"CIU Technician New Certification ~> 15%"
+			]
+		},
+		{
 			
 			"date": " 04/23/2024 - 04/30/2024 Viper 3.5, Maps, QOL and More",
 			"changes": [
