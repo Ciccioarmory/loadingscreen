@@ -1,6 +1,42 @@
 {
 	"items": [
 		{
+			"date": "6/2/2024 - 6/16/2024 <> June Additions, Changes & Fixes So Far",
+			"changes": [
+				"JUNE PATCH NOTES/CHANGES",
+				"Major Blunt Buff/Rework!",
+				"SFC Armor Pill Change/Balance",
+				"Drug Selling Prices have been buffed",
+				"Fixed Multiple Job Outfits for Non-WL Jobs",
+				"Moved Rolling Station for Puff Puff Pass",
+				"NEW! MRPD",
+				"Fixed and Moved Various PD Locations to work with new PD",
+				"Removed Various NoPixel Maps",
+				"Removed a few unused MLO Assets",
+				"Fixed a few bugs with certain Mechbays",
+				"Fixed Food Crafting Menu for Lil Seoul Bar",
+				"Made a VU Drink item non-alcoholic",
+				"Puff Puff Pass vape pens no longer require a lighter",
+				"Pushed new Trading Card Script!",
+				"Lowered gas export prices by 50%",
+				"Raised Gas Storage Size",
+				"Raised Gas Transport Limit (Can pick up a lot more gas in 1 run)",
+				"Updated Services App to include All Businesses (If you believe your business is missing contact business coordinators)",
+				"Updated Services App Pics for businesses that have submitted a logo",
+				"Fixed Stripper Poles at VU",
+				"Pushed New Battle Pass!",
+				"Fixed Various Bugs at Seoul Rooftop Bar",
+				"Fixed Various Unscrapable Items",
+		
+				"DEV IN-PROGRESS UPDATES",
+				"Crafting Benches Overhaul/Rework ~> 85%",
+				"New Heist/Robbery ~> 85%",
+				"Hunting Update/Buff ~> 75%",
+				"Fishing Update/Buff ~> 40%",
+				"CIU Technician New Certification ~> 20%"
+			]
+		},		
+		{
 			"date": "4/30/2024 - 6/2/2024  <>  May/June Additions, Changes & Fixes",
 			"changes": [
 				"JUNE PATCHNOTES/CHANGES",
