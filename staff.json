@@ -106,14 +106,14 @@
 			"name": "Ploo"
 		},
 		{
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/devin.png",
+			"position": "Admin",
+			"name": "Dev"
+		},
+		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/jams.png",
 			"position": "Moderator",
 			"name": "Jams"
-		},
-		{
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/devin.png",
-			"position": "Moderator",
-			"name": "Dev"
 		},
 		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/kenzo.png",
