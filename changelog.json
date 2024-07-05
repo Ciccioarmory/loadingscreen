@@ -1,6 +1,62 @@
 {
 	"items": [
 		{
+			"date": "6/16/2024 - 7/5/2024 <> July Update, Changes & Fixes So Far",
+			"changes": [
+				"JULY UPDATE 1",
+				"Custom In City Airdrop Script!",
+				"New Craftable PPSH43 w/ 4 Skin Variants (Parts Obtained only from in-city airdrops) THIS WEAPON IS ONLY OBTAINABLE IN CITY",
+				"New PPSH43 Ammo Type (7.62x25 Shatterpoint, Illegal Ammo)",
+				"Added 7.62x25 Shatterpoint Ammo Blueprint",
+				"Ammunations Can Craft this Illegal Ammo w/ Blueprint if found. But you run the risk of getting caught w/this ammo be cautious if you decide to manufacture this ammo",
+				"3 New Weapon Skin Items (Needed to craft PPSH43 Variants)",
+
+				"HUNTING UPDATE",
+				"Hunting has recived a entire rework (Locations, Items, Spawnrates, Sell Prices)",
+				"5 New Animal Hides",
+				"4 New Animal Meat types",
+				"5 New Rare Animal Drops",
+				"3 New Hunting Rifles (Grandpas Hunting Rifle, Remington Model 700, Modern Hunting Rifle)",
+				"2 New Hunting Ammo Types (New/Old Player friendly ammo that is affordable to Hunt with)",
+				"New Hunting Store Near Paleto - Bayview Lodge General Store (Buy, Sell Hunting stuff here)",
+				"New Hunting License (Must buy and carry to legally hunt in San Andreas. Buyable from Bayview Lodge General Store)",
+				"Ammunations have 2 New Craftable items (Remington Model 700 & Modern Hunting Rifle Ammo)",
+				"Major Hunting Exchange Price Buff",
+				"Major Spawn Rate Buff, spawns have been increased by 60% in the northern parts of San Andreas",
+
+
+				"NEW Medal In-Game Intergrations!",
+				"/report Command will now autoclip the last 2 mins if Medal is Activly running",
+				"NEW In-Game F1 Medal Intergration to record 2min, 5min, 10min, 15min Clips (Must have medal configued properly to use longer recording times)",
+				"NEW Auto Cliping when you eject out of a car (Upload any funny clips you get with this!)",
+
+				"NEW Hospital! : San Fiacrce",
+				"Fixed and Moved Various EMS Locations to work with New Hospital",
+
+				"NEW BATTLEPASS! : The Invasion",
+				"2 New Battlepass Weapons",
+				"3 New Battlepass Emotes",
+				"6 New Consumable Items",
+
+				"Misc. Changes",
+				"Fixed a couple of gang stash issues",
+				"Removed a couple of outdated stashes",
+				"Fixed weight on Blunts for Puff Puff Pass",
+				"Made /playdoCam useable by all players (USE THIS COMMAND TO GET RID OF PLAYDO)",
+				"Updated Fingerprint Scanner for PD",
+				"Restricted Elevator Access @ PD to WL Jobs Only",
+				"Fixed missing ingredients at Food Supply Store",
+				"Fixed and issue with Dealership cars not being able to be spray painted",
+				"Re-Ballenced SFC Pills (Re-Buff)",
+
+				"DEV IN-PROGRESS UPDATES",
+				"New Heist/Robbery ~> 95%",
+				"Crafting Benches Overhaul/Rework ~> 90%",
+				"Fishing Update/Buff ~> 55%",
+				"CIU Technician New Certification ~> 30%"
+			]
+		},	
+		{
 			"date": "6/2/2024 - 6/16/2024 <> June Additions, Changes & Fixes So Far",
 			"changes": [
 				"JUNE PATCH NOTES/CHANGES",
