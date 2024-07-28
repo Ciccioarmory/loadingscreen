@@ -141,7 +141,7 @@
 			"name": "Jay"
 		},
         {
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/tyrone.png",
 			"position": "Moderator",
 			"name": "Tyrone"
 		},
@@ -177,58 +177,54 @@
 		},
 		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/dae.png",
-			"position": "Staff Support",
+			"position": "Moderator",
 			"name": "Dae"
 		},
+		{
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/serenity.png",
+			"position": "Moderator",
+			"name": "Serenity"
+		},		
+		{
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/roman.png",
+			"position": "Moderator",
+			"name": "Roman"
+		},
+		{
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/kenny.png",
+			"position": "Moderator",
+			"name": "Kenny"
+		},
+		{
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
+			"position": "Moderator",
+			"name": "Ash"
+		},		
 		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/Dee.png",
 			"position": "Staff Support",
 			"name": "Dee"
 		},		
-		{
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/serenity.png",
-			"position": "Staff Support",
-			"name": "Serenity"
-		},		
-		{
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/roman.png",
-			"position": "Staff Support",
-			"name": "Roman"
-		},
-		{
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/kenny.png",
-			"position": "Staff Support",
-			"name": "Kenny"
-		},
-		{
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
-			"position": "Staff Support",
-			"name": "Ash"
-		},		
-		{
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/ray%20ray.png",
-			"position": "Discord Mod",
-			"name": "Ray Ray"
-		},				{
+				{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/owen.png",
-			"position": "Discord Mod",
+			"position": "Staff Support",
 			"name": "Owen"
 		},		
-        {
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
-			"position": "Discord Mod",
-			"name": "Deezy"
-		},
 		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
-			"position": "Discord Mod",
+			"position": "Staff Support",
 			"name": "Barbie"
 		},				
         {
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
-			"position": "Discord Mod",
+			"position": "Staff Support",
 			"name": "Draco"
 		},				
+		{
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
+			"position": "Discord Mod",
+			"name": "Deezy"
+		},
         {
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/lo.png",
 			"position": "Discord Mod",
