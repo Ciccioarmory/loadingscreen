@@ -1,6 +1,63 @@
 {
 	"items": [
 		{
+			"date": "7/5/2024 - 7/30/2024 <> July Update 2, Changes/Fixes/Updates",
+			"changes": [
+				"JULY UPDATE 2",
+		
+				"New! Paleto Bank Robbery - This robbery has been rebuilt from the ground up",
+				"Multiple ways to rob the bank (some may be more rewarding than other easier methods)",
+				"New! Interactive Security Systems (Cameras, players must learn the mechanics to successfully complete the robbery)",
+				"New! Multi-Player Hacks (Players must work together/time/communicate to beat this new hack)",
+				"New! Items needed to fully rob the bank (these items can be obtained from other robberies and some are crafted)",
+				"New! Robbery Reward (Cash Type)",
+		
+				"New! Van Robbery",
+				"21 possible spawn locations",
+				"New! Item (Frequency Scanner)",
+		
+				"Updated Scoreboard (Home Menu)",
+				"We have added all robberies & heists to the scoreboard along with the correct number of cops needed",
+				"All robbery logos have also been updated",
+		
+				"Updated Paintball Script",
+				"Added many of the new case weapons",
+		
+				"Updated Seatbelt Script",
+				"If you get ejected from a car a (Breaking Glass) audio will now play",
+				"This new audio will also play for nearby players, this will help when your homies forget to buckle up as you will hear the audio of them flying out of your car",
+				"When a player gets ejected out of the car it will now break the front windshield",
+		
+				"Misc.",
+				"3 New craftable items",
+				"Added multiple businesses that were missing to the services app (If your business is missing please contact our Business Coordinators)",
+				"Fixed some missing ingredients @ yacht bar",
+				"Added 5 more armor to SFC pills",
+				"Updated New player first time load in (Updated PD and EMS Locations)",
+				"Fixed a stash exploit/duping method - ps Fuck y'all that do this shit and don't report it :( y'all make Bobby sad just know",
+				"Fixed an exploit with /playdocam",
+				"Removed alcohol effect from Red Dragons Green Tea & Chai Latte",
+				"Fixed an exploit with Radio (was able to be on radio while on your side)",
+				"Added Back OG Super Lotto Script & Fixed issues with it not working",
+				"Fixed issue with banned zones (when banned in one zone you will no longer be banned in others)",
+				"Fixed issues with EMS Pharmacy script",
+				"Fixed incorrect clothing number for EMS surgical gloves",
+				"Fixed EMS Application Ped Location",
+				"Fixed Hunting Licenses - ped should now give you one when bought for the first time & you can buy replacements from city hall",
+				"Fixed Cigars for Pipe Down - they now give the correct effects",
+				"Made gang flag zones slightly bigger",
+				"Job vehicles will no longer poof during car wipes",
+				"Fixed issues with certain battle pass items not working properly",
+		
+				"DEV IN-PROGRESS UPDATES",
+				"New! Ramps/PVP Script ~> 25%",
+				"Crafting Benches Overhaul/Rework ~> 95%",
+				"Big Fishing Update/Buff ~> 75%",
+				"New Evidence Script ~> 45%",
+				"CIU Technician New Certification ~> 35%"
+			]
+		},
+		{
 			"date": "6/16/2024 - 7/5/2024 <> July Update, Changes & Fixes So Far",
 			"changes": [
 				"JULY UPDATE 1",
@@ -55,7 +112,7 @@
 				"Fishing Update/Buff ~> 55%",
 				"CIU Technician New Certification ~> 30%"
 			]
-		},	
+		},
 		{
 			"date": "6/2/2024 - 6/16/2024 <> June Additions, Changes & Fixes So Far",
 			"changes": [
