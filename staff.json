@@ -50,11 +50,6 @@
 			"position": "Developer",
 			"name": "Xoraphox"
 		},
-        {
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/scott.png",
-			"position": "Assistant Developer",
-			"name": "Scott"
-		},
 		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/alter.png",
 			"position": "Developer / Modeler",
@@ -84,6 +79,11 @@
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/abrams.png",
 			"position": "Senior Admin",
 			"name": "Tyler"
+		},
+		{
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/scott.png",
+			"position": "Senior Admin",
+			"name": "Scott"
 		},
         {
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/merlin.png",
