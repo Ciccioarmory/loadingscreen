@@ -36,6 +36,11 @@
 			"name": "Ricky"
 		},
 		{
+			"imageLink": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/staff/cowboyFrank.png",
+			"position": "Senior Developer",
+			"name": "Cowboy Frank"
+		},
+		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/liam.png",
 			"position": "Developer",
 			"name": "Liam"
