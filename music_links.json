@@ -4,52 +4,64 @@
     "music_start_index": 0,
     "music_links": [
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/kendrick.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/NotLikeUs.mp3",
-            "author": "Kendrick Lamar",
-            "song_name": "Not Like Us"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/Sept-2024/images/artistpics/Dilemma.png",
+            "url": "",
+            "author": "",
+            "song_name": ""
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/drake.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/DRAKEFAMILYMATTERS.mp3",
-            "author": "Drake",
-            "song_name": "FAMILY MATTERS"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/Sept-2024/images/artistpics/FE!N.png",
+            "url": "",
+            "author": "",
+            "song_name": ""
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/teddyswims.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/losecontrol.mp3",
-            "author": "Teddy Swims",
-            "song_name": "Lose Control"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/Sept-2024/images/artistpics/FukDaPolice.png",
+            "url": "",
+            "author": "",
+            "song_name": ""
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/rodwave.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/RodWaveHeartOnIce.mp3",
-            "author": "Rod Wave",
-            "song_name": "Heart on Ice"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/Sept-2024/images/artistpics/HitEmUp.png",
+            "url": "",
+            "author": "",
+            "song_name": ""
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/jcole.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/JColeNoRoleModelz.mp3",
-            "author": "J.Cole",
-            "song_name": "No Role Modelz"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/Sept-2024/images/artistpics/Houdini.png",
+            "url": "",
+            "author": "",
+            "song_name": ""
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/shooter.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/shooter.mp3",
-            "author": "Drake",
-            "song_name": "First Person Shooter"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/Sept-2024/images/artistpics/MetroBooming.png",
+            "url": "",
+            "author": "",
+            "song_name": ""
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/sheeffg.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/weightonme.mp3",
-            "author": "Sheff G",
-            "song_name": "Weight On Me"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/Sept-2024/images/artistpics/MillionDollarBaby.png",
+            "url": "",
+            "author": "",
+            "song_name": ""
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/worried.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/worried.mp3",
-            "author": "OneRepublic",
-            "song_name": "I Ain't Worried"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/Sept-2024/images/artistpics/Mmhmm.png",
+            "url": "",
+            "author": "",
+            "song_name": ""
+        },
+        {
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/Sept-2024/images/artistpics/ProveIt.png",
+            "url": "",
+            "author": "",
+            "song_name": ""
+        },
+        {
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/Sept-2024/images/artistpics/YeahGlo!.png",
+            "url": "",
+            "author": "",
+            "song_name": ""
         }
     ]
 }
