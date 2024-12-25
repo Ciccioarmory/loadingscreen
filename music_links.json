@@ -4,16 +4,16 @@
     "music_start_index": 0,
     "music_links": [
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/mistletoe.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/mistletoe.mp3",
-            "author": "-",
-            "song_name": "Mistletoe"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/Mariah Carey.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/All I Want for Christmas Is You.mp3",
+            "author": "Mariah Carey",
+            "song_name": "All I Want for Christmas Is You"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/drake.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/DRAKEFAMILYMATTERS.mp3",
-            "author": "Drake",
-            "song_name": "FAMILY MATTERS"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/mistletoe.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/mistletoe.mp3",
+            "author": "Unknown",
+            "song_name": "Mistletoe"
         },
         {
             "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/teddyswims.png",
