@@ -4,10 +4,10 @@
     "music_start_index": 0,
     "music_links": [
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/kendrick.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/NotLikeUs.mp3",
-            "author": "Kendrick Lamar",
-            "song_name": "Not Like Us"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/mistletoe.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/mistletoe.mp3",
+            "author": "-",
+            "song_name": "Mistletoe"
         },
         {
             "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/drake.png",
