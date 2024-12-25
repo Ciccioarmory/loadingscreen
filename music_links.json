@@ -4,12 +4,6 @@
     "music_start_index": 0,
     "music_links": [
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/Mariah Carey.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/AllIWantforChristmasIsYou.mp3",
-            "author": "Mariah Carey",
-            "song_name": "All I Want for Christmas Is You"
-        },
-        {
             "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/mistletoe.png",
             "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/mistletoe.mp3",
             "author": "Unknown",
