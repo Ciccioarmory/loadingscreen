@@ -4,64 +4,10 @@
     "music_start_index": 0,
     "music_links": [
         {
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/Sept-2024/images/artistpics/Dilemma.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/Sept-2024/music/Dilemma.mp3",
-            "author": "Nelly",
-            "song_name": "Dilemma"
-        },
-        {
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/Sept-2024/images/artistpics/FE!N.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/Sept-2024/music/FE!N.mp3",
-            "author": "Travis Scott - ft. Playboi Carti",
-            "song_name": "FE!N"
-        },
-        {
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/Sept-2024/images/artistpics/FukDaPolice.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/Sept-2024/music/FukDaPolice.mp3",
-            "author": "N.W.A.",
-            "song_name": "Fuck Tha Police"
-        },
-        {
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/Sept-2024/images/artistpics/HitEmUp.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/Sept-2024/music/HitEmUp.mp3",
-            "author": "2Pac",
-            "song_name": "Hit 'Em Up"
-        },
-        {
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/Sept-2024/images/artistpics/Houdini.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/Sept-2024/music/Houdini.mp3",
-            "author": "Eminem",
-            "song_name": "Houdini"
-        },
-        {
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/Sept-2024/images/artistpics/MetroBooming.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/Sept-2024/music/MetroBoomin.mp3",
-            "author": "Future, Metro Boomin, Kendrick Lamar",
-            "song_name": "Like That"
-        },
-        {
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/Sept-2024/images/artistpics/MillionDollarBaby.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/Sept-2024/music/MillionDollarBaby.mp3",
-            "author": "Tommy Richman",
-            "song_name": "MILLION DOLLAR BABY"
-        },
-        {
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/Sept-2024/images/artistpics/Mmhmm.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/Sept-2024/music/Mmhmm.mp3",
-            "author": "BigXthaPlug",
-            "song_name": "Mmhmm"
-        },
-        {
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/Sept-2024/images/artistpics/ProveIt.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/Sept-2024/music/ProveIt.mp3",
-            "author": "21 Savage, Summer Walker",
-            "song_name": "Prove It"
-        },
-        {
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/Sept-2024/images/artistpics/YeahGlo!.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/Sept-2024/music/YeahGlo!.mp3",
-            "author": "GloRilla",
-            "song_name": "Yeah Glo!"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/mistletoe.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/mistletoe.mp3",
+            "author": "Joey Monasterial",
+            "song_name": "Mistletoe"
         }
     ]
 }
