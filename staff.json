@@ -111,11 +111,6 @@
 			"name": "Serenity"
 		},
 		{
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/Amber.png",
-			"position": "Admin",
-			"name": "Amber"
-		},
-		{
 			"imageLink": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/staff/Griffa.png",
 			"position": "Admin",
 			"name": "Griffa"
@@ -134,11 +129,6 @@
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/tyrone.png",
 			"position": "Admin",
 			"name": "Tyrone"
-		},
-		{
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/jams.png",
-			"position": "Moderator",
-			"name": "Jams"
 		},
 		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/kenzo.png",
@@ -160,11 +150,6 @@
 			"position": "Moderator",
 			"name": "Yuki"
 		},
-        {
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/Jed.png",
-			"position": "Moderator",
-			"name": "Jed"
-		},
 		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/bryan.png",
 			"position": "Moderator",
@@ -184,11 +169,6 @@
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/Lew.png",
 			"position": "Moderator",
 			"name": "Lew"
-		},
-		{
-			"imageLink": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/staff/Smorty.png",
-			"position": "Moderator",
-			"name": "Smorty"
 		},
 		{
 			"imageLink": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/staff/Phil.png",
