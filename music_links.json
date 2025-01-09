@@ -4,10 +4,34 @@
     "music_start_index": 0,
     "music_links": [
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/mistletoe.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/mistletoe.mp3",
-            "author": "Joey Monasterial",
-            "song_name": "Mistletoe"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/kendricklamartv.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/tvoff.mp3",
+            "author": "Kendrick Lamar",
+            "song_name": "tv off"
+        },
+        { 
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/tsbrecords.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/isaidwhatisaid.mp3",
+            "author": "TSB Records",
+            "song_name": "I SAID WHAT I SAID"
+        },
+        {
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/kendricklamartv.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/squabbleup.mp3",
+            "author": "Kendrick Lamar",
+            "song_name": "squabble up"
+        },
+        {
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/morganwallen.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/lovesomebody.mp3",
+            "author": "Morgan Wallen",
+            "song_name": "Love Somebody"
+        },
+        {
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/micahpalace.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/otravez.mp3",
+            "author": "MICAH PALACE",
+            "song_name": "OTRA VEZ"
         }
     ]
 }
