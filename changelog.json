@@ -1,6 +1,42 @@
 {
 	"items": [
 		{
+			"date": "2/9/2025 <> Changes/Fixes/Updates",
+			"changes": [
+				"New! Gang Bulk Drug Runs",
+				
+				"-- Gang Bulk Drug Runs --",
+				"Added new bulk drug selling system for gangs.",
+				"Start a drug run at your gang's menu location.",
+				"Steal a van, package drugs, and protect the product until a buyer is found.",
+				"Other Gangs are notified of your drug run and can attempt to steal your product.",
+				
+				"-- Spawn Tutorial --",
+				"Modernized entire spawn tutorial with our new systems :",
+				"Updated Interaction System to use our new [E] Interact.",
+				"Updated tasks to use our new Task UI system.",
+				"Updated location descriptions with our new Tooltip system."
+			]
+		},
+		{
+			"date": "2/8/2025 <> Changes/Fixes/Updates",
+			"changes": [
+				"Nightclubs and Tooltip Update",
+				
+				"-- Nightclubs --",
+				"NEW! 'Tip Stripper' feature for nightclubs.",
+				"NEW! Launder dirty money through nightclubs. A portion of the dirty money in a player's inventory will be cleaned based on the amount of cash tipped.",
+				"Added user interface for selecting strippers and tip amounts when multiple dancers are eligible to be tipped.",
+				
+				"-- Tooltip System --",
+				"NEW! 'Interaction Tooltips' styling for large zones interactable via the 'E' key.",
+				"Added compatibility for adding tooltips without images.",
+				
+				"-- Misc Changes --",
+				"Removed some uneccessary F8 prints in the console.",
+			]
+		},
+		{
 			"date": "9/2/2024 <> Changes/Fixes/Updates",
 			"changes": [
 				"New! Turf War WL Gang Script",
