@@ -139,7 +139,12 @@
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/marc2.png",
 			"position": "Admin",
 			"name": "Marc"
-		},	
+		},
+		{
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/rue.png",
+			"position": "Admin",
+			"name": "Rue"
+		},
 		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/kenny.png",
 			"position": "Moderator",
@@ -164,11 +169,6 @@
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
 			"position": "Moderator",
 			"name": "Sam"
-		},
-		{
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/rue.png",
-			"position": "Moderator",
-			"name": "Rue"
 		},
 		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/Lua.png",
