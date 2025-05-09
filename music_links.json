@@ -4,34 +4,40 @@
     "music_start_index": 0,
     "music_links": [
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/kendricklamartv.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/tvoff.mp3",
-            "author": "Kendrick Lamar",
-            "song_name": "tv off"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/TeddySwimsAreYouEvenReal.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/teddyswimsareyouevenreal.mp3",
+            "author": "Teddy Swims",
+            "song_name": "Are You Even Real"
         },
         { 
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/tsbrecords.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/isaidwhatisaid.mp3",
-            "author": "TSB Records",
-            "song_name": "I SAID WHAT I SAID"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/MoneyManSidewayz.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/MoneyManSidewayz.mp3",
+            "author": "MoneyMan",
+            "song_name": "Sidewayz"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/kendricklamartv.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/squabbleup.mp3",
-            "author": "Kendrick Lamar",
-            "song_name": "squabble up"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/LitheFallBackftNAV.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/LitheFallBackftNAV.mp3",
+            "author": "Lithe",
+            "song_name": "FallBack ft. NAV"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/morganwallen.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/lovesomebody.mp3",
-            "author": "Morgan Wallen",
-            "song_name": "Love Somebody"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/DaBoiiBananas.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/DaBoiiBananas.mp3",
+            "author": "DaBoii",
+            "song_name": "Bananas"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/micahpalace.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/otravez.mp3",
-            "author": "MICAH PALACE",
-            "song_name": "OTRA VEZ"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/22GzTwirlanta.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/22GzTwirlanta.mp3",
+            "author": "22Gz",
+            "song_name": "Twirlanta"
+        },
+                {
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/BensonBooneBeautifulThings.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/BensonBooneBeautifulThings.mp3",
+            "author": "Benson Boone",
+            "song_name": "Beautiful Things"
         }
     ]
 }
