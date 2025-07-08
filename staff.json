@@ -80,6 +80,16 @@
 			"position": "Senior Admin",
 			"name": "Merlin"
 		},
+				{
+			"imageLink": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/staff/Griffa.png",
+			"position": "Senior Admin",
+			"name": "Griffa"
+		},
+		{
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
+			"position": "Senior Admin",
+			"name": "Ash"
+		},
         {
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/dog.png",
 			"position": "Admin",
@@ -89,16 +99,6 @@
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/devin.png",
 			"position": "Admin",
 			"name": "Dev"
-		},
-		{
-			"imageLink": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/staff/Griffa.png",
-			"position": "Admin",
-			"name": "Griffa"
-		},
-		{
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
-			"position": "Admin",
-			"name": "Ash"
 		},
 		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/tyrone.png",
