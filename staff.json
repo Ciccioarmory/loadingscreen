@@ -70,16 +70,6 @@
 			"position": "Car Team",
 			"name": "Chuck"
 		},
-        {
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/frosty.png",
-			"position": "Event Manager",
-			"name": "Frosty"
-		},
-        {
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/merlin.png",
-			"position": "Senior Admin",
-			"name": "Merlin"
-		},
 				{
 			"imageLink": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/staff/Griffa.png",
 			"position": "Senior Admin",
@@ -99,11 +89,6 @@
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/devin.png",
 			"position": "Admin",
 			"name": "Dev"
-		},
-		{
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/tyrone.png",
-			"position": "Admin",
-			"name": "Tyrone"
 		},
         {
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/yuki.png",
@@ -130,11 +115,6 @@
 			"position": "Admin",
 			"name": "Rue"
 		},
-		{
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/kenny.png",
-			"position": "Moderator",
-			"name": "Kenny"
-		},	
 		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
 			"position": "Moderator",
