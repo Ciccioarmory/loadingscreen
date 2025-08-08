@@ -4,40 +4,46 @@
     "music_start_index": 0,
     "music_links": [
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/TeddySwimsAreYouEvenReal.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/teddyswimsareyouevenreal.mp3",
-            "author": "Teddy Swims",
-            "song_name": "Are You Even Real"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/joeylapori.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/losecontrol.mp3",
+            "author": "Joey Lapori",
+            "song_name": "Lose Control Cover"
         },
         { 
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/MoneyManSidewayz.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/MoneyManSidewayz.mp3",
-            "author": "MoneyMan",
-            "song_name": "Sidewayz"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/Lil_Durk_-_All_My_Life_Remixes.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/Lil_Durk_-_All_My_Life_ft._J._Cole.mp3",
+            "author": "Lil Durk",
+            "song_name": "All My Life (Remix) ft. J. Cole"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/LitheFallBackftNAV.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/LitheFallBackftNAV.mp3",
-            "author": "Lithe",
-            "song_name": "FallBack ft. NAV"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/Marshmello_x_Roddy_Ricch_-_Project_Dreams.jpeg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/Marshmello_x_Roddy_Ricch_-_Project_Dreams.mp3",
+            "author": "Marshmello x Roddy Ricch",
+            "song_name": "Project Dreams"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/DaBoiiBananas.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/DaBoiiBananas.mp3",
-            "author": "DaBoii",
-            "song_name": "Bananas"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/devileyes.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/Hippie_Sabotage_-_Devil_Eyes_Golden_Lyrics.mp3",
+            "author": "Hippie Sabotage",
+            "song_name": "Devil Eyes"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/22GzTwirlanta.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/22GzTwirlanta.mp3",
-            "author": "22Gz",
-            "song_name": "Twirlanta"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/Sleepy_Hallow_-_2055.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/Sleepy_Hallow_-_2055_Official_Video.mp3",
+            "author": "Sleepy Hallow",
+            "song_name": "2055"
         },
-                {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/BensonBooneBeautifulThings.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/BensonBooneBeautifulThings.mp3",
-            "author": "Benson Boone",
-            "song_name": "Beautiful Things"
+        {
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/Toosii_-_Favorite_Song.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/Toosii_-_Favorite_Song_Official_Video.mp3",
+            "author": "Toosii",
+            "song_name": "Favorite Song"
+        },        
+        {
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/GGvip.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/ft_char_final.mp3",
+            "author": "Paff & Char",
+            "song_name": "Die For This"
         }
     ]
 }
