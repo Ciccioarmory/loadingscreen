@@ -1,13 +1,40 @@
 {
 	"items": [
 		{
+			"date": "08/16/25 -> New Content, Balance and QoL Improvements",
+			"changes": [
+				"== New Drug: Spiked Crack! ==",
+				"Custom recipes and effect combinations!",
+				"Name your custom batches!",
+				"Added many new items for mixing.",
+				"New sellable items for Restaurants, Bars and Dispensaries!",
+				"Completely custom user interface, specifically designed to ehance your drug mixing experience!",
+				"Find Spiked Crack ingredients hidden in Cayo Perico stashes",
+				"",
+				"== Balance Changes! ==",
+				"Increased drop rates on select Cayo Airdrop loot!",
+				"Higher Peso payouts per Cayo Airdrop!",
+				"Increased materials gained from rusted car parts at the Scrapyard!",
+				"",
+				"== Quality of Life Enhancements! ==",
+				"Added a notify that text has been copied when clicking your Citizen ID (CID) or Server ID.",
+				"-> The pausemenu always copied this info on click, but it was not as clear to the player as it should be.",
+				"Added back the '/duty' command, this command toggles your current jobs duty state between 'On Duty' and 'Off Duty'.",
+				"-> Fixed the Duty toggle button within the pausemenu.",
+				"-> Clicking the duty option on your player information will toggle your duty state.",
+				"Added a command to stop an ongoing countdown on your client if it becomes scuffed for any reason. '/stopCountdown'",
+				"",
+				"More coming soonTM"
+			]
+		},
+		{
 			"date": "07/14/25 -> Coin Shop Redux",
 			"changes": [
 				"Added a new `Pending Purchases` interface.",
-				"-> Useful when you make a purchase and we are unable to immediately give you the items for anreason.",
+				"-> Useful when you make a purchase and we are unable to immediately give you the items for any reason.",
 				"-> You can view your Pending Purchases by clicking the gift box button in the title bar.",
 				"-> The Coin Shop will notify you if you have a Pending Purchase.",
-				"-> Pending Purchases will visually indicate unclaimed Pendind Packages.",
+				"-> Pending Purchases will visually indicate unclaimed Pending Packages.",
 				"",
 				"Fixed many small visual bugs related to hover effects and button interactivity.",
 				"Fixed coin package cards size scaling to fit uniformly.",
