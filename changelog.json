@@ -1,6 +1,29 @@
 {
 	"items": [
 		{
+			"date": "08/18/25 -> Drug selling, Balance and QoL Improvements",
+			"changes": [
+				"== Crack Enhancements ==",
+				"Crack is now cornersellable as a high end drug. The feens been itching for those new mixes!",
+				"Crack Pipes spawn rates have been increased!",
+				"Crack Pipes now also spawn in a new searchable container (located in city limits)",
+				"",
+				"== Mechshop Crafting Quality of Life! ==",
+				"Added Rubber crafting to all mechanic benches. You can now compound your scraps into a full piece!",
+				"",
+				"== Emote Menu Adjustments ==",
+				"Removed the ability to favorite walking styles.",
+				"-> This conflicted heavily with our favorite system causing most of the reported emote menu issues.",
+				"-> This is not our final solution, we will be looking into other methods to reimplement this feature in the future.",
+				"Optimized Walk style handling to support persisting your last walk style when flying in.",
+				"-> Occasionally, your walk style may be reset by another emote, animation, or scenario. To combat this we have added a check to set your walk style back to your last selected style when you stand up from a crouched position.",
+				"-> If any players are having issues with the emote menu not opening or otherwise not working as intended. PLEASE open a ticket in our Discord so we can assist you!",
+				"-> This is not our final fix, but will alleviate many issues while we build a more robust system.",
+				"Reduced placeable emote distance to a more reasonable maximum. (about 5 meters)",
+				"When placing an emote, your character will now walk to the placement location before the emote starts, enhancing immersion."
+			]
+		},
+		{
 			"date": "08/16/25 -> New Content, Balance and QoL Improvements",
 			"changes": [
 				"== New Drug: Spiked Crack! ==",
