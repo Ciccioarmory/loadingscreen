@@ -61,6 +61,11 @@
 			"name": "Hails"
 		},
 		{
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
+			"position": "Developer",
+			"name": "Moe"
+		},
+		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/alter.png",
 			"position": "Best Boy",
 			"name": "Alter"
@@ -126,7 +131,7 @@
 			"name": "Joey"
 		},
 		{
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/sam.png",
 			"position": "Moderator",
 			"name": "Sam"
 		},
