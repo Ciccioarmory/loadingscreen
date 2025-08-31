@@ -41,11 +41,6 @@
 			"name": "Liz"
 		},
 		{
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/scott.png",
-			"position": "Head Admin",
-			"name": "Scott"
-		},
-		{
 			"imageLink": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/staff/cowboyFrank.png",
 			"position": "Senior Developer",
 			"name": "Cowboy Frank"
@@ -69,6 +64,11 @@
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/alter.png",
 			"position": "Best Boy",
 			"name": "Alter"
+		},
+		{
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/scott.png",
+			"position": "Senior Admin",
+			"name": "Scott"
 		},
 		{
 			"imageLink": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/staff/Griffa.png",
