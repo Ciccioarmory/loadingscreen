@@ -116,8 +116,13 @@
 			"name": "Gracie"
 		},
 		{
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/sophia.png",
+			"position": "Admin",
+			"name": "Sophia"
+		},
+		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/carlos.png",
-			"position": "Moderator",
+			"position": "Admin",
 			"name": "Carlos"
 		},
 		{
@@ -141,9 +146,9 @@
 			"name": "Lua"
 		},
 		{
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/sophia.png",
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/kane.png",
 			"position": "Moderator",
-			"name": "Sophia"
+			"name": "Kane"
 		},
 		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/dez.png",
@@ -164,11 +169,6 @@
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
 			"position": "Staff Support",
 			"name": "Mamba"
-		},
-		{
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/kane.png",
-			"position": "Staff Support",
-			"name": "Kane"
 		},
 		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
