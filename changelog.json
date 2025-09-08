@@ -1,17 +1,18 @@
 {
 	"items": [
 		{
-			"date": "08/28/25 -> New Gang Wars, Dialogue and Balance Improvements",
+			"date": "08/31/25 -> New Gang Wars, Dialogue and Balance Improvements",
 			"changes": [
 				"== Viper Tablet ==",
-				"You can now access the Vipad using the radial menu. You do not need the vipad item in your inventory to access the tablet.",
+				"You can now access the Vipad using the radial menu. You do not need the Vipad item in your inventory to access the tablet.",
 				"Different activities may reward new tablet applications.",
 				"Applications may also be added to your tablet over time.",
 				"",
 				"== Viper Gang Wars ==",
 				"War App can be received by talking with Tony at the observatory.",
 				"Send a war invitation to an other gang through the leaderboard.",
-				"Once the invite is accepted, the War Lobby opens.",
+				"-> War rulesets can be fully configured with radius, wagers, war and round win conditions and many more.",
+				"-> Once the invite is accepted, the War Lobby opens.",
 				"Gang members may join the War Lobby before the war starts and in between rounds.",
 				"Leaders can ready up when both teams are ready.",
 				"Players auto-revive when round / war ends.",
@@ -24,8 +25,13 @@
 				"Better options & answers handling.",
 				"Conditional Answers based on items, money, licenses, etc.",
 				"",
+				"== New Shoes ==",
+				"TOS Friendly Variations inspired from AF1 Added for Females & Males.",
+				"TOS Friendly Variations inspired from AJ1 Added For Males. (females textures coming soon <3)",
+				"If you have any suggestions for more shoe variations please let us know via the discord channels!",
+				"",
 				"== Blunt Decay Adjustment ==",
-				"We have now added a decay (2 weeks) on all blunts as requested by business owners"
+				"We have now added a decay (2 weeks) on all blunts as requested by business owners."
 			]
 		},
 		{
