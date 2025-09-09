@@ -1,81 +1,42 @@
 {
     "rules": [
-        "⁍ You MUST have a fully working microphone.",
-
-        "⁍ You MUST create a character NO DEFAULT CHARACTERS will be permitted. You will be given a clothing menu to change if noticed by an admin.",
-
-        "⁍ You MUST remain IC or In Character at all times during active RP situations, unless otherwise told by a member of staff.",
-
-        "⁍ Erotic Roleplay (ERP) is NOT allowed in our server. Keep it clean, this rule is regarding any non-child friendly words/phrases being used in the chat platforms in our community such as in-game voice, in-game chat, or our Discord platform.",
-
-        "⁍ We do not tolerate discrimination of gender, race, religion, lifestyle/sexuality, or political views of any kind.",
-
-        "⁍ Toxic behavior including bullying, instigating, and any other form of negative actions will NOT be tolerated.",
-
-        "⁍ No self-promotion (server invites, advertisements, etc) without approved permission from a member of staff. This includes direct messaging fellow members of the community.",
-
-        "⁍ Players should always submit a ticket first instead of directly requesting a staff member. If it is deemed required, your ticket will be escalated to the appropriate person.",
-
-        "⁍ Give everyone the same common courtesy that you would expect to receive. This rule is in place to ensure everyone has a safe and fun experience on our server.",
-
-        "⁍ No RDM (Random DeathMatch) or VDM (Vehicle DeathMatch) this will not be tolerated and may result in a ban.",
-
-        "⁍ Harassment , bullying, racism or sexual harassment will not be tolerated and will be dealt with by staff. Profanity that is used in these ways or violates common T.O.S. is not allowed. This being said bringing things from city to out of city harassment is also not allowed.",
-
-        "⁍ Logging out or hiding to avoid a roleplay scenario is not allowed and will be dealt with according to the severity of the incident {f8}.",
-
-        "⁍ NVL [Not valuing your life] is NOT allowed, you are required to value your life at all times in RP.",
-
-        "⁍ Rulesplaining is not allowed if a rule is broken during a rp scene, please finish the scene and send a clip of the interaction in a ticket.",
-
-        "⁍ No crimes of any kind are permitted in green zones. The only green zones are the ones listed in the Discord (#GangInformation).",
-
-        "⁍ Loitering in the green zone at any Medical Center is not permitted. The incentive is to be healed then leave the area immediately.",
-
-        "⁍ Any bugs found must be reported to staff and any exploitation of bugs will result in a ban.",
-
-        "⁍ Our audience is intended for 18+ mature audiences.",
-
-        "⁍ The use of any graphics or external softwares that give you an advantage is not allowed {headshot affects, extra blood effects, bullet tracer pacs } if you are caught it will be a perma.",
-
-        "⁍ When creating a report in the Discord, please provide a clip of the incident. We will NOT accept short snippets of scenes unless under certain circumstances. Your clip must show the full scene to provide context and help us deal with the situation accordingly. {if found out you are only showing half of something just to make someone look bad you will banned} (Some ways to clip include Medal, GeForce Experience, etc) this is the most common one https://medal.tv.",
-
-        "⁍ The majority of our community is made up of NA, EU & AUS players where English is the primary language. You must speak English on our server unless it is for short-term RP interaction.",
-
-        "⁍ Abuse of OOC or the /report, /admin will result in punishment.",
-
-        "⁍ ‘Paintball’ or Friendly Shootouts are NOT allowed. You cannot tell the Police, EMS or staff you were simply having fun killing each other with guns, this will lead to punishment.",
-
-        "⁍ ‘Ragdolling’ a player is a bug which makes it impossible for people to check in, if caught attempting to ragdoll another player you may be met with a ban.",
-
-        "⁍ “Revenge ticketing” to get someone banned and/or in trouble just because they made a ticket on you/got you in trouble is not allowed and will just result in further punishments towards yourself and/or group of people.",
-
-        "⁍ Character models or clothing that display visible nudity are not allowed.",
-
-        "⁍ Players should not be inserting themselves into ongoing situations or shootouts, between two groups or one group and the police.",
-
-        "⁍ No placing bodies in weird spots if you kill someone in the middle of the road and want to move them off the road that is fine but moving them off the road down the street in a bush is not allowed.",
-
-        "⁍ You are not allowed to take another player’s phone , ID or driver's license from them, it makes it impossible for them to call ems and there is no reason to have someone’s identification as it encourages trolling.",
-
-        "⁍ No situation on our server should be treated as if you need to win or lose. Everything should be done to further your story{have fun}. Your time in the city should not be focused solely on obtaining the best stuff or having the most money. It is important to keep in mind that you in real life and the character you play in the city are not the same. Nothing that happens in the city should be taken personally.",
-
-        "⁍ /me is to be used for roleplay purposes only and not for fancy colors, emojis, etc. no more /me pulls out guns shit this is to be used only for actions you cant verbally do like /me takes persons mask off or /me puts criminals finger on the fingerprint scanner {that being said if you do not follow what the person is doing when you are being forced to do it you will be banned }.",
-
-        "⁍ Talking on your ‘back’ i.e. while dead, is not allowed unless being helped by EMS.",
-
-        "⁍ Controllers are not allowed and are 100% a bannable offensive, considering severity can even be a perma-ban.",
-
-        "⁍ Stream sniping someone is considered meta gaming and is under no circumstances allowed.",
-
-        "⁍ Any knowledge/ information gained outside of the city should not be used in city and will result in a ban.",
-
-        "⁍ Powergaming is the abuse of an in-game mechanic that could not otherwise be utilized in a real life sense. Any use of powergaming in city will be met with a ban.",
-
-        "⁍ Abusing /me and using it as a means of communication while downed/dead is abuse of the mechanic and could result in a ban.",
-
-        "⁍ The use of discord as ingame communication is not allowed and is a bannable offense.",
-
-        "⁍ The use of any communication except proximity chat is not allowed WHILE HANDCUFFED OR ON YOUR SIDE {being on radio or on a phone call is not allowed} This also included transcripts and tickets within the discord. NOTHING inside a ticket is to be spread outside of said ticket. Tickets are confidential and are to not be spoken outside of them. This is to keep integrity and private matters safe and to prevent people from being scared of making tickets."
+        "- You MUST have a fully working microphone.",
+        "- You MUST create a character NO DEFAULT CHARACTERS will be permitted. You will be given a clothing menu to change if noticed by an admin.",
+        "- You MUST remain In Character (IC) at all times during active RP situations, unless otherwise told by a member of staff.",
+        "- Give everyone the same common courtesy that you would expect to receive. This rule is in place to ensure everyone has a safe and fun experience on our server.",
+        "- Toxic behavior including bullying, instigating, and any other form of negative actions will NOT be tolerated.",
+        "- Discrimination of gender, race, religion, lifestyle/sexuality, or political views of any kind will NOT be tolerated.",
+        "- Harassment, bullying, racism or sexual harassment will NOT be tolerated. This includes bringing things from city to out of city. Harassment of any kind is not allowed.",
+        "- Profanity that is used in these aformentioned ways or violates common Terms Of Service (TOS) is not allowed.",
+        "- Erotic Roleplay (ERP) is NOT allowed in our server. Keep it clean, this rule is regarding any non-child friendly words/phrases being used in the chat platforms in our community such as in-game voice, in-game chat, or our Discord platform.",
+        "- No Random Death Match (RDM) or Vehicle Death Match (VDM); this will not be tolerated and may result in a ban.",
+        "- Not valuing your life (NVL) is NOT allowed, you are required to value your life at all times in RP.",
+        "- Logging out or hiding to avoid a roleplay scenario (F8) is not allowed and will be dealt with according to the severity of the incident.",
+        "- No self-promotion (server invites, advertisements, etc.) without approved permission from a member of staff. This includes direct messaging fellow members of the community.",
+        "- Rulesplaining is not allowed. If a rule is broken during a rp scene, please finish the scene and send a clip of the interaction in a discord ticket.",
+        "- No crimes of any kind are permitted in green zones. The only green zones are the ones listed in the Discord. (Entering and exiting greenzones will send you a notification to assist)",
+        "- Loitering in the green zone at any Medical Center is not permitted. The incentive is to be healed then leave the area immediately.",
+        "- Our audience is intended for 18+ mature audiences.",
+        "- The use of any graphics or external softwares that give you an advantage is not allowed. (Headshot effects, blood effects, bullet tracers, etc.) If you are caught it may result in a permanent ban.",
+        "- The majority of our community is made up of NA, EU & AUS players where English is the primary language. You must speak English on our server unless it is for short-term RP interaction.",
+        "- Abuse of OOC chat or the /report system will result in punishment.",
+        "- 'Paintball' or Friendly Shootouts are NOT allowed. You cannot tell the Police, EMS or staff you were simply having fun killing each other with guns, this will lead to punishment.",
+        "- Intentionally 'Ragdolling' another player to make it impossible for them to check in or otherwise unable to play is NOT allowed. If caught attempting to ragdoll another player you may be met with a ban.",
+        "- 'Revenge ticketing' to get someone banned and/or in trouble just because they made a ticket on you or got you in trouble is not allowed and will just result in further punishments towards yourself and/or group of people.",
+        "- Inserting yourself into ongoing situations, shootouts or scenes between groups and/or the police is NOT allowed and may result in a ban.",
+        "- No placing bodies in weird spots if you kill someone in the middle of the road and want to move them off the road that is fine but moving them off the road down the street in a bush is not allowed.",
+        "- You are not allowed to take another player's phone, ID or Drivers License from them, it makes it impossible for them to call ems and there is no reason to have someone's identification as it encourages trolling.",
+        "- No situation on our server should be treated as if you need to win or lose. Everything should be done to further your story. (Have fun) Your time in the city should not be focused solely on obtaining the best stuff or having the most money. It is important to keep in mind that you in real life and the character you play in the city are NOT the same. Nothing that happens in the city should be taken personally.",
+        "- Any knowledge/ information gained outside of the city should not be used in city. This is considered meta gaming and will result in a ban.",
+        "- The use of discord as ingame communication is not allowed and is a bannable offense.",
+        "- Stream sniping someone is considered meta gaming and is under no circumstances allowed.",
+        "- Power Gaming is the abuse of an in-game mechanic that could not otherwise be utilized in a real life sense. Any use of powergaming in city will be met with a ban.",
+        "- /me is to be used for roleplay purposes only and not for fancy colors, flexing, emojis, etc. No '/me pulls out guns' shit. This is to be used only for actions you cant verbally do like '/me takes persons mask off' or '/me puts criminals finger on the fingerprint scanner'. That being said, if you do not follow what the person is doing when you are being forced to do it you will be banned.",
+        "- Abusing /me and using it as a means of communication while downed/dead is Power Gaming and may result in a ban.",
+        "- The use of any communication except proximity chat is not allowed while HANDCUFFED or ON YOUR SIDE. (Being on radio or on a phone call is not allowed) This also includes transcripts and tickets within the discord. NOTHING inside a ticket is to be spread outside of said ticket.",
+        "- Any bugs found must be reported to staff and any exploitation of bugs will result in a ban.",
+        "- Players should always submit a ticket first instead of directly requesting a staff member. If it is deemed required, your ticket will be escalated to the appropriate person.",
+        "- When creating a report ticket in the Discord, please provide a clip of the incident. We will NOT accept short snippets of scenes unless under certain circumstances. Your clip must show the full scene to provide context and help us deal with the situation accordingly. (If caught showing only edited or out of context scenes to make someone look bad, you will banned) Some ways to clip include Medal or GeForce Experience.",
+        "- Tickets are confidential and are to not be spoken outside of them. This is to keep integrity and private matters safe and to prevent people from being scared of making tickets."
     ]
 }
