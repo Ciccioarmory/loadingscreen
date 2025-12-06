@@ -5,7 +5,7 @@
     "music_links": [
         {
             "img": "https://github.com/Ciccioarmory/loadingscreen/blob/Christmas2025/images/artistpics/ariana_grande_christmas.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/blob/Christmas2025/music/Ariana_Grande_Santa_Tell_Me.mp3",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/Christmas2025/music/Ariana_Grande_Santa_Tell_Me.mp3",
             "author": "Ariana Grande",
             "song_name": "Santa Tell Me"
         },
