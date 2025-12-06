@@ -4,34 +4,34 @@
     "music_start_index": 0,
     "music_links": [
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/joeylapori.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/losecontrol.mp3",
-            "author": "Joey Lapori",
-            "song_name": "Lose Control Cover"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/blob/main/images/artistpics/ariana_grande_christmas.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/blob/main/music/Ariana_Grande_Santa_Tell_Me.mp3",
+            "author": "Ariana Grande",
+            "song_name": "Santa Tell Me"
         },
         { 
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/Lil_Durk_-_All_My_Life_Remixes.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/Lil_Durk_-_All_My_Life_ft._J._Cole.mp3",
-            "author": "Lil Durk",
-            "song_name": "All My Life (Remix) ft. J. Cole"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/blob/main/images/artistpics/Mariah_Cary.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/blob/main/music/Mariah_Carey_All_I_Want_For_Christmas_Is_You.mp3",
+            "author": "Mariah Carey",
+            "song_name": "All I want For Christmas Is You"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/Marshmello_x_Roddy_Ricch_-_Project_Dreams.jpeg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/projectdreams.mp3",
-            "author": "Marshmello x Roddy Ricch",
-            "song_name": "Project Dreams"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/blob/main/images/artistpics/Run_DMC.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/blob/main/music/Christmas_In_Hollis_Run_DMC.mp3",
+            "author": "Run DMC",
+            "song_name": "Christmas In Hollis"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/devileyes.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/Hippie_Sabotage_-_Devil_Eyes_Golden_Lyrics.mp3",
-            "author": "Hippie Sabotage",
-            "song_name": "Devil Eyes"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/blob/main/images/artistpics/Brenda_Lee.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/blob/main/music/Rockin_Around_The_Christmas_Tree.mp3",
+            "author": "Brenda Lee",
+            "song_name": "Rockin' Around The Christmas Tree"
         },
         {
             "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/Sleepy_Hallow_-_2055.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/Sleepy_Hallow_-_2055_Official_Video.mp3",
-            "author": "Sleepy Hallow",
-            "song_name": "2055"
+            "url": "https://github.com/Ciccioarmory/loadingscreen/blob/main/music/Chuck_Berry_Run_Rudolph_Run.mp3",
+            "author": "Chuck Berry",
+            "song_name": "Run Rudolph Run"
         },
         {
             "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/Toosii.jpeg",
