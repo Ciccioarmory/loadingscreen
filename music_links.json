@@ -4,44 +4,44 @@
     "music_start_index": 0,
     "music_links": [
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/blob/main/images/artistpics/ariana_grande_christmas.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/blob/main/music/Ariana_Grande_Santa_Tell_Me.mp3",
+            "img": "https://github.com/Ciccioarmory/loadingscreen/blob/Christmas2025/images/artistpics/ariana_grande_christmas.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/blob/Christmas2025/music/Ariana_Grande_Santa_Tell_Me.mp3",
             "author": "Ariana Grande",
             "song_name": "Santa Tell Me"
         },
         { 
-            "img": "https://github.com/Ciccioarmory/loadingscreen/blob/main/images/artistpics/Mariah_Cary.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/blob/main/music/Mariah_Carey_All_I_Want_For_Christmas_Is_You.mp3",
+            "img": "https://github.com/Ciccioarmory/loadingscreen/blob/Christmas2025/images/artistpics/Mariah_Cary.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/blob/Christmas2025/music/Mariah_Carey_All_I_Want_For_Christmas_Is_You.mp3",
             "author": "Mariah Carey",
             "song_name": "All I want For Christmas Is You"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/blob/main/images/artistpics/Run_DMC.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/blob/main/music/Christmas_In_Hollis_Run_DMC.mp3",
+            "img": "https://github.com/Ciccioarmory/loadingscreen/blob/Christmas2025/images/artistpics/Run_DMC.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/blob/Christmas2025/music/Christmas_In_Hollis_Run_DMC.mp3",
             "author": "Run DMC",
             "song_name": "Christmas In Hollis"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/blob/main/images/artistpics/Brenda_Lee.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/blob/main/music/Rockin_Around_The_Christmas_Tree.mp3",
+            "img": "https://github.com/Ciccioarmory/loadingscreen/blob/Christmas2025/images/artistpics/Brenda_Lee.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/blob/Christmas2025/music/Rockin_Around_The_Christmas_Tree.mp3",
             "author": "Brenda Lee",
             "song_name": "Rockin' Around The Christmas Tree"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/Sleepy_Hallow_-_2055.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/blob/main/music/Chuck_Berry_Run_Rudolph_Run.mp3",
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/Christmas2025/images/artistpics/Sleepy_Hallow_-_2055.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/blob/Christmas2025/music/Chuck_Berry_Run_Rudolph_Run.mp3",
             "author": "Chuck Berry",
             "song_name": "Run Rudolph Run"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/Toosii.jpeg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/favoritesong.mp3",
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/Christmas2025/images/artistpics/Toosii.jpeg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/Christmas2025/music/favoritesong.mp3",
             "author": "Toosii",
             "song_name": "Favorite Song"
         },        
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/GGvip.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/ft_char_final.mp3",
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/Christmas2025/images/artistpics/GGvip.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/Christmas2025/music/ft_char_final.mp3",
             "author": "Paff & Char",
             "song_name": "Die For This"
         }
