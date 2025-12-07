@@ -121,6 +121,11 @@
 			"name": "Sylvester"
 		},
 		{
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/kane.png",
+			"position": "Admin",
+			"name": "Kane"
+		},
+		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/joey.png",
 			"position": "Moderator",
 			"name": "Joey"
@@ -134,11 +139,6 @@
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/hails.png",
 			"position": "Moderator",
 			"name": "Hails"
-		},
-		{
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/kane.png",
-			"position": "Moderator",
-			"name": "Kane"
 		},
 		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
