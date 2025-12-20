@@ -91,6 +91,11 @@
 			"name": "Carlos"
 		},
 		{
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/sylvester.png",
+			"position": "Senior Admin",
+			"name": "Sylvester"
+		},
+		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/Lauren.png",
 			"position": "Admin",
 			"name": "Lauren"
@@ -114,11 +119,6 @@
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/Lua.png",
 			"position": "Admin",
 			"name": "Lua"
-		},
-		{
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/sylvester.png",
-			"position": "Admin",
-			"name": "Sylvester"
 		},
 		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/kane.png",
