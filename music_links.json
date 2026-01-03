@@ -4,46 +4,46 @@
     "music_start_index": 0,
     "music_links": [
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/ariana_grande_christmas.png",
-            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Ariana_Grande_Santa_Tell_Me.mp3",
-            "author": "Ariana Grande",
-            "song_name": "Santa Tell Me"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/morgan.png",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Morgan_Wallen_Dont_We.mp3",
+            "author": "Morgan Wallen",
+            "song_name": "Don't We"
         },
         { 
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/Mariah_Cary.png",
-            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Mariah_Carey_All_I_Want_For_Christmas_Is_You.mp3",
-            "author": "Mariah Carey",
-            "song_name": "All I want For Christmas Is You"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/aboogie.png",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/A_Boogie_wit_da_hoodie_%20Not_a_Regular_Person.mp3",
+            "author": "A Boogie wit da Hoodie",
+            "song_name": "Not a Regular Person"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/Run_DMC.png",
-            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Christmas_In_Hollis_Run_DMC.mp3",
-            "author": "Run DMC",
-            "song_name": "Christmas In Hollis"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/kanye_west.png",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Kanye_West_All_Falls_Down.mp3",
+            "author": "Kanye West",
+            "song_name": "All Falls Down"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/Brenda_Lee.png",
-            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Rockin_Around_The_Christmas_Tree.mp3",
-            "author": "Brenda Lee",
-            "song_name": "Rockin' Around The Christmas Tree"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/pooh.png",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Pooh_Shiesty_FDO.mp3",
+            "author": "Pooh Shiesty",
+            "song_name": "FDO"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/ChuckBerry.png",
-            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Chuck_Berry_Run_Rudolph_Run.mp3",
-            "author": "Chuck Berry",
-            "song_name": "Run Rudolph Run"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/playboy.png",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Playboi_Carti_wokeuplikethis.mp3",
+            "author": "Playboi Carti",
+            "song_name": "wokeuplikethis"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/MCR_Christmas.png",
-            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/MCR_All_I_Want_For_Christmas_Is_you.mp3",
-            "author": "My Chemical Romance",
-            "song_name": "All I want For Christmas Is You"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/tate.png",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Tate_McRae_2_hands.mp3",
+            "author": "Tate McRae",
+            "song_name": "2 Hands"
         },        
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/GGvip.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/ft_char_final.mp3",
-            "author": "Paff & Char",
-            "song_name": "Die For This"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/game.png",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/The_Game_Ali_Bomaye.mp3",
+            "author": "The Game",
+            "song_name": "Alibomaye"
         }
     ]
 }
