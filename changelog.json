@@ -1,17 +1,222 @@
 {
 	"items": [
 		{
-			"date": "2/9/2025 <> Changes/Fixes/Updates",
+			"date": "08/31/25 -> New Gang Wars, Dialogue and Balance Improvements",
 			"changes": [
-				"New! Gang Bulk Drug Runs",
-				
-				"-- Gang Bulk Drug Runs --",
+				"== VIPER TABLET ==",
+				"You can now access the Vipad using the radial menu. You do not need the Vipad item in your inventory to access the tablet.",
+				"Different activities may reward new tablet applications.",
+				"Applications may also be added to your tablet over time.",
+				"",
+				"== VIPER GANG WARS APP ==",
+				"War App can be received by talking with Tony at the observatory.",
+				"Send a war invitation to an other gang through the leaderboard.",
+				"-> War rulesets can be fully configured with radius, wagers, war and round win conditions and many more.",
+				"-> Once the invite is accepted, the War Lobby opens.",
+				"Gang members may join the War Lobby before the war starts and in between rounds.",
+				"Leaders can ready up when both teams are ready.",
+				"Players auto-revive when round / war ends.",
+				"Crash-outs & Teamkills preventions.",
+				"View Wars in progress, Leaderboard, War History and Team Performance.",
+				"",
+				"== UPDATED DIALOGUE SYSTEM ==",
+				"New Viper™ themed dialogue system being rolled out.",
+				"Modernized look and feel. You may recognize the layout from many modern games.",
+				"Better options & answers handling.",
+				"Conditional Answers based on items, money, licenses, etc.",
+				"",
+				"== NEW SHOES IN THE CLOTHING SHOPS ==",
+				"TOS Friendly Variations inspired from AF1 Added for Females & Males.",
+				"TOS Friendly Variations inspired from AJ1 Added For Males. (females textures coming soon <3)",
+				"If you have any suggestions for more shoe variations please let us know via the discord channels!",
+				"",
+				"== BUSINESS/GANG CHANGES ==",
+				"Added a decay (2 weeks) on all blunts as requested by business owners.",
+				"Added food/drinks to Armitage Arcade.",
+				"Added a new Underground Boxing business.",
+				"Added a new Vehicle Dealership (Pier 76).",
+				"Added a second Business Supllies location on the West side of the map.",
+				"Added a despawn vehicle zone if you fly out of the track at Bennys Racetrack.",
+				"Added membership cards for Bennys Racetrack.",
+				"Fixed a rare bug that caused the Thrust XL item to decay too quickly.",
+				"Fixed some missing items from the business supplies shop.",
+				"Replaced a weapon at Barretta ammunation.",
+				"Moved some stash locations for Moonlight Mechanic.",
+				"Moved Haitins gang car garage.",
+				"Lowered the purchase stock price of Engine Oil for mech shops.",
+				"Adjusted commission rates for Ocean Mechanic and Rex's Diner.",
+				"Removed job, crafting and related stashes for Autopia Ammunation.",
+				"",
+				"== MISCELLANEOUS CHANGES/FIXES ==",
+				"Added multiple player owned stashes.",
+				"Added a maximum duration for any active notifications. (2 minutes)",
+				"Fixed some images that were missing in the Guidebook.",
+				"Fixed a potential issue with boosting payouts not being applied correctly. (Working with script author to fix the root cause)",
+				"Removed item decay on tow remotes."
+			]
+		},
+		{
+			"date": "08/18/25 -> Drug selling, Balance and QoL Improvements",
+			"changes": [
+				"== Crack Enhancements ==",
+				"Crack is now cornersellable as a high end drug. The feens been itching for those new mixes!",
+				"Crack Pipes spawn rates have been increased!",
+				"Crack Pipes now also spawn in a new searchable container (located in city limits)",
+				"",
+				"== Mechshop Crafting Quality of Life! ==",
+				"Added Rubber crafting to all mechanic benches. You can now compound your scraps into a full piece!",
+				"",
+				"== Emote Menu Adjustments ==",
+				"Removed the ability to favorite walking styles.",
+				"-> This conflicted heavily with our favorite system causing most of the reported emote menu issues.",
+				"-> This is not our final solution, we will be looking into other methods to reimplement this feature in the future.",
+				"Optimized Walk style handling to support persisting your last walk style when flying in.",
+				"-> Occasionally, your walk style may be reset by another emote, animation, or scenario. To combat this we have added a check to set your walk style back to your last selected style when you stand up from a crouched position.",
+				"-> If any players are having issues with the emote menu not opening or otherwise not working as intended. PLEASE open a ticket in our Discord so we can assist you!",
+				"-> This is not our final fix, but will alleviate many issues while we build a more robust system.",
+				"Reduced placeable emote distance to a more reasonable maximum. (about 5 meters)",
+				"When placing an emote, your character will now walk to the placement location before the emote starts, enhancing immersion."
+			]
+		},
+		{
+			"date": "08/16/25 -> New Content, Balance and QoL Improvements",
+			"changes": [
+				"== New Drug: Spiked Crack! ==",
+				"Custom recipes and effect combinations!",
+				"Name your custom batches!",
+				"Added many new items for mixing.",
+				"New sellable items for Restaurants, Bars and Dispensaries!",
+				"Completely custom user interface, specifically designed to ehance your drug mixing experience!",
+				"Find Spiked Crack ingredients hidden in Cayo Perico stashes",
+				"",
+				"== Balance Changes! ==",
+				"Increased drop rates on select Cayo Airdrop loot!",
+				"Higher Peso payouts per Cayo Airdrop!",
+				"Increased materials gained from rusted car parts at the Scrapyard!",
+				"",
+				"== Quality of Life Enhancements! ==",
+				"Added a notify that text has been copied when clicking your Citizen ID (CID) or Server ID.",
+				"-> The pausemenu always copied this info on click, but it was not as clear to the player as it should be.",
+				"Added back the '/duty' command, this command toggles your current jobs duty state between 'On Duty' and 'Off Duty'.",
+				"-> Fixed the Duty toggle button within the pausemenu.",
+				"-> Clicking the duty option on your player information will toggle your duty state.",
+				"Added a command to stop an ongoing countdown on your client if it becomes scuffed for any reason. '/stopCountdown'",
+				"",
+				"More coming soonTM"
+			]
+		},
+		{
+			"date": "07/14/25 -> Coin Shop Redux",
+			"changes": [
+				"Added a new `Pending Purchases` interface.",
+				"-> Useful when you make a purchase and we are unable to immediately give you the items for any reason.",
+				"-> You can view your Pending Purchases by clicking the gift box button in the title bar.",
+				"-> The Coin Shop will notify you if you have a Pending Purchase.",
+				"-> Pending Purchases will visually indicate unclaimed Pending Packages.",
+				"",
+				"Fixed many small visual bugs related to hover effects and button interactivity.",
+				"Fixed coin package cards size scaling to fit uniformly.",
+				"Fixed coin package cover image rendering when an item image is used as a cover.",
+				"If a coin package contains only a single item, the purchase modal will reflect that.",
+				"Added a 'NEW!' tag to new coin packages.",
+				"Added new categories for bundles and single items to visually seperate them from eachother.",
+				"All coin packages are now sorted following these rules:",
+				"-> 'NEW!' packages first.",
+				"-> Always GC before SC.",
+				"-> Alphabetically by package title."
+			]
+		},
+		{
+			"date": "07/12/25 -> Post Launch Fixes",
+			"changes": [
+				"== EMS & PD FIXES ==",
+				"Fixed an issue with PD and EMS vehicle repair stations.",
+				"Replaced EMS and PD fly in locations for new hospital and PD.",
+				"Replaced missing map blip for new hospital.",
+				"Replaced EMS to Sandy wormhole.",
+				"Removed greenzone from Pillbox hill Medical Center.",
+				"",
+				"== SERPENT SOCIETY FIXES ==",
+				"Fixed some bugs with the Serpent Society refusing entry even after they request you to come.",
+				"Fixed Henry showing up at Alta for everyone even if they did his quest.",
+				"Fixed Johnny giving Vangelico heist instead of House Robberies.",
+				"Fixed Bay City tutorial able to be spammed.",
+				"",
+				"== MISCELLANEOUS FIXES ==",
+				"Fixed passive fishing.",
+				"Fixed variety of bugs related to crafting benches.",
+				"Fixed issue with hands up not being triggered or not being canceled with `X`.",
+				"Fixed donator room vehicle purchase.",
+				"-> May go to your garage instead of immediately spawning, we are investigating this issue further.",
+				"-> As always, if you encounter issues - please do not hesitate to reach out via ticket!"
+			]
+		},
+		{
+			"date": "07/11/25 -> Viper Relaunch Major Content Update",
+			"changes": [
+				"== CAYO PERICO UPDATE ==",
+				"Tarkov-inspired loot stashes now active!",
+				"New Cayo-exclusive weapons  {BIS WEAPONS}",
+				"Craftable attachments with brand-new interface (For New Cayo Weapons Only)",
+				"Air Drops updated with Cayo loot",
+				"",
+				"== SERPENT SOCIETY UPDATE ==",
+				"Viper Tablet now includes a Jobs App!",
+				"Speak to the new Society NPC for info.",
+				"New Heist Tablet UI for Art gallery , Baycity & Vangelico",
+				"",
+				"== NEW HOSPITAL ==",
+				"Brand new Mount Zonah Hospital in Rockford!",
+				"Fresh interiors and a new roleplay environment.",
+				"",
+				"== NEW POLICE DEPARTMENT ==",
+				"Vespucci PD is now open near Burgershot!",
+				"Reinforced security and updated interiors.",
+				"Boat garage and canal access!",
+				"",
+				"== NEW COIN SHOP (Foundation Launch) ==",
+				"Revamped Coin Shop UI — accessible in the pause menu!",
+				"Replaces the Promo Weapon Menu in the Donator Room.",
+				"Note: This is just the beginning — expect reworks and improvements based on your feedback!",
+				"",
+				"== NEW EMOTE MENU ==",
+				"Placement Mode: Press E to place emotes!",
+				"Category-Specific Search (optimizations ongoing)",
+				"Mouse Interaction: Press ALT to enter Focus Mode",
+				"Favorites Feature: In Focus Mode, click the ⭐ to favorite your emotes!",
+				"",
+				"== NEW LOADSCREEN ==",
+				"Sleek, upgraded visuals",
+				"Intuitive media player",
+				"Social media links added!",
+				"Overhauled YouTube Showcase — it's finally interactive!",
+				"",
+				"== NEW FISHING SYSTEM ==",
+				"All-new UI + animation fixes",
+				"River & Ocean fishing with unique payout zones",
+				"New fish types based on location",
+				"Incentivized payouts by rarity and type!",
+				"",
+				"== CUSTOM WEAPONS IN PVP ==",
+				"Add your custom weapons to your PVP stash from the lobby",
+				"Select and use them mid-match!",
+				"",
+				"== BALANCE & TWEAKS ==",
+				"Charcoal buffed (mining + axe gathering)",
+				"Dirty notes now weigh less",
+				"Gang phones reset for a clean slate"
+			]
+		},
+		{
+			"date": "2/9/2025 -> Gang Bulk Drug Runs - Changes/Fixes/Updates",
+			"changes": [
+				"== Gang Bulk Drug Runs ==",
 				"Added new bulk drug selling system for gangs.",
 				"Start a drug run at your gang's menu location.",
 				"Steal a van, package drugs, and protect the product until a buyer is found.",
 				"Other Gangs are notified of your drug run and can attempt to steal your product.",
-				
-				"-- Spawn Tutorial --",
+				"",
+				"== Spawn Tutorial ==",
 				"Modernized entire spawn tutorial with our new systems :",
 				"Updated Interaction System to use our new [E] Interact.",
 				"Updated tasks to use our new Task UI system.",
@@ -19,31 +224,29 @@
 			]
 		},
 		{
-			"date": "2/8/2025 <> Changes/Fixes/Updates",
+			"date": "2/8/2025 -> Nightclubs and Tooltip Update",
 			"changes": [
-				"Nightclubs and Tooltip Update",
-				
-				"-- Nightclubs --",
+				"== Nightclubs ==",
 				"NEW! 'Tip Stripper' feature for nightclubs.",
 				"NEW! Launder dirty money through nightclubs. A portion of the dirty money in a player's inventory will be cleaned based on the amount of cash tipped.",
 				"Added user interface for selecting strippers and tip amounts when multiple dancers are eligible to be tipped.",
-				
-				"-- Tooltip System --",
+				"",
+				"== Tooltip System ==",
 				"NEW! 'Interaction Tooltips' styling for large zones interactable via the 'E' key.",
 				"Added compatibility for adding tooltips without images.",
-				
-				"-- Misc Changes --",
+				"",
+				"== Misc Changes ==",
 				"Removed some uneccessary F8 prints in the console."
 			]
 		},
 		{
-			"date": "9/2/2024 <> Changes/Fixes/Updates",
+			"date": "9/2/2024 -> New Content - Balance Changes and Fixes",
 			"changes": [
-				"New! Turf War WL Gang Script",
+				"== New! Turf War Gang Script ==",
 				"Multiple Zones to Fight Over",
 				"Different Zones offer different Benefits (Auto Crafting Drugs, Auto Selling Drugs)",
-		
-				"-- Viper PVP Script --",
+				"",
+				"== VIPER PVP UPDATES ==",
 				"Added Arcade Machines to Alta for players to enter the PVP lobby.",
 				"Fixed an exploit that allowed players to revive themselves by entering and exiting PVP lobbies/arenas.",
 				"Implemented a new Killfeed style to visually show the weapon rather than its name.",
@@ -59,34 +262,27 @@
 				"Removed most placeholder menus and interfaces.",
 				"Removed stress gain from all PVP instances.",
 				"Removed death screen overlay while downed in PVP instances since revives are handled automatically.",
-				
-				"-- Planned PVP Updates (WIP) --",
-				"Preview Weapon feature to allow players to quickly view/test PVP weapons.",
-				"Implement XP system.",
-				"Leaderboards and in-game scoreboards.",
-				"Player Statistics.",
-				"More detailed weapon information, like where you can acquire the weapon in-city, for example.",
-				"More Weapons.",
-				"More Gamemodes. (Possibly team-based modes)",
-		
-				"Combat Glitching Changes",
-				"Disabled shooting while talking on radio.",
-				"Disabled shooting while crouching.",
-				"Disabled shooting while behind any cover.",
-				"Disabled shooting while doing any emotes.",
-				"Disabled shooting while hands up.",
-		
-				"EMS & PD IMPORTS",
+				"",
+				"== COMBAT EXPLOIT PREVENTION ==",
+				"Disabled shooting while:",
+				"-> Talking on radio.",
+				"-> Crouching.",
+				"-> Behind any cover.",
+				"-> Doing any emotes.",
+				"-> Your hands are up.",
+				"",
+				"== EMS & PD CHANGES/UPDATES ==",
 				"Many New 4-Seater Vehicles can be bought at the Viper Import Dealership located at PDM.",
-		
-				"EMS STUFF",
-				"NEW! Return of Pillbox Medical Center",
-				"Fixed issues with the Surgical Tray.",
+				"Added PD Department Vehicles to Vehicle shop.",
+				"Return of Pillbox Medical Center. (Now New and Improved)",
+				"Fixed issues with the EMS Surgical Tray.",
 				"Fixed EMS Repair Bay Location.",
-				"Fixed FTO Parking Spot.",
+				"Fixed EMS FTO Parking Spot.",
 				"Fixed the clothing numbers for Surgical Gloves.",
-		
-				"Business Changes",
+				"Fixed an MDT issue when using 'E' to mark location. Should now work properly.",
+				"Added DOJ access to certain PD Door locks.",
+				"",
+				"== Business Changes ==",
 				"Added all Missing Jewelry & Gems into Jewelry Stores.",
 				"Added Smelting into Jewelry Stores.",
 				"Added all Gang Chains to Smelting.",
@@ -95,97 +291,82 @@
 				"Buffed Aluminum Payout from Garbage Job Significantly.",
 				"Buffed Oil Field Chopshop - Scaling Experience System and Updated/Competitive Rewards Including: Aluminum, Steel, and Plastic.",
 				"Buffed Aluminum Payout from Garbage Job Significantly.",
-		
-				"Misc.",
-				"Reworked Fly-in/Character select, New Fly-in location with various small changes.",
-				"Fixed Pants clothing numbers for Multiple Civ Jobs.",
+				"Added more Businesses to the Services App.",
 				"Fixed Food/Drink items at Red Dragon Restaurant.",
 				"Fixed Food/Drink items at UwU Cafe.",
 				"Fixed a Few Mech bays at Various Mechshops.",
-				"Added PD Department Vehicles to Vehicle shop.",
 				"Buffed SFC Pills; each pill now gives 25 Armor.",
-				"Added UAV & Controller to Recycler.",
-				"Added more Businesses to the Services App.",
+				"",
+				"== HEIST CHANGES/FIXES ==",
 				"Reduced the amount of time to Rob Fleeca Banks.",
 				"Fixed a Major Bug for Oil Rig Heist.",
 				"Removed a Van Heist location that conflicted with EMS.",
 				"Fixed Guards Spawns for Van Heist.",
-				"Updated Blips for Van Heist.",
 				"Fixed Guards' health and weapons for Van Heist.",
-				"Fixed Guards Spawns for Van Heist.",
+				"Updated Blips for Van Heist.",
 				"Fixed an issue related to the Camera Looper.",
 				"Added Van Scanner to Tinker Bench.",
-				"Fixed an MDT issue when using 'E' to mark location. Should now work properly.",
-				"Added more New Player Friendly Tips at Alta Apts.",
 				"Added Bank Blips to all Blaine County Branches.",
 				"Added Bank Interactions to all Blaine County Branches.",
-				"Added DOJ access to certain PD Door locks.",
+				"",
+				"== MISCELLANEOUS CHANGES/FIXES ==",
+				"Reworked Fly-in/Character select, New Fly-in location with various small changes.",
+				"Fixed Pants clothing numbers for Multiple Civ Jobs.",
+				"Added UAV & Controller to Recycler.",
+				"Added more New Player Friendly Tips at Alta Apts.",
 				"Moved pawnshop sellables to Juice.",
 				"Optimized Viper-Speedometer.",
 				"Removed Multiple Unused Scripts.",
-				"Fixed Multiple F8 Script Errors.",
-		
-				"DEV IN-PROGRESS UPDATES",
-				"Crafting Benches Overhaul/Rework ~> 95%",
-				"Big Fishing Update/Buff ~> 85%",
-				"New Evidence Script ~> 55%"
+				"Fixed Multiple F8 Script Errors."
 			]
-		},		
+		},
 		{
-			"date": "7/5/2024 - 7/30/2024 <> July Update 2, Changes/Fixes/Updates",
+			"date": "7/5/2024 - 7/30/2024 -> July Update 2, Changes/Fixes/Updates",
 			"changes": [
-				"JULY UPDATE 2",
-		
-				"New! Paleto Bank Robbery - This robbery has been rebuilt from the ground up",
+				"== NEW PALETO BANK ROBBERY ==",
+				"This robbery has been rebuilt from the ground up",
 				"Multiple ways to rob the bank (some may be more rewarding than other easier methods)",
 				"New! Interactive Security Systems (Cameras, players must learn the mechanics to successfully complete the robbery)",
 				"New! Multi-Player Hacks (Players must work together/time/communicate to beat this new hack)",
 				"New! Items needed to fully rob the bank (these items can be obtained from other robberies and some are crafted)",
 				"New! Robbery Reward (Cash Type)",
-		
-				"New! Van Robbery",
+				"",
+				"== NEW VAN HEIST ==",
 				"21 possible spawn locations",
 				"New! Item (Frequency Scanner)",
-		
-				"Updated Scoreboard (Home Menu)",
+				"",
+				"== UPDATED SCOREBOARD (HOME MENU) ==",
 				"We have added all robberies & heists to the scoreboard along with the correct number of cops needed",
 				"All robbery logos have also been updated",
-		
-				"Updated Paintball Script",
+				"",
+				"== UPDATED PVP WEAPONS ==",
 				"Added many of the new case weapons",
-		
-				"Updated Seatbelt Script",
+				"",
+				"== ENHANCED SEATBELT SYSTEM ==",
 				"If you get ejected from a car a (Breaking Glass) audio will now play",
-				"This new audio will also play for nearby players, this will help when your homies forget to buckle up as you will hear the audio of them flying out of your car",
+				"-> This new audio will also play for nearby players, this will help when your homies forget to buckle up as you will hear the audio of them flying out of your car",
 				"When a player gets ejected out of the car it will now break the front windshield",
-		
-				"Misc.",
-				"3 New craftable items",
+				"",
+				"== MISCELLANEOUS CHANGES/FIXES ==",
+				"Added 3 New craftable items",
 				"Added multiple businesses that were missing to the services app (If your business is missing please contact our Business Coordinators)",
-				"Fixed some missing ingredients @ yacht bar",
 				"Added 5 more armor to SFC pills",
+				"Added Back OG Super Lotto Script & Fixed issues with it not working",
 				"Updated New player first time load in (Updated PD and EMS Locations)",
+				"Updated gang flag zones to be slightly bigger",
+				"Fixed some missing ingredients at Yacht Bar",
 				"Fixed a stash exploit/duping method - ps Fuck y'all that do this shit and don't report it :( y'all make Bobby sad just know",
 				"Fixed an exploit with /playdocam",
-				"Removed alcohol effect from Red Dragons Green Tea & Chai Latte",
 				"Fixed an exploit with Radio (was able to be on radio while on your side)",
-				"Added Back OG Super Lotto Script & Fixed issues with it not working",
 				"Fixed issue with banned zones (when banned in one zone you will no longer be banned in others)",
 				"Fixed issues with EMS Pharmacy script",
 				"Fixed incorrect clothing number for EMS surgical gloves",
 				"Fixed EMS Application Ped Location",
 				"Fixed Hunting Licenses - ped should now give you one when bought for the first time & you can buy replacements from city hall",
 				"Fixed Cigars for Pipe Down - they now give the correct effects",
-				"Made gang flag zones slightly bigger",
-				"Job vehicles will no longer poof during car wipes",
+				"Fixed Job vehicles poofing during automated car wipes.",
 				"Fixed issues with certain battle pass items not working properly",
-		
-				"DEV IN-PROGRESS UPDATES",
-				"New! Ramps/PVP Script ~> 25%",
-				"Crafting Benches Overhaul/Rework ~> 95%",
-				"Big Fishing Update/Buff ~> 75%",
-				"New Evidence Script ~> 45%",
-				"CIU Technician New Certification ~> 35%"
+				"Removed alcohol effect from Red Dragons Green Tea & Chai Latte"
 			]
 		},
 		{
@@ -211,7 +392,6 @@
 				"Ammunations have 2 New Craftable items (Remington Model 700 & Modern Hunting Rifle Ammo)",
 				"Major Hunting Exchange Price Buff",
 				"Major Spawn Rate Buff, spawns have been increased by 60% in the northern parts of San Andreas",
-
 
 				"NEW Medal In-Game Intergrations!",
 				"/report Command will now autoclip the last 2 mins if Medal is Activly running",
@@ -271,7 +451,7 @@
 				"Pushed New Battle Pass!",
 				"Fixed Various Bugs at Seoul Rooftop Bar",
 				"Fixed Various Unscrapable Items",
-		
+
 				"DEV IN-PROGRESS UPDATES",
 				"Crafting Benches Overhaul/Rework ~> 85%",
 				"New Heist/Robbery ~> 85%",
@@ -279,7 +459,7 @@
 				"Fishing Update/Buff ~> 40%",
 				"CIU Technician New Certification ~> 20%"
 			]
-		},		
+		},
 		{
 			"date": "4/30/2024 - 6/2/2024  <>  May/June Additions, Changes & Fixes",
 			"changes": [
@@ -289,7 +469,7 @@
 				"Fixed a spawn code for an item in Boosting Store [Racing Tablet]",
 				"Fixed an MLO Collision Issue near Route 68",
 				"Removed a few unused MLO Assets",
-		
+
 				"MAY PATCHNOTES/CHANGES",
 				"MDT Update",
 				"Updated styles for PD, EMS, DOJ (and a 4th job used by admin for now) terminals",
@@ -301,12 +481,12 @@
 				"Updated styles for dispatch UI",
 				"Updated call clarity for dispatch calls",
 				"Added new Traffic Stop button in radial menu for Police",
-				"Updated Police plate readers to sync and search with MDT", 
+				"Updated Police plate readers to sync and search with MDT",
 				"Shots Fired adjustment - Suppressed weapons will no longer have locals call police {Star Wars Battlepass weapons still give calls}",
 				"Improved alerts when you make /112 and /911 calls - increased spam call timer to 2 minutes",
 				"Improved functionality and standardized 10-99A and 10-99B calls for service workers {10-99B for non emergency 99s}",
 				"Updated call 10-codes to match official UPD 10-codes",
-				
+
 				"New Phone! 10x more optimized w/New Apps!",
 				"Updated Housing Script!",
 				"Optimized all Cars & Weapons",
@@ -333,7 +513,7 @@
 				"Balanced Material Rates for multiple civilian jobs",
 				"Fixed an exploit with turning in Mineral Ore",
 				"Added a check to re-enable walk styles automatically",
-		
+
 				"DEV IN-PROGRESS UPDATES",
 				"Crafting Benches Overhaul/Rework ~> 75%",
 				"New Heist/Robbery ~> 75%",
@@ -343,7 +523,6 @@
 			]
 		},
 		{
-			
 			"date": " 04/23/2024 - 04/30/2024 Viper 3.5, Maps, QOL and More",
 			"changes": [
 				"Bi Weekly Meetings Scheduled for: WL Jobs, PD & Crims, Gov, Etc",
@@ -372,7 +551,6 @@
 			]
 		},
 		{
-			
 			"date": " 04/22/2024 - 04/23/2024 New Activities, Clutch Case, Bug Fixes and QOL",
 			"changes": [
 				"Added New Rentals to PEDs",
@@ -396,15 +574,14 @@
 			]
 		},
 		{
-			
 			"date": " 04/13/2024 - 04/21/2024 New Towing Job, QOL Changes, PD Changes and More",
 			"changes": [
 				"Removed Medbench Blueprint Requirment for Medbench Levels 1-4",
 				"Small Adjustments Made to Entry Level Med Bench Patterns",
 				"Removed Forging Blueprint Requirment for Normal Steel Ingots",
 				"Multiple Items Changed To Now Be Able To Be Stacked: Explosive Bricks, Gun Parts, Heist Keycards, Etc!",
-				"Renamed Most City Parking Location Names For Better Identification",  
-				"Added New Parking Spot At Trucking Job Due To Popular Demand!",  
+				"Renamed Most City Parking Location Names For Better Identification",
+				"Added New Parking Spot At Trucking Job Due To Popular Demand!",
 				"Adjusted SFC Pills",
 				"Adjusted Multiple PD Vehicle Tunes",
 				"Adjusted Grades/Available Vehicles in PD Vehicle Garage (At All Three Stations)",
@@ -413,10 +590,10 @@
 				"Oil Rig Heist Completed - WOOT!",
 				"Adjusted Map Blips: Size, Name, Removed Old Locations, Added New Locations",
 				"Refactored HUD compass. Now includes visible information!",
-				"Updated various HUD elements styling. French blue is neat!", 
+				"Updated various HUD elements styling. French blue is neat!",
 				"Removed irrelevant HUD options in favor of our custom elements. Finally, rejecting fake news!",
 				"Improved HUD behavior for extra wide displays. Inclusive of all display shapes and sizes in 2024!",
-				"Renamed Air Depot to Air Impound and Added Legend to Map",         
+				"Renamed Air Depot to Air Impound and Added Legend to Map",
 
 				"Dev Update",
 				"BUILDING NEW PHONE APPS ~> 20%",
@@ -426,40 +603,38 @@
 			]
 		},
 		{
-			
 			"date": " 04/12/2024 - Mechanic Shop Update / Bugs and Fixes",
 			"changes": [
 				"Fixed Coyote V8 engine swap!",
 				"New Ferrari V12 engine swap!",
 				"New LS7 engine swap!",
 				"New weight reduction tool!",
-				"Removed an unnecessary menu in supply management",  
-				"Slightly rebalanced a few upgrades to ensure meaningful performance changes",  
+				"Removed an unnecessary menu in supply management",
+				"Slightly rebalanced a few upgrades to ensure meaningful performance changes",
 				"Added new engines and tools to Mechanic Crafting menu",
 				"Fixed propstuck function in F1 menu",
-				"Fixed some ped friendly fire issues",    
+				"Fixed some ped friendly fire issues",
 
 				"UPDATE ON DEV PROGRESS: Oil Rig Fixes are 85% complete!",
 				"UPDATE ON DEV PROGRESS: New Non WL JOB ??? 85% complete!"
 			]
 		},
 		{
-			
 			"date": "4/11/2024 - Gang Flags / Heist Update / Car Rework & Engines",
 			"changes": [
 				"Whitelisted Gang Block Flags are Back! {Increased visible radius} LIVE NOW!",
-                
-				"Vangelico Jewelry Store Updates!",
-                "Drastically Changed Amount of Loot Dropped Per Display Case.",
-                "Total Heist Payout Increased to 180-210k {Pawnshop Smelting Required}.",
-                "Adjusted Hacking Equipment Required Due to Payout Increase.",
-                "Reworked Office Hacking with Intended Item.",
-                "Adjusted Office Loot",
 
-                "Fleeca Bank Trucks Update!",
-                "Adjusted Payout on Fleeca Bank Truck to 38-40k.",
-                "Adjusted Loot Drops on Trucks.",
-                "Adjusted Bugs with Bank Trucks Causing Limited Movement.",
+				"Vangelico Jewelry Store Updates!",
+				"Drastically Changed Amount of Loot Dropped Per Display Case.",
+				"Total Heist Payout Increased to 180-210k {Pawnshop Smelting Required}.",
+				"Adjusted Hacking Equipment Required Due to Payout Increase.",
+				"Reworked Office Hacking with Intended Item.",
+				"Adjusted Office Loot",
+
+				"Fleeca Bank Trucks Update!",
+				"Adjusted Payout on Fleeca Bank Truck to 38-40k.",
+				"Adjusted Loot Drops on Trucks.",
+				"Adjusted Bugs with Bank Trucks Causing Limited Movement.",
 
 				"Bobcat Security Depot!",
 				"Increased Bobcat Payout to 180-220k.",
@@ -474,20 +649,19 @@
 			]
 		},
 		{
-			
 			"date": "3/29/2024 - 4/10/2024 - WL Job Changes/ Bug Fixes / QOL Changes",
 			"changes": [
 				"Modified and updated the Progress Bar and Skill Check Bar with a new, clean look!",
-                "Buffed plant picking; you now pick 2-4 at a time! {Healing Agents}",
-                "Changed spawn location for T2 VIP apartments.",
-                "Contracts for trucking now come in every minute {changed from 10 mins}.",
-                "Removed broken cat textures {no more demon cats}.",
-                "PD's pay has been buffed to match EMS pay.",
-                "Added ATMs near car repair stations at LSPD, SAST, & BSCO stations",
-                "Removed a broken helicopter and replaced it with another.",
-                "Added 2 new heat vehicles: Viper and Camaro {may take a few restarts to be available}.",
-                "Removed the 2018 Mustang from PD Heat Garage and fixed ranks missing from PD Garage.",
-                "Fixed prison bus spawn for UPD.",
+				"Buffed plant picking; you now pick 2-4 at a time! {Healing Agents}",
+				"Changed spawn location for T2 VIP apartments.",
+				"Contracts for trucking now come in every minute {changed from 10 mins}.",
+				"Removed broken cat textures {no more demon cats}.",
+				"PD's pay has been buffed to match EMS pay.",
+				"Added ATMs near car repair stations at LSPD, SAST, & BSCO stations",
+				"Removed a broken helicopter and replaced it with another.",
+				"Added 2 new heat vehicles: Viper and Camaro {may take a few restarts to be available}.",
+				"Removed the 2018 Mustang from PD Heat Garage and fixed ranks missing from PD Garage.",
+				"Fixed prison bus spawn for UPD.",
 				"Removed a broken PD boat and replaced it with a working one {looking to add more boats soon as well}.",
 				"Removed duplicate PDM dealership blips.",
 				"Fixed VIP and import dealership blips.",
@@ -515,97 +689,89 @@
 				"UPDATE ON DEV PROGRESS: Oil Rig Fixes are 80% complete!"
 			]
 		},
-        {
-			
+		{
 			"date": "3/28/2024 - Boosting Update/ Bug Fixes / Casino Additions",
 			"changes": [
 				"Added Additional Vehicles through D-B Class",
-                "Multiple Boosting Exclusive 1of1 caliber vehicles added to S  Class",
-                "Adjusted Store S Coin Costs",
-                "Adjusted S Coin earned throughout All Classes",
-                "Adjusted VIN Scratch Cost throughout All Classes",
-                "Adjusted Experience Earned Per Boost for B and A Class",
-                "Fixed Broken Electrical Locations while doing prison time",
-                "Fixed a Exploit with Whitelisted F10 Gang Menu",
-                "Added New Poker Tournament Room  [Casino Interior Made by Bigoz  aka Ricky Yall best give dis man some appreciation yall poker demons]",
-                "Added Tv's & Speaker System to Poker Tournament Room",
-                "Added 5 High Stakes Texas Hold em Tables to Poker Tournament Room"
-			]
-		},
-        {
-			
-			"date": "3/21/2024",
-			"changes": [
-				"Added 6 New EU Timezone Rare Airdrops",
-                "Added 2 New NA Timezone Rare Airdrops",
-                "Increased  Rare Item Drop Rates on Certain Airdrops",
-                "Removed Blips from Personally Called in Airdrops",
-                "Fixed a Bug with Contract Times - For Trucking Logistics Job {Should now produce contracts at the correct rate}",
-                "Fixed a Bug with Payouts - For Trucking Logistics Job",
-                "Moved Fishing Ped at Pier so its not in the way of the door"
-			]
-		},
-        {
-			
-			"date": "3/20/2024",
-			"changes": [
-				"Removed 2 Bad Delivery Locations for Trucking Logistics Job",
-                "Buffed Payouts Significantly For Trucking Logistics Job",
-                "Slightly increased xp gains  For Trucking Logistics Job",
-                "Increased the amount of money Hired Drivers can make passively  For Trucking Logistics Job"
-			]
-		},
-        {
-			
-			"date": "3/19/2024",
-			"changes": [
-				"Reverted Blunt Changes [LIVE NOW]",
-                "Lowered Purchased Air Drop Signal Peso Costs [LIVE @ TSUNAMI]",
-                "Slightly Lowered Schematic Peso Costs [LIVE @ TSUNAMI]",
-                "Significantly Lowered Peso Costs for a few smuggling items [LIVE @ TSUNAMI]",
-                "Fixed a bug with the Taxation Menu items that would not let you take the items"
-			]
-		},
-        {
-			
-			"date": "03/06/2024",
-			"changes": [
-				"Re-pushed couple of scripts that got reverted {Radio Update, Battlepass Emotes, Rentals Blips, etc}",
-                "Added New Boosted Drop 4 Total Hint: New Drop Time - wink wink - Bobby",
-                "Buffed Peso Payout for all drop types",
-                "Drops should now happen every hour even throughout EU Times.",
-                "Buffed Schematic Drop Rates on Certain Drops",
-                "Cayo Respawn : Fixed Exploit allowing you to open inventory while dead",
-                "Cayo Respawn : Improved Compatibility for false Respawns",
-                "Cayo Respawn : Fixed Bug  of Being able to spawn R to respawn immediately",
-                "Cayo Respawn : Fixed Bug where you would sometimes not be revived when respawning on the beach",
-                "Cayo Respawn : Fixed Bug where you could not use the crim doc while in the new respawn. It should now cancel the respawn process",
-                "Please Report any additional bugs you guys come across ❤️ - Viper Dev Team"
-			]
-		},
-        {
-			
-			"date": "03/05/2024 - 03/06/2024",
-			"changes": [
-				"Automatic Cayo Revive System,  After 5 mins you may respawn on the mainland No F8 Required",
-                "Added 2 Rental Spots for New Cayo Revive system",
-                "Added 2 Atms for New Cayo Revive System",
-                "Added New Used Car Lot Business",
-                "Updated radio",
-                "New update for the speedometer, it now has 2 different modes (use the radial menu) and supports both km and mph based on your gta settings!",
-                "New functionality for the clothing menu, now you can rotate your character with right and left arrow!"
-			]
-		},
-        {
-			
-			"date": "03/04/2024",
-			"changes": [
-				"Fixed Bug With viper-smuggling {Live Now!}",
-                "Fixed issue with MLO Collision on Cayo [Blocked door] {FIXED FOR NEXT RESTART}"
+				"Multiple Boosting Exclusive 1of1 caliber vehicles added to S  Class",
+				"Adjusted Store S Coin Costs",
+				"Adjusted S Coin earned throughout All Classes",
+				"Adjusted VIN Scratch Cost throughout All Classes",
+				"Adjusted Experience Earned Per Boost for B and A Class",
+				"Fixed Broken Electrical Locations while doing prison time",
+				"Fixed a Exploit with Whitelisted F10 Gang Menu",
+				"Added New Poker Tournament Room  [Casino Interior Made by Bigoz  aka Ricky Yall best give dis man some appreciation yall poker demons]",
+				"Added Tv's & Speaker System to Poker Tournament Room",
+				"Added 5 High Stakes Texas Hold em Tables to Poker Tournament Room"
 			]
 		},
 		{
-			
+			"date": "3/21/2024",
+			"changes": [
+				"Added 6 New EU Timezone Rare Airdrops",
+				"Added 2 New NA Timezone Rare Airdrops",
+				"Increased  Rare Item Drop Rates on Certain Airdrops",
+				"Removed Blips from Personally Called in Airdrops",
+				"Fixed a Bug with Contract Times - For Trucking Logistics Job {Should now produce contracts at the correct rate}",
+				"Fixed a Bug with Payouts - For Trucking Logistics Job",
+				"Moved Fishing Ped at Pier so its not in the way of the door"
+			]
+		},
+		{
+			"date": "3/20/2024",
+			"changes": [
+				"Removed 2 Bad Delivery Locations for Trucking Logistics Job",
+				"Buffed Payouts Significantly For Trucking Logistics Job",
+				"Slightly increased xp gains  For Trucking Logistics Job",
+				"Increased the amount of money Hired Drivers can make passively  For Trucking Logistics Job"
+			]
+		},
+		{
+			"date": "3/19/2024",
+			"changes": [
+				"Reverted Blunt Changes [LIVE NOW]",
+				"Lowered Purchased Air Drop Signal Peso Costs [LIVE @ TSUNAMI]",
+				"Slightly Lowered Schematic Peso Costs [LIVE @ TSUNAMI]",
+				"Significantly Lowered Peso Costs for a few smuggling items [LIVE @ TSUNAMI]",
+				"Fixed a bug with the Taxation Menu items that would not let you take the items"
+			]
+		},
+		{
+			"date": "03/06/2024",
+			"changes": [
+				"Re-pushed couple of scripts that got reverted {Radio Update, Battlepass Emotes, Rentals Blips, etc}",
+				"Added New Boosted Drop 4 Total Hint: New Drop Time - wink wink - Bobby",
+				"Buffed Peso Payout for all drop types",
+				"Drops should now happen every hour even throughout EU Times.",
+				"Buffed Schematic Drop Rates on Certain Drops",
+				"Cayo Respawn : Fixed Exploit allowing you to open inventory while dead",
+				"Cayo Respawn : Improved Compatibility for false Respawns",
+				"Cayo Respawn : Fixed Bug  of Being able to spawn R to respawn immediately",
+				"Cayo Respawn : Fixed Bug where you would sometimes not be revived when respawning on the beach",
+				"Cayo Respawn : Fixed Bug where you could not use the crim doc while in the new respawn. It should now cancel the respawn process",
+				"Please Report any additional bugs you guys come across ❤️ - Viper Dev Team"
+			]
+		},
+		{
+			"date": "03/05/2024 - 03/06/2024",
+			"changes": [
+				"Automatic Cayo Revive System,  After 5 mins you may respawn on the mainland No F8 Required",
+				"Added 2 Rental Spots for New Cayo Revive system",
+				"Added 2 Atms for New Cayo Revive System",
+				"Added New Used Car Lot Business",
+				"Updated radio",
+				"New update for the speedometer, it now has 2 different modes (use the radial menu) and supports both km and mph based on your gta settings!",
+				"New functionality for the clothing menu, now you can rotate your character with right and left arrow!"
+			]
+		},
+		{
+			"date": "03/04/2024",
+			"changes": [
+				"Fixed Bug With viper-smuggling {Live Now!}",
+				"Fixed issue with MLO Collision on Cayo [Blocked door] {FIXED FOR NEXT RESTART}"
+			]
+		},
+		{
 			"date": "01/30/2024 - 02/08/2024",
 			"changes": [
 				"Increased Payouts for Fleeca Banks to ~140k-200k",
@@ -619,7 +785,6 @@
 			]
 		},
 		{
-			
 			"date": "01/26/2024 - 01/30/2024",
 			"changes": [
 				"Added New WL Gang Script",

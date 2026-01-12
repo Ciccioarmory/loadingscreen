@@ -4,40 +4,46 @@
     "music_start_index": 0,
     "music_links": [
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/TeddySwimsAreYouEvenReal.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/teddyswimsareyouevenreal.mp3",
-            "author": "Teddy Swims",
-            "song_name": "Are You Even Real"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/morgan.png",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Morgan_Wallen_Dont_We.mp3",
+            "author": "Morgan Wallen",
+            "song_name": "Don't We"
         },
         { 
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/MoneyManSidewayz.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/MoneyManSidewayz.mp3",
-            "author": "MoneyMan",
-            "song_name": "Sidewayz"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/aboogie.png",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/A_Boogie_wit_da_hoodie_%20Not_a_Regular_Person.mp3",
+            "author": "A Boogie wit da Hoodie",
+            "song_name": "Not a Regular Person"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/LitheFallBackftNAV.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/LitheFallBackftNAV.mp3",
-            "author": "Lithe",
-            "song_name": "FallBack ft. NAV"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/kanye_west.png",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Kanye_West_All_Falls_Down.mp3",
+            "author": "Kanye West",
+            "song_name": "All Falls Down"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/DaBoiiBananas.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/DaBoiiBananas.mp3",
-            "author": "DaBoii",
-            "song_name": "Bananas"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/pooh.png",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Pooh_Shiesty_FDO.mp3",
+            "author": "Pooh Shiesty",
+            "song_name": "FDO"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/22GzTwirlanta.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/22GzTwirlanta.mp3",
-            "author": "22Gz",
-            "song_name": "Twirlanta"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/playboy.png",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Playboi_Carti_wokeuplikethis.mp3",
+            "author": "Playboi Carti",
+            "song_name": "wokeuplikethis"
         },
-                {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/artistpics/BensonBooneBeautifulThings.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/main/music/BensonBooneBeautifulThings.mp3",
-            "author": "Benson Boone",
-            "song_name": "Beautiful Things"
+        {
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/tate.png",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Tate_McRae_2_hands.mp3",
+            "author": "Tate McRae",
+            "song_name": "2 Hands"
+        },        
+        {
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/game.png",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/The_Game_Ali_Bomaye.mp3",
+            "author": "The Game",
+            "song_name": "Alibomaye"
         }
     ]
 }
