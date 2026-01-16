@@ -1,9 +1,9 @@
 {
-    "enabled": false,
+    "enabled": true,
     "type": "sale",
-    "title": "🔥 MEGA SALE!",
-    "message": "50% OFF all VIP packages - Limited time only!",
-    "badge": "SAVE 50%",
-    "link": "https://viperroleplay.tebex.io/category/vipergcbundles",
-    "expiresAt": 1736812800
+    "title": "🔥 FLASH SALE!",
+    "message": "30% OFF all VIP packages, GOLD COINS , BUSINESSES - Limited time only! 1/16-1/19",
+    "badge": "SAVE 30%",
+    "link": "https://viperroleplay.tebex.io",
+    "expiresAt": 1768885150
 }
