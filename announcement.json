@@ -1,8 +1,8 @@
 {
-    "enabled": false,
+    "enabled": true,
     "type": "sale",
     "title": "🔥 FLASH SALE!",
-    "message": "30% OFF all VIP packages, GOLD COINS , BUSINESSES. Limited time only! 1/16-1/19",
+    "message": "30% OFF all VIP packages, GOLD COINS , BUSINESSES. This is the only sale of the month!",
     "badge": "SAVE 30%",
     "link": "https://viperroleplay.tebex.io",
     "expiresAt": 1968885150
