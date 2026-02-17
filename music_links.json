@@ -52,10 +52,10 @@
             "song_name": "Show Goes On"
         },        
         {
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/akonz.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/akonbeautiful.mp3",
-            "author": "Akon",
-            "song_name": "Beautiful"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/babystone.jpg",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Baby%20Stone%20Gorillas%20Mainline.mp3",
+            "author": "Baby Stone Gorillas",
+            "song_name": "Mainline"
         }
     ]
 }
