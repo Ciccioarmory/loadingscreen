@@ -4,52 +4,52 @@
     "music_start_index": 0,
     "music_links": [
         {
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/kidcudi.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/soundtrack2.mp3",
-            "author": "Kid Cuddi",
-            "song_name": "Soundtrack 2 My Life"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/Whiskey.jpg",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Whiskey%20Myers%20-%20Bury%20My%20Bones%20(Lyrics).mp3",
+            "author": "Whiskey Myers",
+            "song_name": "Bury My Bones"
         },
         { 
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/liltecca.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/diditagain.mp3",
-            "author": "Lil Tecca",
-            "song_name": "Did It Again"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/image.png",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Fall%20Out%20Boy%20-%20Sugar%2C%20We're%20Goin%20Down%20(Lyrics).mp3",
+            "author": "Fall Out Boy",
+            "song_name": "Sugar, We're Goin' Down"
         },
         {
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/Shorline.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/musty.mp3",
-            "author": "Shoreline Mafia",
-            "song_name": "Musty"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/bep.webp",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/The%20Black%20Eyed%20Peas%20-%20Where%20Is%20The%20Love_%20(Lyrics).mp3",
+            "author": "The Black Eyed Peas",
+            "song_name": "Where Is The Love"
         },
         {
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/lilkeed.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/lilkeedname.mp3",
-            "author": "Lil Keed",
-            "song_name": "Nameless"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/offset.jpg",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/OffsetJID.mp3",
+            "author": "Offset & JID",
+            "song_name": "Bodies"
         },
         {
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/godd.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/goofy.mp3",
-            "author": "KGodd",
-            "song_name": "Goofy"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/Drakeo.png",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Drakeo%20The%20Ruler%20Flu%20Flamming%20(WSHH%20Exclusive%20-%20Official%20Music%20Video).mp3",
+            "author": "Drakeo The Ruler",
+            "song_name": "Flu Flamming"
         },
         {
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/floridageorgia.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/florida.mp3",
-            "author": "Flordia Georgia Line",
-            "song_name": "Anything Goes"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/dontoliver.jpg",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Don%20Toliver%20-%20KRYPTONITE%20%5BOfficial%20Audio%5D.mp3",
+            "author": "Don Toliver",
+            "song_name": "Kryptonite"
         },        
         {
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/nebukinza.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/gassedup.mp3",
-            "author": "Nebu Kiniza",
-            "song_name": "Gassed Up"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/djo.avif",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Djo%20-%20End%20Of%20Beginning%20(Lyrics).mp3",
+            "author": "Djo",
+            "song_name": "End Of Beginning"
         },        
         {
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/laser.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/showgoeson.mp3",
-            "author": "Lupe Fiasco",
-            "song_name": "Show Goes On"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/ClaraLaSan.jpg",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Clara%20La%20San%20Unplanned.mp3",
+            "author": "Clara La San",
+            "song_name": "Unplanned"
         },        
         {
             "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/babystone.jpg",
