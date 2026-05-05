@@ -4,58 +4,22 @@
     "music_start_index": 0,
     "music_links": [
         {
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/Whiskey.jpg",
-            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Whiskey%20Myers%20-%20Bury%20My%20Bones%20(Lyrics).mp3",
-            "author": "Whiskey Myers",
-            "song_name": "Bury My Bones"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/ToosiiFavoriteSong.jpg",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/tony.mp3",
+            "author": "Toosii",
+            "song_name": "Favorite Song"
         },
         { 
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/50.png",
-            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/I'llWhipYaHeadBoy.mp3",
-            "author": "50 Cent",
-            "song_name": "I'll Whip Ya Head Boy"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/seeyouagain.jpg",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/seeyouagain.mp3",
+            "author": "Wiz Khalifa - ft. Charlie Puth", 
+            "song_name": "See You Again"
         },
         {
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/bep.webp",
-            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/The%20Black%20Eyed%20Peas%20-%20Where%20Is%20The%20Love_%20(Lyrics).mp3",
-            "author": "The Black Eyed Peas",
-            "song_name": "Where Is The Love"
-        },
-        {
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/offset.jpg",
-            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/OffsetJID.mp3",
-            "author": "Offset & JID",
-            "song_name": "Bodies"
-        },
-        {
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/lucki.png",
-            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/ittaketime.mp3",
-            "author": "Lucki",
-            "song_name": "It Takes Time"
-        },
-        {
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/dontoliver.jpg",
-            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Don%20Toliver%20-%20KRYPTONITE%20%5BOfficial%20Audio%5D.mp3",
-            "author": "Don Toliver",
-            "song_name": "Kryptonite"
-        },        
-        {
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/djo.avif",
-            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Djo%20-%20End%20Of%20Beginning%20(Lyrics).mp3",
-            "author": "Djo",
-            "song_name": "End Of Beginning"
-        },        
-        {
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/ClaraLaSan.jpg",
-            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Clara%20La%20San%20Unplanned.mp3",
-            "author": "Clara La San",
-            "song_name": "Unplanned"
-        },        
-        {
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/babystone.jpg",
-            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Baby%20Stone%20Gorillas%20Mainline.mp3",
-            "author": "Baby Stone Gorillas",
-            "song_name": "Mainline"
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/poloG.jpg",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/barelyholdinon.mp3",
+            "author": "Polo G", 
+            "song_name": "Barely Holding On"
         }
     ]
 }
