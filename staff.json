@@ -57,7 +57,7 @@
 		},
 		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/scott.png",
-			"position": "Senior Admin",
+			"position": "Head Admin",
 			"name": "Scott"
 		},
 		{
@@ -86,6 +86,16 @@
 			"name": "Carlos"
 		},
 		{
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
+			"position": "Senior Admin",
+			"name": "Susie"
+		},
+		{
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
+			"position": "Senior Admin",
+			"name": "Tokyo"
+		},
+		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/gracie.png",
 			"position": "Admin",
 			"name": "Gracie"
@@ -94,16 +104,6 @@
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/kane.png",
 			"position": "Admin",
 			"name": "Kane"
-		},
-		{
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
-			"position": "Admin",
-			"name": "Susie"
-		},
-		{
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
-			"position": "Admin",
-			"name": "Tokyo"
 		},
 		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/sam.png",
@@ -134,6 +134,31 @@
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
 			"position": "Moderator",
 			"name": "Alexander"
+		},
+		{
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
+			"position": "Moderator",
+			"name": "Squirrel McNut"
+		},
+		{
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
+			"position": "Moderator",
+			"name": "Weilong"
+		},
+		{
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
+			"position": "Moderator",
+			"name": "AJ"
+		},
+		{
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
+			"position": "Moderator",
+			"name": "Z"
+		},
+		{
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
+			"position": "Discord Mod",
+			"name": "Poky"
 		},
 		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/lo.png",
