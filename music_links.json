@@ -4,22 +4,34 @@
     "music_start_index": 0,
     "music_links": [
         {
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/ToosiiFavoriteSong.jpg",
-            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/tony.mp3",
-            "author": "Toosii",
-            "song_name": "Favorite Song"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/Future.jpg",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Future%20Trillionaire.mp3",
+            "author": "Future FT Youngboy Never Broke Again",
+            "song_name": "Trillionaire"
         },
         { 
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/seeyouagain.jpg",
-            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/seeyouagain.mp3",
-            "author": "Wiz Khalifa - ft. Charlie Puth", 
-            "song_name": "See You Again"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/iceman.jpg",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/JaniceSTFU.mp3",
+            "author": "Drake", 
+            "song_name": "Janice STFU"
         },
         {
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/poloG.jpg",
-            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/barelyholdinon.mp3",
-            "author": "Polo G", 
-            "song_name": "Barely Holding On"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/Lud%20Foe.jpg",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/LudFoeInAndOut.mp3",
+            "author": "Lud Foe", 
+            "song_name": "In And Out"
+        },
+        {
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/21%20Savage%20rc.jpg",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/MRRECOUP.mp3",
+            "author": "21 Savage", 
+            "song_name": "Mr. Recoup"
+        },
+        {
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/twenty%20three.jpg",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/twentythreeQueenSt.mp3",
+            "author": "Twenty Three", 
+            "song_name": "Queen Street"
         }
     ]
 }
