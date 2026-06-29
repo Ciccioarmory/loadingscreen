@@ -4,22 +4,22 @@
     "music_start_index": 0,
     "music_links": [
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/Future.jpg",
-            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Future%20Trillionaire.mp3",
-            "author": "Future FT Youngboy Never Broke Again",
-            "song_name": "Trillionaire"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/Akon.jpg",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Akon%20-%20We%20Don't%20Care.mp3",
+            "author": "Akon",
+            "song_name": "We Don't Care"
         },
         { 
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/iceman.jpg",
-            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/JaniceSTFU.mp3",
-            "author": "Drake", 
-            "song_name": "Janice STFU"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/teddy.jpg",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Teddy%20Swims%20-%20Mr.%20Know%20It%20All.mp3",
+            "author": "Teddy Swims", 
+            "song_name": "Mr Know It All"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/Lud%20Foe.jpg",
-            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/LudFoeInAndOut.mp3",
-            "author": "Lud Foe", 
-            "song_name": "In And Out"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/chief.jpg",
+            "url": "ttps://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Chief%20Keef%20Ft%20TERINTINO%20-%20Haha%20Visual%20Prod%20by%20%40twincityceo%20(1).mp3",
+            "author": "Chief Keef", 
+            "song_name": "Ha Ha"
         },
         {
             "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/21%20Savage%20rc.jpg",
@@ -28,10 +28,22 @@
             "song_name": "Mr. Recoup"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/twenty%20three.jpg",
-            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/twentythreeQueenSt.mp3",
-            "author": "Twenty Three", 
-            "song_name": "Queen Street"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/silver.jpg",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Silverstein%20-%20Smile%20In%20Your%20Sleep%20(Official%20Video).mp3",
+            "author": "Silverstein", 
+            "song_name": "Smile In Your Sleep"
+        },
+        {
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/Nudy.jpg",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Young%20Nudy%20-%20Impala%20(432hz).mp3",
+            "author": "Young Nudy", 
+            "song_name": "Impala"
+        },
+        {
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/Gunna.jpg",
+            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/223.mp3",
+            "author": "Gunna", 
+            "song_name": ".223"
         }
     ]
 }
