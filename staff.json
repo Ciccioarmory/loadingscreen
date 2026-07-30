@@ -26,6 +26,11 @@
 			"name": "Sylvester"
 		},
 		{
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/scott.png",
+			"position": "Server Manager",
+			"name": "Scott"
+		},
+		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/rickymapper.png",
 			"position": "Lead Mapper",
 			"name": "Ricky"
@@ -56,19 +61,9 @@
 			"name": "Rue"
 		},
 		{
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/scott.png",
-			"position": "Head Admin",
-			"name": "Scott"
-		},
-		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
 			"position": "Senior Admin",
 			"name": "Ash"
-		},
-		{
-			"imageLink": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/staff/Griffa.png",
-			"position": "Senior Admin",
-			"name": "Griffa"
 		},
 		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/noah.png",
@@ -116,16 +111,6 @@
 			"name": "Wade"
 		},
 		{
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/Jon.png",
-			"position": "Moderator",
-			"name": "Jon Smith"
-		},
-		{
-			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
-			"position": "Moderator",
-			"name": "Yuki"
-		},
-		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
 			"position": "Moderator",
 			"name": "Alexander"
@@ -152,8 +137,28 @@
 		},
 		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
-			"position": "Discord Mod",
+			"position": "Moderator",
 			"name": "Poky"
+		},
+		{
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
+			"position": "Moderator",
+			"name": "Lumen"
+		},
+		{
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/frosty.png",
+			"position": "Moderator",
+			"name": "Frosty"
+		},
+		{
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
+			"position": "Moderator",
+			"name": "Tommy"
+		},
+		{
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
+			"position": "Staff Support",
+			"name": "Nemo"
 		},
 		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/lo.png",
