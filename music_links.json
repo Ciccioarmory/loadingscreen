@@ -4,46 +4,46 @@
     "music_start_index": 0,
     "music_links": [
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/Akon.jpg",
-            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Akon%20-%20We%20Don't%20Care.mp3",
-            "author": "Akon",
-            "song_name": "We Don't Care"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/chief.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Chief%20Keef%20-%20Love%20No%20Thotties%20%5BOfficial%20Audio%5D.mp3",
+            "author": "Chief Keef",
+            "song_name": "Love No Thotties"
         },
         { 
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/teddy.jpg",
-            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Teddy%20Swims%20-%20Mr.%20Know%20It%20All.mp3",
-            "author": "Teddy Swims", 
-            "song_name": "Mr Know It All"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/younhgan.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/JaydaYoungan%20-%2023%20Island%20(Lyrics).mp3",
+            "author": "Jayda Youngan", 
+            "song_name": "23 Island"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/chief.jpg",
-            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Chief%20Keef%20Ft%20TERINTINO%20-%20Haha%20Visual%20Prod%20by%20%40twincityceo%20(1).mp3",
-            "author": "Chief Keef", 
-            "song_name": "Ha Ha"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/soldierkid.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Soldier%20Kidd%20-%20Thug%20Paradise%202%20(Official%20Music%20Video).mp3",
+            "author": "Soldier Kidd", 
+            "song_name": "Thug Paradise 2"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/21%20Savage%20rc.jpg",
-            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/MRRECOUP.mp3",
-            "author": "21 Savage", 
-            "song_name": "Mr. Recoup"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/ella.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Kameron%20Marlowe,%20Ella%20Langley%20-%20Strangers%20(Official%20Music%20Video).mp3",
+            "author": "Ella Langley, Kameron Marlowe", 
+            "song_name": "Strangers"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/silver.jpg",
-            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Silverstein%20-%20Smile%20In%20Your%20Sleep%20(Official%20Video).mp3",
-            "author": "Silverstein", 
-            "song_name": "Smile In Your Sleep"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/trove%20lo.jpeg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Tove%20Lo%20-%20Talking%20Body.mp3",
+            "author": "Tove Lo", 
+            "song_name": "Talking Body"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/Nudy.jpg",
-            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/Young%20Nudy%20-%20Impala%20(432hz).mp3",
-            "author": "Young Nudy", 
-            "song_name": "Impala"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/kodakb.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Kodak%20Black%20-%204th%20Quarter%20Ft%20%20The%20Kolyons%20(PROJECT%20BABY%20MIXTAPE).mp3",
+            "author": "Kodak Black", 
+            "song_name": "4th Quarter ft The Kolyons"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/Gunna.jpg",
-            "url": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/music/223.mp3",
-            "author": "Gunna", 
-            "song_name": ".223"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/migos.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Migos%20-%20All%20Ass%20%5BAudio%20Only%5D.mp3",
+            "author": "Migos", 
+            "song_name": "All Ass"
         }
     ]
 }
