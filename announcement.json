@@ -1,8 +1,8 @@
 {
-    "enabled": false,
+    "enabled": true,
     "type": "sale",
-    "title": "🔥Labor Day Sale🔥",
-    "message": "🔥Entire Store 35% Off , Labor day only ! 🔥",
+    "title": "🔥40% Off Sale🔥",
+    "message": "🔥Entire Store 40% Off, Last day Dont Miss out! ! 🔥",
     "badge": "Check it out",
     "link": "https://viperroleplay.tebex.io/",
     "expiresAt": 1977744757
