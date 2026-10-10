@@ -22,7 +22,7 @@
             "song_name": "Disturbia"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/chinaannemcclain.jpg",
+            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/chinaannemcclain.jpg",
             "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Calling%20All%20The%20Monsters%20-%20Lyric%20Music%20Video%20-%20China%20Anne%20McClain%20-%20%40disneychannelmusic.mp3",
             "author": "China Anne McClain",
             "song_name": "Calling All The Monsters"
@@ -44,12 +44,6 @@
             "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Stranger%20Things%20Season%204%20-%20Running%20Up%20That%20Hill%20(Kate%20Bush)%20TOTEM%20Remix.mp3",
             "author": "Kate Bush",
             "song_name": "Running Up That Hill (TOTEM Remix)"
-        },
-        {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/younhgan.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/music_JaydaYoungan%20-%2023%20Island%20(Lyrics).mp3",
-            "author": "Jayda Youngan",
-            "song_name": "23 Island"
         }
     ]
 }
