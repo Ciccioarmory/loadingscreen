@@ -4,52 +4,52 @@
     "music_start_index": 0,
     "music_links": [
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/poloG.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Polo%20G%20-%20I%20Know%20(Official%20Audio).mp3",
-            "author": "Polo G",
-            "song_name": "I know"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/bobbypickett.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/Bobby%20Pickett%20-%20Monster%20Mash%20%5BHD%5D.mp3",
+            "author": "Bobby Pickett",
+            "song_name": "Monster Mash"
         },
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/chief.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Chief%20Keef%20-%20Love%20No%20Thotties%20%5BOfficial%20Audio%5D.mp3",
-            "author": "Chief Keef",
-            "song_name": "Love No Thotties"
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/andrewgold.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Spooky%20Scary%20Skeletons.mp3",
+            "author": "Andrew Gold",
+            "song_name": "Spooky Scary Skeletons"
         },
-        { 
+        {
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/rihanna.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Rihanna%20-%20Disturbia.mp3",
+            "author": "Rihanna",
+            "song_name": "Disturbia"
+        },
+        {
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/chinaannemcclain.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Calling%20All%20The%20Monsters%20-%20Lyric%20Music%20Video%20-%20China%20Anne%20McClain%20-%20%40disneychannelmusic.mp3",
+            "author": "China Anne McClain",
+            "song_name": "Calling All The Monsters"
+        },
+        {
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/rockwell.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Rockwell%20-%20Somebody's%20Watching%20Me.mp3",
+            "author": "Rockwell",
+            "song_name": "Somebody's Watching Me"
+        },
+        {
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/michaeljackson.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Michael%20Jackson%20-%20Thriller%20(Audio).mp3",
+            "author": "Michael Jackson",
+            "song_name": "Thriller"
+        },
+        {
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/katebush.png",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Stranger%20Things%20Season%204%20-%20Running%20Up%20That%20Hill%20(Kate%20Bush)%20TOTEM%20Remix.mp3",
+            "author": "Kate Bush",
+            "song_name": "Running Up That Hill (TOTEM Remix)"
+        },
+        {
             "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/younhgan.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/JaydaYoungan%20-%2023%20Island%20(Lyrics).mp3",
-            "author": "Jayda Youngan", 
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/music_JaydaYoungan%20-%2023%20Island%20(Lyrics).mp3",
+            "author": "Jayda Youngan",
             "song_name": "23 Island"
-        },
-        {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/soldierkid.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Soldier%20Kidd%20-%20Thug%20Paradise%202%20(Official%20Music%20Video).mp3",
-            "author": "Soldier Kidd", 
-            "song_name": "Thug Paradise 2"
-        },
-        {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/ella.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Kameron%20Marlowe,%20Ella%20Langley%20-%20Strangers%20(Official%20Music%20Video).mp3",
-            "author": "Ella Langley, Kameron Marlowe", 
-            "song_name": "Strangers"
-        },
-        {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/trove%20lo.jpeg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Tove%20Lo%20-%20Talking%20Body.mp3",
-            "author": "Tove Lo", 
-            "song_name": "Talking Body"
-        },
-        {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/kodakb.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Kodak%20Black%20-%204th%20Quarter%20Ft%20%20The%20Kolyons%20(PROJECT%20BABY%20MIXTAPE).mp3",
-            "author": "Kodak Black", 
-            "song_name": "4th Quarter Ft The Kolyons"
-        },
-        {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/migos.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Migos%20-%20All%20Ass%20%5BAudio%20Only%5D.mp3",
-            "author": "Migos", 
-            "song_name": "All Ass"
         }
     ]
 }
