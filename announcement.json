@@ -1,9 +1,9 @@
 {
-    "enabled": false,
+    "enabled": true,
     "type": "sale",
-    "title": "🔥40% Off Sale🔥",
-    "message": "🔥Entire Store 40% Off, Last day Dont Miss out! ! 🔥",
-    "badge": "Check it out",
+    "title": "🔥 Last Day For Preorder Pack! 🔥",
+    "message": "Grab the Preorder Pack before it's gone, today only!",
+    "badge": "Last day",
     "link": "https://viperroleplay.tebex.io/",
-    "expiresAt": 1977744757
+    "expiresAt": 1791935999
 }
