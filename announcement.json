@@ -1,9 +1,8 @@
 {
     "enabled": true,
-    "type": "sale",
-    "title": "🔥 Last Day For Preorder Pack! 🔥",
-    "message": "Grab the Preorder Pack before it's gone, today only!",
-    "badge": "Last day",
-    "link": "https://viperroleplay.tebex.io/",
-    "expiresAt": 1791935999
+    "type": "event",
+    "title": "🎃 Last Halloween Guns / Cars Out Now",
+    "message": "Halloween weapons and vehicles are live in the city — grab them with coins in the coin shop.",
+    "badge": "Limited Time",
+    "expiresAt": 1793491199
 }
