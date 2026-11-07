@@ -157,13 +157,23 @@
 		},
 		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
-			"position": "Discord Mod",
+			"position": "Moderator",
 			"name": "Mike"
 		},
 		{
 			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/lo.png",
-			"position": "Discord Mod",
+			"position": "Moderator",
 			"name": "Lo"
-		}
+		},
+		{
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
+			"position": "Moderator",
+			"name": "Jimmy"
+		},
+		{
+			"imageLink": "https://github.com/Ciccioarmory/loadingscreen/raw/main/images/staff/placeholder.png",
+			"position": "Staff Support",
+			"name": "Berry"
+		},
 	]
 }
