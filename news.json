@@ -1,17 +1,3 @@
 {
-    "items": [
-
-        {
-            "image": "https://media.discordapp.net/attachments/1118010661922951279/1147300179876253876/ViperFiveMBanner.png",
-            "header": "Viper 3.0 Update Has Arrived!",
-            "content": "This Update includes numerous new features and content!  \nNew Robberies & Heists! \nNew Illegal Activities/Items/Locations Reworked 5 Drugs! \nNew Gang Activities! \nNew Civ Jobs! Rework of Old Civ Jobs! \nItem Decay Added  \nQOL updatees for PD/EMS/DOJ! \nPlease see our Discord server for more information."
-        },
-        {
-            "image": "https://media.discordapp.net/attachments/1118010661922951279/1147300179876253876/ViperFiveMBanner.png",
-            "header": "Viper 3.5 Update Has Arrived!",
-            "content": "We have been putting out regular updates during 3.0 but we have also been working on a Massive Push of Updates \nAll together we feel this brings Viper into 3.5!  \nPlease see our Discord server for more information."
-        }
-
-    ]
-
+    "items": []
 }
