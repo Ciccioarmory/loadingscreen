@@ -44,6 +44,30 @@
             "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Stranger%20Things%20Season%204%20-%20Running%20Up%20That%20Hill%20(Kate%20Bush)%20TOTEM%20Remix.mp3",
             "author": "Kate Bush",
             "song_name": "Running Up That Hill (TOTEM Remix)"
+        },
+        {
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/EllaLangley.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Ella%20Langley%20-%20Choosin'%20Texas.mp3",
+            "author": "Ella Langley",
+            "song_name": "Choosin' Texas"
+        },
+        {
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/jamiemiller.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Jamie%20Miller%20-%20Babydoll%20feat.%20Antonio%20Cipriano.mp3",
+            "author": "Jamie Miller ft. Antonio Cipriano",
+            "song_name": "Babydoll"
+        },
+        {
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/morganwallen.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Morgan%20Wallen%20-%20Last%20Thing%20You%20Need.mp3",
+            "author": "Morgan Wallen",
+            "song_name": "Last Thing You Need"
+        },
+        {
+            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/tameimpala.jpg",
+            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Tame%20Impala%20-%20Loser.mp3",
+            "author": "Tame Impala",
+            "song_name": "Loser"
         }
     ]
 }
