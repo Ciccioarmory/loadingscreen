@@ -4,48 +4,6 @@
     "music_start_index": 0,
     "music_links": [
         {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/bobbypickett.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/Bobby%20Pickett%20-%20Monster%20Mash%20%5BHD%5D.mp3",
-            "author": "Bobby Pickett",
-            "song_name": "Monster Mash"
-        },
-        {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/andrewgold.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Spooky%20Scary%20Skeletons.mp3",
-            "author": "Andrew Gold",
-            "song_name": "Spooky Scary Skeletons"
-        },
-        {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/rihanna.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Rihanna%20-%20Disturbia.mp3",
-            "author": "Rihanna",
-            "song_name": "Disturbia"
-        },
-        {
-            "img": "https://raw.githubusercontent.com/Ciccioarmory/loadingscreen/refs/heads/main/images/artistpics/chinaannemcclain.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Calling%20All%20The%20Monsters%20-%20Lyric%20Music%20Video%20-%20China%20Anne%20McClain%20-%20%40disneychannelmusic.mp3",
-            "author": "China Anne McClain",
-            "song_name": "Calling All The Monsters"
-        },
-        {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/rockwell.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Rockwell%20-%20Somebody's%20Watching%20Me.mp3",
-            "author": "Rockwell",
-            "song_name": "Somebody's Watching Me"
-        },
-        {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/michaeljackson.jpg",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Michael%20Jackson%20-%20Thriller%20(Audio).mp3",
-            "author": "Michael Jackson",
-            "song_name": "Thriller"
-        },
-        {
-            "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/katebush.png",
-            "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Stranger%20Things%20Season%204%20-%20Running%20Up%20That%20Hill%20(Kate%20Bush)%20TOTEM%20Remix.mp3",
-            "author": "Kate Bush",
-            "song_name": "Running Up That Hill (TOTEM Remix)"
-        },
-        {
             "img": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/images/artistpics/EllaLangley.jpg",
             "url": "https://github.com/Ciccioarmory/loadingscreen/raw/refs/heads/main/music/Ella%20Langley%20-%20Choosin'%20Texas.mp3",
             "author": "Ella Langley",
