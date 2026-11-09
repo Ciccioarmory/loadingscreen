@@ -1,8 +1,7 @@
 {
     "enabled": true,
     "type": "event",
-    "title": "🎃 Last Halloween Guns / Cars Out Now",
-    "message": "Halloween weapons and vehicles are live in the city — grab them with coins in the coin shop.",
-    "badge": "Limited Time",
-    "expiresAt": 1793491199
+    "title": "🚗 New Promo Car Available",
+    "message": "A brand new promo car is now available — head to the Tebex Room at The Richman Hotel to check it out.",
+    "badge": "New"
 }
