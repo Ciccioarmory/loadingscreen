@@ -1,7 +1,8 @@
 {
     "enabled": true,
     "type": "event",
-    "title": "🚗 New Promo Car Available",
-    "message": "A brand new promo car is now available — head to the Tebex Room at The Richman Hotel to check it out.",
-    "badge": "New"
+    "title": "💥 Biggest Sale of the Year",
+    "message": "50% off the entire store, now through Friday. Everything is delivered right away. 1of1 weapons come as a voucher you can hold, or swap for a same-category weapon you already own.",
+    "badge": "Ends Friday",
+    "expiresAt": 1794632399
 }
